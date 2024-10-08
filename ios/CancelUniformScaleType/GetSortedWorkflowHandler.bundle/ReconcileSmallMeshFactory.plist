@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleHardNumberTarget</key>
+	<string>generateTensorLayerCache</string>
+	<key>getPivotalParamImplement</key>
+	<string>endSmallBorderInstance</string>
+	<key>getSymmetricRangeTarget</key>
+	<string>setLastPrecisionCache</string>
+	<key>setCurrentLayerTarget</key>
+	<string>executeUniqueVariableArray</string>
+	<key>setProtectedSkewXType</key>
+	<string>stopDiscardedMenuReference</string>
+</dict>
+</plist>

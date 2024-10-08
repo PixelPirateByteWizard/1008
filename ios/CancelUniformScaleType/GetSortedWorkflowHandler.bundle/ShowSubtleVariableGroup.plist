@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelPriorBufferHandler</key>
+	<string>getUniformToolBase</string>
+	<key>continuePublicSizeCreator</key>
+	<string>cancelSingleEventHelper</string>
+	<key>generatePrismaticZonePool</key>
+	<string>getFusedNumberHelper</string>
+	<key>getLastSymbolPool</key>
+	<string>setPriorVarCollection</string>
+	<key>keepBackwardGridArray</key>
+	<string>respondKeyHeadImplement</string>
+	<key>mitigateOldBoundInstance</key>
+	<string>scheduleGlobalVarTarget</string>
+	<key>quitCrudeTraversalTarget</key>
+	<string>setNextObjectInstance</string>
+</dict>
+</plist>

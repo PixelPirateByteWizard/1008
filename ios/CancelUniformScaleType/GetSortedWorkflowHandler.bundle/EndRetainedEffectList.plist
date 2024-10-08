@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>setNumericalLatencyManager</key>
+	<string>findDirectlyViewTarget</string>
+	<key>setResilientShapeHandler</key>
+	<string>setAccessibleNumberManager</string>
+	<key>skipAutoCapacitiesType</key>
+	<string>restartNextBoundType</string>
+	<key>stopPrismaticFeatureType</key>
+	<string>cancelDirectViewImplement</string>
+</dict>
+</plist>

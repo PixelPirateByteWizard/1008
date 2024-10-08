@@ -10,8 +10,8 @@
 	<string>app-store-connect</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>com.Securoli</key>
-		<string>Securoli</string>
+		<key>com.C24A48D621AD</key>
+		<string>comC24A48D621AD</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>Apple Distribution</string>

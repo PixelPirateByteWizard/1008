@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutSemanticAudioPool</key>
+	<string>eraseIterativeRangePool</string>
+	<key>getAgileBufferOwner</key>
+	<string>getAgileCenterContainer</string>
+	<key>keepHardIndexManager</key>
+	<string>touchRetainedPositionType</string>
+	<key>keepSingleParameterFactory</key>
+	<string>getUsedParticleObserver</string>
+	<key>pauseBackwardTernaryType</key>
+	<string>getActivatedSizeExtension</string>
+	<key>setImmutableGraphicManager</key>
+	<string>findAdvancedValueContainer</string>
+</dict>
+</plist>
