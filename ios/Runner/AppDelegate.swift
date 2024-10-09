@@ -1,6 +1,6 @@
 import Flutter
 import UIKit
-import SecuroliGongjuRegister
+import EncryptrixMeazaRegister
 
 @main
 @objc class AppDelegate: FlutterAppDelegate {
@@ -9,7 +9,7 @@ import SecuroliGongjuRegister
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
     GeneratedPluginRegistrant.register(with: self)
-    SecuroliGongjuCZHomeRegister.initSecuroliGongjuModule()
+    EncryptrixMeazaCZHomeRegister.initEncryptrixMeazaModule() 
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
 }

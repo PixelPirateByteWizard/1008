@@ -1,4 +1,4 @@
-# app1006
+# jimdo
 
 A new Flutter project.
 

@@ -1,0 +1,11 @@
+framework module EncryptrixMeazaRegister {
+  umbrella header "EncryptrixMeazaRegister.h"
+  export *
+
+  module * { export * }
+}
+
+module EncryptrixMeazaRegister.Swift {
+  header "EncryptrixMeazaRegister-Swift.h"
+  requires objc
+}
