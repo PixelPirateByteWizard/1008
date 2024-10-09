@@ -32,8 +32,8 @@ target 'Runner' do
   use_modular_headers!
 
   flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
-  pod 'SnapKit'
-  pod 'AppsFlyerFramework'
+  # pod 'SnapKit'
+  # pod 'AppsFlyerFramework'
 
   target 'RunnerTests' do
     inherit! :search_paths
