@@ -1,6 +1,6 @@
 import Flutter
 import UIKit
-import EncryptrixMeazaRegister
+import PrioriteaseneedRegister
 
 @main
 @objc class AppDelegate: FlutterAppDelegate {
@@ -9,7 +9,18 @@ import EncryptrixMeazaRegister
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
     GeneratedPluginRegistrant.register(with: self)
-    EncryptrixMeazaCZHomeRegister.initEncryptrixMeazaModule() 
+    // ... existing code ...
+    
+    // Initialize Prioriteaseneed module
+    PrioriteaseneedCZHomeRegister.initPrioriteaseneedModule()
+    
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
+  }
+  
+  override func applicationDidBecomeActive(_ application: UIApplication) {
+    super.applicationDidBecomeActive(application)
+    
+    // Call PrioriteaseneedconfigIdfRequest method
+    PrioriteaseneedCZHomeRegister.PrioriteaseneedconfigIdfRequest()
   }
 }

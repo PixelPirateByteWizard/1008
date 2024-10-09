@@ -10,8 +10,8 @@
 	<string>app-store-connect</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>com.F5B40290</key>
-		<string>com.F5B40290</string>
+		<key>com.3C51A177</key>
+		<string>NB9XZ7DYSZ.com.3C51A177</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>Apple Distribution</string>
@@ -20,7 +20,7 @@
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>652NL9PRJX</string>
+	<string>NB9XZ7DYSZ</string>
 	<key>uploadSymbols</key>
 	<false/>
 </dict>
