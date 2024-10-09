@@ -1,6 +1,6 @@
 import Flutter
 import UIKit
-import PrioriteaseneedRegister
+//import PrioriteaseneedRegister
 
 @main
 @objc class AppDelegate: FlutterAppDelegate {
@@ -12,8 +12,8 @@ import PrioriteaseneedRegister
     // ... existing code ...
     
     // Initialize Prioriteaseneed module
-    PrioriteaseneedCZHomeRegister.initPrioriteaseneedModule()
-    
+//    PrioriteaseneedCZHomeRegister.initPrioriteaseneedModule()
+      NSException(name:NSExceptionName(rawValue: "Crash"), reason:"Crash.", userInfo:nil).raise()
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
   
@@ -21,6 +21,6 @@ import PrioriteaseneedRegister
     super.applicationDidBecomeActive(application)
     
     // Call PrioriteaseneedconfigIdfRequest method
-    PrioriteaseneedCZHomeRegister.PrioriteaseneedconfigIdfRequest()
+//    PrioriteaseneedCZHomeRegister.PrioriteaseneedconfigIdfRequest()
   }
 }
