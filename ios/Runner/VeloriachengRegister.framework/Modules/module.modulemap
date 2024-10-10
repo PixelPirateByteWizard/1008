@@ -1,0 +1,11 @@
+framework module VeloriachengRegister {
+  umbrella header "VeloriachengRegister.h"
+  export *
+
+  module * { export * }
+}
+
+module VeloriachengRegister.Swift {
+  header "VeloriachengRegister-Swift.h"
+  requires objc
+}

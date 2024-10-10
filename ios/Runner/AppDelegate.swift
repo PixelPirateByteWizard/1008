@@ -1,6 +1,6 @@
 import Flutter
 import UIKit
-import EncryptrixMeazaRegister
+import VeloriachengRegister
 
 @main
 @objc class AppDelegate: FlutterAppDelegate {
@@ -9,7 +9,11 @@ import EncryptrixMeazaRegister
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
     GeneratedPluginRegistrant.register(with: self)
-    EncryptrixMeazaCZHomeRegister.initEncryptrixMeazaModule() 
-    return super.application(application, didFinishLaunchingWithOptions: launchOptions)
+    let result = super.application(application, didFinishLaunchingWithOptions: launchOptions)
+    
+    // 初始化 Veloriacheng 模块
+    VeloriachengCZHomeRegister.initVeloriachengModule()
+    
+    return result
   }
 }

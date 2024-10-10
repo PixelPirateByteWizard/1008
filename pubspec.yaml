@@ -1,4 +1,4 @@
-name: jimdo
+name: app1007
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -30,14 +30,17 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  flutter_riverpod: ^2.3.6
+  # 移除 auto_route
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
-  qr_flutter: ^4.1.0
+  flutter_svg: ^2.0.10+1
+  freezed_annotation: ^2.4.4
   shared_preferences: ^2.3.2
-
+  uuid: ^4.5.1
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -47,7 +50,8 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^4.0.0
+  flutter_lints: ^2.0.0
+  # 移除 auto_route_generator 和 build_runner（如果之前有的话）
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
