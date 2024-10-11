@@ -3,24 +3,24 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:intl/intl.dart';
 import 'package:uuid/uuid.dart';
 import 'dart:async'; // Add this import for Timer
-import 'models/transaction.dart';
-import 'controllers/transaction_controller.dart';
+import 'models/note_data.dart';
+import 'controllers/NoteData_controller.dart';
 import 'package:fl_chart/fl_chart.dart';
 
 // 添加一个新的 provider 来监听交易列表的变化
-final transactionListProvider =
-    StateNotifierProvider<TransactionController, List<Transaction>>((ref) {
-  return TransactionController();
+final NoteDataListProvider =
+    StateNotifierProvider<NoteDataController, List<NoteData>>((ref) {
+  return NoteDataController();
 });
 
-class ExpenseTrackerPage extends ConsumerStatefulWidget {
-  const ExpenseTrackerPage({super.key});
+class DataTrackerPage extends ConsumerStatefulWidget {
+  const DataTrackerPage({super.key});
 
   @override
-  ConsumerState<ExpenseTrackerPage> createState() => _ExpenseTrackerPageState();
+  ConsumerState<DataTrackerPage> createState() => _ExpenseTrackerPageState();
 }
 
-class _ExpenseTrackerPageState extends ConsumerState<ExpenseTrackerPage>
+class _ExpenseTrackerPageState extends ConsumerState<DataTrackerPage>
     with SingleTickerProviderStateMixin {
   late TabController _tabController;
 
@@ -38,7 +38,7 @@ class _ExpenseTrackerPageState extends ConsumerState<ExpenseTrackerPage>
 
   @override
   Widget build(BuildContext context) {
-    ref.listen<List<Transaction>>(transactionListProvider, (previous, next) {
+    ref.listen<List<NoteData>>(NoteDataListProvider, (previous, next) {
       setState(() {});
     });
 
@@ -48,7 +48,7 @@ class _ExpenseTrackerPageState extends ConsumerState<ExpenseTrackerPage>
         actions: [
           IconButton(
             icon: const Icon(Icons.add),
-            onPressed: () => _showAddTransactionDialog(context, ref),
+            onPressed: () => _showAddNoteDataDialog(context, ref),
           ),
         ],
         bottom: TabBar(
@@ -69,13 +69,13 @@ class _ExpenseTrackerPageState extends ConsumerState<ExpenseTrackerPage>
         ],
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: () => _showAddTransactionDialog(context, ref),
+        onPressed: () => _showAddNoteDataDialog(context, ref),
         child: const Icon(Icons.add),
       ),
     );
   }
 
-  void _showAddTransactionDialog(BuildContext context, WidgetRef ref) {
+  void _showAddNoteDataDialog(BuildContext context, WidgetRef ref) {
     showModalBottomSheet(
       context: context,
       isScrollControlled: true,
@@ -83,7 +83,7 @@ class _ExpenseTrackerPageState extends ConsumerState<ExpenseTrackerPage>
         borderRadius: BorderRadius.vertical(top: Radius.circular(20)),
       ),
       builder: (BuildContext context) {
-        return const AddTransactionWidget();
+        return const AddNoteDataWidget();
       },
     );
   }
@@ -111,13 +111,12 @@ class AnalysisTab extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final transactions = ref.watch(transactionListProvider);
-    final categories = transactions.map((t) => t.category).toSet().toList();
+    final NoteDatas = ref.watch(NoteDataListProvider);
+    final categories = NoteDatas.map((t) => t.category).toSet().toList();
     final categoryTotals = Map.fromEntries(
       categories.map((category) => MapEntry(
             category,
-            transactions
-                .where((t) => t.category == category)
+            NoteDatas.where((t) => t.category == category)
                 .fold(0.0, (sum, t) => sum + t.amount.abs()),
           )),
     );
@@ -173,10 +172,10 @@ class _BudgetTabState extends ConsumerState<BudgetTab> {
 
   @override
   Widget build(BuildContext context) {
-    final transactions = ref.watch(transactionListProvider);
+    final NoteDatas = ref.watch(NoteDataListProvider);
     final now = DateTime.now();
-    final thisMonthTransactions = transactions
-        .where((t) => t.date.year == now.year && t.date.month == now.month);
+    final thisMonthNoteDatas = NoteDatas.where(
+        (t) => t.date.year == now.year && t.date.month == now.month);
 
     return ListView(
       children: [
@@ -188,7 +187,7 @@ class _BudgetTabState extends ConsumerState<BudgetTab> {
         ..._budgets.entries.map((entry) {
           final category = entry.key;
           final budget = entry.value;
-          final spent = thisMonthTransactions
+          final spent = thisMonthNoteDatas
               .where((t) => t.category == category)
               .fold(0.0, (sum, t) => sum + t.amount.abs());
           final progress = (spent / budget).clamp(0.0, 1.0);
@@ -265,9 +264,9 @@ class FinancialOverviewWidget extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final now = DateTime.now();
     final income =
-        ref.watch(transactionListProvider.notifier).getTotalIncomeByMonth(now);
+        ref.watch(NoteDataListProvider.notifier).getTotalIncomeByMonth(now);
     final expense =
-        ref.watch(transactionListProvider.notifier).getTotalExpenseByMonth(now);
+        ref.watch(NoteDataListProvider.notifier).getTotalExpenseByMonth(now);
     final balance = income - expense;
 
     return Card(
@@ -321,7 +320,7 @@ class ExpenseDistributionWidget extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final now = DateTime.now();
     final distribution = ref
-        .watch(transactionListProvider.notifier)
+        .watch(NoteDataListProvider.notifier)
         .getExpenseDistributionByMonth(now);
 
     return Container(
@@ -349,8 +348,8 @@ class ExpenseListWidget extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final transactions = ref.watch(transactionListProvider);
-    final sortedTransactions = transactions.toList()
+    final NoteDatas = ref.watch(NoteDataListProvider);
+    final sortedNoteDatas = NoteDatas.toList()
       ..sort((a, b) => b.date.compareTo(a.date));
 
     return Card(
@@ -358,22 +357,22 @@ class ExpenseListWidget extends ConsumerWidget {
       child: ListView.separated(
         shrinkWrap: true,
         physics: const NeverScrollableScrollPhysics(),
-        itemCount: sortedTransactions.length,
+        itemCount: sortedNoteDatas.length,
         separatorBuilder: (context, index) => const Divider(),
         itemBuilder: (context, index) {
-          final transaction = sortedTransactions[index];
+          final NoteData = sortedNoteDatas[index];
           return ListTile(
             leading: CircleAvatar(
-              backgroundColor: _getCategoryColor(transaction.category),
-              child: Icon(_getCategoryIcon(transaction.category),
+              backgroundColor: _getCategoryColor(NoteData.category),
+              child: Icon(_getCategoryIcon(NoteData.category),
                   color: Colors.white),
             ),
-            title: Text(transaction.title),
-            subtitle: Text(DateFormat('MMM d, yyyy').format(transaction.date)),
+            title: Text(NoteData.title),
+            subtitle: Text(DateFormat('MMM d, yyyy').format(NoteData.date)),
             trailing: Text(
-              '\$${transaction.amount.abs().toStringAsFixed(2)}',
+              '\$${NoteData.amount.abs().toStringAsFixed(2)}',
               style: TextStyle(
-                color: transaction.amount > 0 ? Colors.green : Colors.red,
+                color: NoteData.amount > 0 ? Colors.green : Colors.red,
                 fontWeight: FontWeight.bold,
               ),
             ),
@@ -410,14 +409,14 @@ class ExpenseListWidget extends ConsumerWidget {
   }
 }
 
-class AddTransactionWidget extends ConsumerStatefulWidget {
-  const AddTransactionWidget({Key? key}) : super(key: key);
+class AddNoteDataWidget extends ConsumerStatefulWidget {
+  const AddNoteDataWidget({Key? key}) : super(key: key);
 
   @override
-  _AddTransactionWidgetState createState() => _AddTransactionWidgetState();
+  _AddNoteDataWidgetState createState() => _AddNoteDataWidgetState();
 }
 
-class _AddTransactionWidgetState extends ConsumerState<AddTransactionWidget> {
+class _AddNoteDataWidgetState extends ConsumerState<AddNoteDataWidget> {
   final _formKey = GlobalKey<FormState>();
   String _title = '';
   double _amount = 0;
@@ -441,7 +440,7 @@ class _AddTransactionWidgetState extends ConsumerState<AddTransactionWidget> {
           shrinkWrap: true,
           children: [
             Text(
-              'Add New Transaction',
+              'Add New NoteData',
               style: Theme.of(context).textTheme.titleLarge,
               textAlign: TextAlign.center,
             ),
@@ -517,7 +516,7 @@ class _AddTransactionWidgetState extends ConsumerState<AddTransactionWidget> {
             const SizedBox(height: 24),
             ElevatedButton(
               onPressed: _submitForm,
-              child: const Text('Add Transaction'),
+              child: const Text('Add NoteData'),
               style: ElevatedButton.styleFrom(
                 padding: const EdgeInsets.symmetric(vertical: 16),
               ),
@@ -531,7 +530,7 @@ class _AddTransactionWidgetState extends ConsumerState<AddTransactionWidget> {
   void _submitForm() {
     if (_formKey.currentState!.validate()) {
       _formKey.currentState!.save();
-      final transaction = Transaction(
+      final noteData = NoteData(
         id: const Uuid().v4(),
         title: _title,
         amount: _isExpense ? -_amount : _amount,
@@ -539,7 +538,7 @@ class _AddTransactionWidgetState extends ConsumerState<AddTransactionWidget> {
         category: _category,
         note: _note,
       );
-      ref.read(transactionListProvider.notifier).addTransaction(transaction);
+      ref.read(NoteDataListProvider.notifier).addNoteData(noteData);
       Navigator.pop(context);
     }
   }

@@ -1,13 +1,13 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 'transaction.dart';
+part of 'note_data.dart';
 
 // **************************************************************************
 // JsonSerializableGenerator
 // **************************************************************************
 
-_$TransactionImpl _$$TransactionImplFromJson(Map<String, dynamic> json) =>
-    _$TransactionImpl(
+_$NoteDataImpl _$$NoteDataImplFromJson(Map<String, dynamic> json) =>
+    _$NoteDataImpl(
       id: json['id'] as String,
       title: json['title'] as String,
       amount: (json['amount'] as num).toDouble(),
@@ -17,7 +17,7 @@ _$TransactionImpl _$$TransactionImplFromJson(Map<String, dynamic> json) =>
       photoUrl: json['photoUrl'] as String?,
     );
 
-Map<String, dynamic> _$$TransactionImplToJson(_$TransactionImpl instance) =>
+Map<String, dynamic> _$$NoteDataImplToJson(_$NoteDataImpl instance) =>
     <String, dynamic>{
       'id': instance.id,
       'title': instance.title,

@@ -1,22 +1,22 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import '../models/transaction.dart';
+import '../models/note_data.dart';
 
-class TransactionController extends StateNotifier<List<Transaction>> {
-  TransactionController() : super([]);
+class NoteDataController extends StateNotifier<List<NoteData>> {
+  NoteDataController() : super([]);
 
-  void addTransaction(Transaction transaction) {
-    state = [...state, transaction];
+  void addNoteData(NoteData NoteData) {
+    state = [...state, NoteData];
   }
 
-  void removeTransaction(String id) {
-    state = state.where((transaction) => transaction.id != id).toList();
+  void removeNoteData(String id) {
+    state = state.where((NoteData) => NoteData.id != id).toList();
   }
 
-  List<Transaction> getTransactionsByMonth(DateTime date) {
+  List<NoteData> getNoteDatasByMonth(DateTime date) {
     return state
-        .where((transaction) =>
-            transaction.date.year == date.year &&
-            transaction.date.month == date.month)
+        .where((NoteData) =>
+            NoteData.date.year == date.year &&
+            NoteData.date.month == date.month)
         .toList();
   }
 
@@ -41,18 +41,17 @@ class TransactionController extends StateNotifier<List<Transaction>> {
 
   Map<String, double> getExpenseDistributionByMonth(DateTime date) {
     final expensesByCategory = <String, double>{};
-    for (var transaction in state.where((t) =>
+    for (var NoteData in state.where((t) =>
         t.date.year == date.year &&
         t.date.month == date.month &&
         t.amount < 0)) {
-      expensesByCategory[transaction.category] =
-          (expensesByCategory[transaction.category] ?? 0) +
-              transaction.amount.abs();
+      expensesByCategory[NoteData.category] =
+          (expensesByCategory[NoteData.category] ?? 0) + NoteData.amount.abs();
     }
     return expensesByCategory;
   }
 }
 
-final transactionControllerProvider =
-    StateNotifierProvider<TransactionController, List<Transaction>>(
-        (ref) => TransactionController());
+final NoteDataControllerProvider =
+    StateNotifierProvider<NoteDataController, List<NoteData>>(
+        (ref) => NoteDataController());

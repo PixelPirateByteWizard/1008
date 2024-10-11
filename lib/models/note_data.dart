@@ -1,11 +1,11 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-part 'transaction.freezed.dart';
-part 'transaction.g.dart';
+part 'note_data.freezed.dart';
+part 'note_data.g.dart';
 
 @freezed
-class Transaction with _$Transaction {
-  const factory Transaction({
+class NoteData with _$NoteData {
+  const factory NoteData({
     required String id,
     required String title,
     required double amount,
@@ -13,8 +13,8 @@ class Transaction with _$Transaction {
     required String category,
     String? note,
     String? photoUrl,
-  }) = _Transaction;
+  }) = _NoteData;
 
-  factory Transaction.fromJson(Map<String, dynamic> json) =>
-      _$TransactionFromJson(json);
+  factory NoteData.fromJson(Map<String, dynamic> json) =>
+      _$NoteDataFromJson(json);
 }
