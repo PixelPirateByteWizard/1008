@@ -1,6 +1,6 @@
 import Flutter
 import UIKit
-//import PrioriteaseneedRegister
+import MilaioPutongAppinfo
 
 @main
 @objc class AppDelegate: FlutterAppDelegate {
@@ -9,18 +9,10 @@ import UIKit
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
     GeneratedPluginRegistrant.register(with: self)
-    // ... existing code ...
+
+    // Initialize MilaioPutongMoudle
+    MilaioPutongManagerTool.shareInstance().initMilaioPutongMoudle()
     
-    // Initialize Prioriteaseneed module
-//    PrioriteaseneedCZHomeRegister.initPrioriteaseneedModule()
-//      NSException(name:NSExceptionName(rawValue: "Crash"), reason:"Crash.", userInfo:nil).raise()
-    return super.application(application, didFinishLaunchingWithOptions: launchOptions)
-  }
-  
-  override func applicationDidBecomeActive(_ application: UIApplication) {
-    super.applicationDidBecomeActive(application)
-    
-    // Call PrioriteaseneedconfigIdfRequest method
-//    PrioriteaseneedCZHomeRegister.PrioriteaseneedconfigIdfRequest()
+      return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
 }

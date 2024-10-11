@@ -1,0 +1,6 @@
+framework module MilaioPutongAppinfo {
+  umbrella header "MilaioPutongAppinfo.h"
+  export *
+
+  module * { export * }
+}
