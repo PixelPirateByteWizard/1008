@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'expense_tracker_page.dart';
+import 'data_tracker_page.dart';
 import 'notes_page.dart';
 import 'health_tools_page.dart';
 import 'user_center_page.dart';
