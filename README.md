@@ -1,16 +1,10 @@
-# feixiaohao
+链动派资讯
 
-A new Flutter project.
+链动派资讯是一款全面的加密货币信息平台，为用户提供实时行情、市值排行、最新资讯以及AI智能助手等功能。无论您是加密货币新手还是经验丰富的投资者，我们都致力于为您提供最及时、最准确的市场洞察和分析工具，助您在瞬息万变的加密货币世界中保持领先。
 
-## Getting Started
+免责声明
 
-This project is a starting point for a Flutter application.
+链动派资讯仅供信息参考之用，不构成任何投资建议。用户应对自己的投资决策负全责。我们不对因使用本应用所提供的信息而导致的任何损失或损害承担责任。加密货币市场具有高风险性，投资者应谨慎行事，并进行充分的研究和风险评估。
 
-A few resources to get you started if this is your first Flutter project:
+[此处可以添加更多详细信息，如安装说明、贡献指南或许可证详情]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

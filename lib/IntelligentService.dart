@@ -51,7 +51,7 @@ class IntelligentService {
 
 class ApiClient {
   static const String _authToken =
-      'sk-pWLQ3H6TCvXZwVQg8f36A14d57704c26888f60D05138D2E0';
+      'sk-N5Wi6kycVv5c0wjVTncNqQOVnDuIrHrNY8IJGD72OVes9YWF';
   static const int _maxRetries = 3;
   static const Duration _initialRetryDelay = Duration(seconds: 2);
 
