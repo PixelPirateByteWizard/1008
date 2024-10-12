@@ -7,66 +7,52 @@ class HelpPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Help & Support'),
+        title: const Text('使用帮助'),
         elevation: 0,
       ),
       body: ListView(
-        padding: const EdgeInsets.all(16.0),
         children: [
-          _buildSectionTitle('Frequently Asked Questions'),
-          const SizedBox(height: 16),
-          _buildFAQItem(
-            'How do I add a new health record?',
-            'To add a new health record:\n\n'
-                '1. Tap the "+" button on the main screen.\n'
-                '2. Choose the type of health data you want to add.\n'
-                '3. Fill in the relevant information.\n'
-                '4. Tap "Save" to store your new record.',
+          Container(
+            color: Theme.of(context).primaryColor,
+            padding: const EdgeInsets.all(16.0),
+            child: const Text(
+              '常见问题',
+              style: TextStyle(
+                  fontSize: 24,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.white),
+            ),
           ),
-          _buildFAQItem(
-            'How can I view my historical data?',
-            'To view your historical health data:\n\n'
-                '1. On the main screen, select the health data type you want to review.\n'
-                '2. Tap the "View History" button.\n'
-                '3. You\'ll see a detailed list of your past records, which you can scroll through or filter as needed.',
-          ),
-          _buildFAQItem(
-            'Can I set reminders for health tasks?',
-            'Yes, you can set reminders for various health tasks:\n\n'
-                '1. Go to the "Health Tools" section.\n'
-                '2. Select "Reminders" from the list.\n'
-                '3. Tap "Add New Reminder" and fill in the details.\n'
-                '4. Choose the frequency and time for your reminder.\n'
-                '5. Save your new reminder, and you\'ll receive notifications as scheduled.',
-          ),
-          const SizedBox(height: 24),
-        ],
-      ),
-    );
-  }
-
-  Widget _buildSectionTitle(String title) {
-    return Text(
-      title,
-      style: const TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
-    );
-  }
-
-  Widget _buildFAQItem(String question, String answer) {
-    return Card(
-      elevation: 2,
-      margin: const EdgeInsets.only(bottom: 16),
-      child: ExpansionTile(
-        title: Text(
-          question,
-          style: const TextStyle(fontWeight: FontWeight.w600),
-        ),
-        children: [
           Padding(
             padding: const EdgeInsets.all(16.0),
-            child: Text(
-              answer,
-              style: const TextStyle(fontSize: 14),
+            child: Column(
+              children: [
+                _buildExpansionTile(
+                  '如何查看加密货币行情?',
+                  '在主页面上,您可以看到加密货币的列表。点击任何一个货币可以查看详细信息,包括价格走势图、交易量和市值等数据。',
+                  Icons.show_chart,
+                ),
+                _buildExpansionTile(
+                  '如何刷新行情数据?',
+                  '在主页面上,下拉列表可以刷新最新的行情数据。我们的数据每5分钟自动更新一次,确保您能看到最新的市场动态。',
+                  Icons.refresh,
+                ),
+                _buildExpansionTile(
+                  '如何创建自定义投资组合?',
+                  '在"我的投资"页面,点击"添加"按钮,然后选择您感兴趣的加密货币并输入持有数量。系统会自动计算您的投资组合价值和收益情况。',
+                  Icons.account_balance_wallet,
+                ),
+                _buildExpansionTile(
+                  '如何设置价格提醒?',
+                  '在任何加密货币的详情页面,点击"设置提醒"按钮。您可以设置价格上涨或下跌到特定水平时接收通知。',
+                  Icons.notifications_active,
+                ),
+                _buildExpansionTile(
+                  '如何阅读和理解价格图表?',
+                  '价格图表显示了加密货币的历史价格走势。您可以选择不同的时间范围(如1天、1周、1月等)来查看。图表上的绿色表示价格上涨,红色表示下跌。',
+                  Icons.insert_chart,
+                ),
+              ],
             ),
           ),
         ],
@@ -74,18 +60,18 @@ class HelpPage extends StatelessWidget {
     );
   }
 
-  Widget _buildContactButton(BuildContext context) {
-    return ElevatedButton.icon(
-      onPressed: () {
-        // TODO: Implement contact support functionality
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('Support contact feature coming soon!')),
-        );
-      },
-      icon: const Icon(Icons.email),
-      label: const Text('Contact Support'),
-      style: ElevatedButton.styleFrom(
-        padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 24),
+  Widget _buildExpansionTile(String title, String content, IconData icon) {
+    return Card(
+      margin: const EdgeInsets.only(bottom: 16),
+      child: ExpansionTile(
+        leading: Icon(icon, color: Colors.blue),
+        title: Text(title, style: const TextStyle(fontWeight: FontWeight.bold)),
+        children: [
+          Padding(
+            padding: const EdgeInsets.all(16.0),
+            child: Text(content, style: const TextStyle(fontSize: 16)),
+          ),
+        ],
       ),
     );
   }

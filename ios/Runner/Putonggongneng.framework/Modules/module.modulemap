@@ -1,6 +1,0 @@
-framework module Putonggongneng {
-  umbrella header "Putonggongneng.h"
-  export *
-
-  module * { export * }
-}
