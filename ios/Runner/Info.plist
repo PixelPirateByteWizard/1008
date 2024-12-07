@@ -19,11 +19,11 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1</string>
+	<string>1.2</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.1</string>
+	<string>1.2</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>
@@ -32,11 +32,11 @@
 		<true/>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>The app requests access to your camera to take and upload photos.</string>
+	<string>The app applies for access to your camera function to take photos and record them in the app</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>The app applies for permission to upload your photo album.</string>
+	<string>The app applies for your photo album function, which can be used to record and customize the cover in the app</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>The app requests access to your photo library to select and upload photos.</string>
+	<string>The app applies for your photo album function, which can be used to record and customize the cover in the app</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
