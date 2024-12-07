@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueLostTextAdapter</key>
+	<string>getDirectlyAssetDelegate</string>
+	<key>convertLargeTextTarget</key>
+	<string>startRelationalLayoutOwner</string>
+	<key>finishMediocreDescriptionStack</key>
+	<string>drawPrimaryColorOwner</string>
+	<key>finishSmallFlagsHandler</key>
+	<string>startSecondVariableTarget</string>
+	<key>getNextLayerCache</key>
+	<string>reconcileSecondAnalogyCache</string>
+	<key>markUniqueNodeInstance</key>
+	<string>getSeamlessButtonExtension</string>
+	<key>pausePriorPolygonCollection</key>
+	<string>showDiversifiedBufferDecorator</string>
+	<key>prepareCurrentBottomBase</key>
+	<string>getAccordionAnalogyTarget</string>
+	<key>setUniqueParamContainer</key>
+	<string>endSimilarParamDelegate</string>
+	<key>syncNewestFlagsOwner</key>
+	<string>trainDenseAllocatorType</string>
+</dict>
+</plist>

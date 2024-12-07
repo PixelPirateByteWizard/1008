@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishCrudeVariableHandler</key>
+	<string>generateFirstMaterialInstance</string>
+	<key>keepLastPriorityGroup</key>
+	<string>setLiteDepthFilter</string>
+	<key>lockUsedParamDecorator</key>
+	<string>retrieveDirectlyParamCreator</string>
+	<key>markImmutableDepthImplement</key>
+	<string>getElasticReplicaInstance</string>
+	<key>optimizeGreatBufferProtocol</key>
+	<string>setOpaqueUtilInstance</string>
+	<key>retainUsedStatusImplement</key>
+	<string>setLiteLeftCreator</string>
+	<key>skipRespectiveTagDelegate</key>
+	<string>streamlinePivotalPrecisionBase</string>
+	<key>trainStandaloneBufferDecorator</key>
+	<string>getSubsequentUtilStack</string>
+</dict>
+</plist>

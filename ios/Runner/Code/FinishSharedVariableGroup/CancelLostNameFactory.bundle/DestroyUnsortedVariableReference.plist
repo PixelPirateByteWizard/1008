@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAutoTailFactory</key>
+	<string>keepSimilarLogInstance</string>
+	<key>getGranularSpriteObserver</key>
+	<string>getCrudeParamContainer</string>
+	<key>limitEasyTimelineCache</key>
+	<string>retainReusableSubpixelImplement</string>
+	<key>readCurrentRightFactory</key>
+	<string>startStandaloneBufferProtocol</string>
+	<key>skipConsultativeOptimizerManager</key>
+	<string>stopOtherPopupFilter</string>
+	<key>skipDisparateEqualizationBase</key>
+	<string>skipMainVarImplement</string>
+	<key>trainDisplayableEffectFilter</key>
+	<string>prepareDenseProgressBarReference</string>
+</dict>
+</plist>

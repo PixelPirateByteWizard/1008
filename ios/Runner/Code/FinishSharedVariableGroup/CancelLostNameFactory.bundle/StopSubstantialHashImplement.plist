@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateDisplayableMetadataObserver</key>
+	<string>setOldTaxonomyStack</string>
+	<key>locateSymmetricParamList</key>
+	<string>replacePermanentSignatureFilter</string>
+	<key>parseSemanticQuaternionPool</key>
+	<string>setEasySceneFactory</string>
+	<key>prepareSynchronousParamType</key>
+	<string>getRetainedSchedulerDecorator</string>
+	<key>resumeElasticDispatcherPool</key>
+	<string>restartIndependentButtonProtocol</string>
+	<key>setSignificantResultExtension</key>
+	<string>updateAdvancedFlagsHandler</string>
+	<key>trainCommonMemberDelegate</key>
+	<string>differentiateCommonCacheInstance</string>
+</dict>
+</plist>

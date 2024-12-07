@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateCustomPaddingDelegate</key>
+	<string>restartHierarchicalSkewYDelegate</string>
+	<key>continueActivatedMenuDelegate</key>
+	<string>getMissedBufferGroup</string>
+	<key>extendRobustModulusImplement</key>
+	<string>convertSimilarIndexProtocol</string>
+	<key>getCustomDescriptionList</key>
+	<string>pauseDifficultAccessoryInstance</string>
+	<key>getDifficultNumberCreator</key>
+	<string>getMultiNormTarget</string>
+	<key>getGranularNavigationExtension</key>
+	<string>finishImmutableIntegerCreator</string>
+	<key>setProtectedNameBase</key>
+	<string>setIntuitiveVisibleStack</string>
+</dict>
+</plist>

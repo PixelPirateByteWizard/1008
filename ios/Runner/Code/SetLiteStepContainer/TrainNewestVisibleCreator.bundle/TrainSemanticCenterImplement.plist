@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getPrimaryNumberHandler</key>
+	<string>getDisparateRowExtension</string>
+	<key>reduceProtectedTweakFactory</key>
+	<string>setActivatedRangeManager</string>
+	<key>setMediocreZoneTarget</key>
+	<string>setNumericalTempleFilter</string>
+	<key>startOtherTopTarget</key>
+	<string>seekAccordionVariableHandler</string>
+</dict>
+</plist>

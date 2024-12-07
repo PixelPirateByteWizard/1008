@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getBackwardParamObserver</key>
+	<string>prepareAgileBufferArray</string>
+	<key>getBackwardProvisionReference</key>
+	<string>keepNormalValueOwner</string>
+	<key>getCurrentStatusType</key>
+	<string>refreshExplicitBoundOwner</string>
+	<key>getGlobalConstantCollection</key>
+	<string>setLastBoundGroup</string>
+	<key>getLastInterfaceImplement</key>
+	<string>setCommonTextList</string>
+	<key>getRetainedVisibleCreator</key>
+	<string>revisitEnabledPreviewHandler</string>
+	<key>keepActivatedCharacterCollection</key>
+	<string>showDeclarativeToolOwner</string>
+	<key>pushDeclarativeLatencyGroup</key>
+	<string>reduceHardGraphicPool</string>
+	<key>setCustomizedNameTarget</key>
+	<string>endSemanticToolProtocol</string>
+</dict>
+</plist>

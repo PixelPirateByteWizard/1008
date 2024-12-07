@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDirectlyMenuTarget</key>
+	<string>setSingleQueueExtension</string>
+	<key>getProtectedBorderHelper</key>
+	<string>prepareMissedChartDecorator</string>
+	<key>keepResilientDepthStack</key>
+	<string>setArithmeticSizeOwner</string>
+	<key>parseResilientGrainFilter</key>
+	<string>pauseAutoCoordBase</string>
+	<key>prepareRapidSkewXCache</key>
+	<string>pauseCrudeGrainType</string>
+	<key>prepareTypicalBufferManager</key>
+	<string>quantizerCriticalIndexCollection</string>
+	<key>skipAutoUsageFilter</key>
+	<string>getUniformTailHelper</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelDirectParamInstance</key>
+	<string>getElasticTweakManager</string>
+	<key>getConcurrentThroughputDelegate</key>
+	<string>retrieveSemanticTimelineArray</string>
+	<key>getPriorDeliveryHandler</key>
+	<string>getCurrentParamType</string>
+	<key>getSustainableCoordType</key>
+	<string>setAutoPetList</string>
+	<key>optimizeAccordionCertificateManager</key>
+	<string>finishMainSpriteContainer</string>
+	<key>prepareConsultativeNodeHelper</key>
+	<string>getUnactivatedBorderFactory</string>
+	<key>skipMediumMovementTarget</key>
+	<string>cancelSynchronousDepthOwner</string>
+</dict>
+</plist>

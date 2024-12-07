@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeSemanticParameterGroup</key>
+	<string>setCrudeRightReference</string>
+	<key>convertSingleFrameStack</key>
+	<string>setStandaloneVariableTarget</string>
+	<key>getNewestUsageCollection</key>
+	<string>analyzeFusedBinaryReference</string>
+	<key>keepSecondListenerStack</key>
+	<string>getConcreteTempleInstance</string>
+	<key>keepSynchronousBufferType</key>
+	<string>startNewestPositionContainer</string>
+	<key>reconcileSemanticTempleHelper</key>
+	<string>startIntermediateBulletCreator</string>
+	<key>skipAutoNameHandler</key>
+	<string>stopCartesianTagProtocol</string>
+	<key>skipEasyVarCreator</key>
+	<string>getArithmeticChallengeCache</string>
+</dict>
+</plist>

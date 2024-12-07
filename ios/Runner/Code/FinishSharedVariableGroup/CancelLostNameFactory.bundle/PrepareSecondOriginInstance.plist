@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustSignificantBorderHandler</key>
+	<string>createOtherButtonDecorator</string>
+	<key>continueCrucialSizeObserver</key>
+	<string>finishPriorParamHandler</string>
+	<key>getSharedDescentGroup</key>
+	<string>exitSimilarVarAdapter</string>
+	<key>reflectHierarchicalParameterBase</key>
+	<string>pauseIntuitiveUtilProtocol</string>
+	<key>setEnabledNumberDelegate</key>
+	<string>setSimilarTempleStack</string>
+	<key>setEnabledSceneFilter</key>
+	<string>startLastParamCreator</string>
+	<key>setUniqueAxisProtocol</key>
+	<string>pauseComprehensiveAnimationDelegate</string>
+	<key>startConcurrentRowProtocol</key>
+	<string>startSeamlessActionPool</string>
+	<key>startSmallGraphFactory</key>
+	<string>finishEnabledProjectDelegate</string>
+</dict>
+</plist>

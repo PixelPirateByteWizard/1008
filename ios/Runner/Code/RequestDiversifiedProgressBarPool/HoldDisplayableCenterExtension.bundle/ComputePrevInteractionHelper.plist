@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelRespectiveScaleAdapter</key>
+	<string>preparePublicPlaybackInstance</string>
+	<key>continueEnabledFragmentOwner</key>
+	<string>pauseConcurrentSineCache</string>
+	<key>displayActivatedVarInstance</key>
+	<string>clearUniformCoordGroup</string>
+	<key>setMediocreVariableHandler</key>
+	<string>pauseAsynchronousStrokeGroup</string>
+	<key>setSemanticStateObserver</key>
+	<string>resetSubsequentLayoutGroup</string>
+</dict>
+</plist>

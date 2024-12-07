@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dividePrevParameterInstance</key>
+	<string>setOriginalLabelFactory</string>
+	<key>getAccordionPopupFactory</key>
+	<string>compareEphemeralPlaybackInstance</string>
+	<key>initializeLostZoneBase</key>
+	<string>captureUniformBatchBase</string>
+	<key>initializePublicValueTarget</key>
+	<string>checkAdvancedProjectionAdapter</string>
+	<key>keepArithmeticNumberExtension</key>
+	<string>getNumericalCurveExtension</string>
+	<key>restartOpaquePreviewList</key>
+	<string>cleanMutableDescriptionCreator</string>
+	<key>restartPrimaryParameterPool</key>
+	<string>getArithmeticVarList</string>
+	<key>setAdvancedVarOwner</key>
+	<string>keepConcreteMonsterImplement</string>
+	<key>streamlineUniformWorkflowAdapter</key>
+	<string>reduceEphemeralComponentReference</string>
+</dict>
+</plist>

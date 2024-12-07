@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMediumAnchorHandler</key>
+	<string>setNextCharacterStack</string>
+	<key>getSubsequentThresholdDelegate</key>
+	<string>startSecondAudioCreator</string>
+	<key>setAssociatedRowAdapter</key>
+	<string>mitigateBeginnerChapterContainer</string>
+	<key>setCartesianBufferCache</key>
+	<string>decoupleFusedVarGroup</string>
+	<key>setOpaqueVariantReference</key>
+	<string>obtainExplicitHeadFilter</string>
+	<key>skipSynchronousHeapReference</key>
+	<string>cancelDisparateDescentObserver</string>
+</dict>
+</plist>

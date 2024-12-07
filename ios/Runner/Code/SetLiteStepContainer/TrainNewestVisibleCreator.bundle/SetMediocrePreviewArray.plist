@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentPermissiveTopFilter</key>
+	<string>pauseFirstEventContainer</string>
+	<key>cloneMediumSampleGroup</key>
+	<string>syncDirectCenterReference</string>
+	<key>getDiscardedControllerType</key>
+	<string>displayAccordionViewInstance</string>
+	<key>getPermissiveCenterDecorator</key>
+	<string>equalUnactivatedIndexOwner</string>
+	<key>mitigateGranularGroupCreator</key>
+	<string>setPivotalPlaybackDecorator</string>
+	<key>prepareNextProgressBarCollection</key>
+	<string>prepareDiscardedEdgeBase</string>
+	<key>pushFusedCardCreator</key>
+	<string>getEnabledTempleBase</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getCustomTraversalTarget</key>
+	<string>prepareSynchronousTimeHelper</string>
+	<key>locateDirectBottomInstance</key>
+	<string>endOtherCursorHandler</string>
+	<key>resizePivotalTempleCollection</key>
+	<string>startSortedSignDecorator</string>
+	<key>resumeAutoStyleCreator</key>
+	<string>startCurrentTempleDecorator</string>
+	<key>setPermissiveNumberAdapter</key>
+	<string>resumeUniformModelProtocol</string>
+	<key>startStaticNumberContainer</key>
+	<string>setAsynchronousLayerAdapter</string>
+	<key>unlockSeamlessVariableInstance</key>
+	<string>restartCriticalAllocatorCollection</string>
+</dict>
+</plist>

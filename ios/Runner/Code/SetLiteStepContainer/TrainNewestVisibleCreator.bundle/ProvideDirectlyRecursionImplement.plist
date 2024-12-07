@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelDelicateMenuBase</key>
+	<string>unlockGlobalBufferHandler</string>
+	<key>enumerateIndependentMissionPool</key>
+	<string>stopSynchronousTextFilter</string>
+	<key>pauseSecondInformationProtocol</key>
+	<string>stopActivatedInfoHelper</string>
+	<key>restartIterativeIntegrationProtocol</key>
+	<string>prepareOpaqueRestrictionFilter</string>
+	<key>setProtectedSessionManager</key>
+	<string>getDiversifiedStatePool</string>
+</dict>
+</plist>

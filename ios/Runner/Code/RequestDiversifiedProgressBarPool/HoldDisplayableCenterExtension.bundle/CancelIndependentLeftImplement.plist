@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endTensorCoordinatorImplement</key>
+	<string>setDisparateSkinHandler</string>
+	<key>getDeclarativeRectangleHandler</key>
+	<string>finishCustomizedInstructionObserver</string>
+	<key>getImmutableParamCollection</key>
+	<string>spinRelationalValueAdapter</string>
+	<key>getIterativeLogarithmHelper</key>
+	<string>restartPrimaryTextDecorator</string>
+	<key>getSeamlessScopeProtocol</key>
+	<string>getSynchronousRightExtension</string>
+	<key>skipPermanentMatrixInstance</key>
+	<string>undertakeCommonIntegrationPool</string>
+</dict>
+</plist>
