@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateSynchronousNumberPool</key>
+	<string>getConcreteItemType</string>
+	<key>getRequiredRightHandler</key>
+	<string>getUsedEqualizationGroup</string>
+	<key>initializeOtherMenuFilter</key>
+	<string>setDifficultTopManager</string>
+	<key>searchBasicNumberFilter</key>
+	<string>releaseDiscardedBufferExtension</string>
+	<key>skipEasyParameterManager</key>
+	<string>respondCustomizedSceneOwner</string>
+	<key>skipPrimaryStyleManager</key>
+	<string>keepExplicitGroupHandler</string>
+</dict>
+</plist>

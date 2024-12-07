@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateDirectlyPreviewBase</key>
+	<string>getCartesianSymbolPool</string>
+	<key>getProtectedBufferDecorator</key>
+	<string>startGreatBufferObserver</string>
+	<key>setSeamlessContrastPool</key>
+	<string>restartSemanticVarDecorator</string>
+	<key>skipIterativeVarManager</key>
+	<string>getSmallSpineObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareDifficultStyleBase</key>
+	<string>trainSmartThresholdObserver</string>
+	<key>continueLostColorObserver</key>
+	<string>setDisparateViewBase</string>
+	<key>getAutoBufferProtocol</key>
+	<string>syncPrismaticReplicaDelegate</string>
+	<key>getDifficultStyleArray</key>
+	<string>cancelSmallEvaluationObserver</string>
+	<key>getPublicMovementContainer</key>
+	<string>cancelNumericalOpacityManager</string>
+	<key>getSustainableTopicType</key>
+	<string>rectifySynchronousTempleTarget</string>
+	<key>skipCustomZoneType</key>
+	<string>clipOtherEqualizationHandler</string>
+	<key>syncRelationalEquipmentInstance</key>
+	<string>initializeCustomRoleTarget</string>
+</dict>
+</plist>

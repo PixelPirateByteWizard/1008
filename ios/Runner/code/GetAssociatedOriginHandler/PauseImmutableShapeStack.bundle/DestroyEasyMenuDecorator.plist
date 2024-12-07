@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discoverElasticPlaybackDelegate</key>
+	<string>initializeProtectedDeliveryManager</string>
+	<key>executeUnsortedTernaryManager</key>
+	<string>enumerateDisplayableGraphAdapter</string>
+	<key>setFusedTempleFactory</key>
+	<string>setBeginnerSizeFilter</string>
+	<key>skipUsedLayerFilter</key>
+	<string>captureMediocreFragmentsList</string>
+	<key>stopAsynchronousRecursionProtocol</key>
+	<string>setReusableLayoutObserver</string>
+	<key>unscheduleEasyTextureImplement</key>
+	<string>getIntuitiveColorExtension</string>
+</dict>
+</plist>

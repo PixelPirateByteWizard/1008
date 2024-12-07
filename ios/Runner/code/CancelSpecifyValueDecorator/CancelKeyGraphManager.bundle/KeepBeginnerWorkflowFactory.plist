@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelReusableProvisionFactory</key>
+	<string>pauseBasicBoundGroup</string>
+	<key>dropoutConcurrentBufferFactory</key>
+	<string>releaseFusedVertexDelegate</string>
+	<key>executeEuclideanMatrixTarget</key>
+	<string>getCrudeIndexCache</string>
+	<key>getUnsortedInfrastructureExtension</key>
+	<string>pauseSymmetricRightHandler</string>
+	<key>stopSmallVarDecorator</key>
+	<string>continueSymmetricOccasionFactory</string>
+</dict>
+</plist>

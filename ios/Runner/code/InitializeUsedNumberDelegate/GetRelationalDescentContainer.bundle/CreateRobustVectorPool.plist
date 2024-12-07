@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getEnabledAssetArray</key>
+	<string>setBackwardPaddingGroup</string>
+	<key>getIgnoredStyleContainer</key>
+	<string>getProtectedParameterProtocol</string>
+	<key>getPrevInfoTarget</key>
+	<string>getPrevBufferContainer</string>
+	<key>getSeamlessLayerFactory</key>
+	<string>getCustomVarHandler</string>
+	<key>prepareOtherVisibleFactory</key>
+	<string>prepareUniformExponentDelegate</string>
+	<key>prepareSpecifyScaleProtocol</key>
+	<string>extendCartesianSpriteTarget</string>
+	<key>readPrevProjectionOwner</key>
+	<string>setSortedBufferStack</string>
+</dict>
+</plist>

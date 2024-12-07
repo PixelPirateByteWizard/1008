@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMultiOriginHandler</key>
+	<string>storeSophisticatedQueueHelper</string>
+	<key>pauseAccordionPopupContainer</key>
+	<string>readProtectedFlagsType</string>
+	<key>revisitArithmeticNodeArray</key>
+	<string>parseGranularNumberHelper</string>
+	<key>setMainMediaOwner</key>
+	<string>reflectSemanticTextContainer</string>
+	<key>startPermanentInterfaceHelper</key>
+	<string>refreshMissedInterpolationManager</string>
+</dict>
+</plist>

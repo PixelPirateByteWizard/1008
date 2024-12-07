@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>differentiateTypicalTimeManager</key>
+	<string>getIndependentVolumeDecorator</string>
+	<key>discoverLostGrainArray</key>
+	<string>initializeHyperbolicGroupStack</string>
+	<key>getDifficultVarFactory</key>
+	<string>prepareNumericalNumberImplement</string>
+	<key>prepareLastObjectManager</key>
+	<string>setDisplayableBufferList</string>
+	<key>reflectMediocreTopicAdapter</key>
+	<string>initializeSmallVisibleReference</string>
+	<key>removeRetainedFragmentsFactory</key>
+	<string>trainRespectiveProjectionImplement</string>
+	<key>setMultiSubpixelReference</key>
+	<string>quitGeometricAssetStack</string>
+	<key>stopUnsortedTrianglesImplement</key>
+	<string>startBasicEvolutionHelper</string>
+</dict>
+</plist>

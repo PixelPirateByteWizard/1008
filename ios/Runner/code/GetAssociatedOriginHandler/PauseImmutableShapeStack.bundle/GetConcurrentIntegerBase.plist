@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateIntuitiveClusterBase</key>
+	<string>stopPermanentButtonGroup</string>
+	<key>createAssociatedActionHandler</key>
+	<string>setIntermediateTopStack</string>
+	<key>dismissLargeOperationFactory</key>
+	<string>getReusableCharacterCollection</string>
+	<key>getDeclarativeMeshDelegate</key>
+	<string>prepareArithmeticDescriptorFactory</string>
+	<key>getDifficultThresholdAdapter</key>
+	<string>initializeSharedParamFactory</string>
+	<key>restartBeginnerChapterGroup</key>
+	<string>getNextDepthCreator</string>
+	<key>searchPublicNumberCreator</key>
+	<string>reflectGeometricNumberCollection</string>
+	<key>setUnactivatedObserverList</key>
+	<string>setStaticMetricsContainer</string>
+</dict>
+</plist>

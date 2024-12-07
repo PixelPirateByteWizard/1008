@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embraceFirstVarType</key>
+	<string>setSharedParamHandler</string>
+	<key>getCurrentDescriptionType</key>
+	<string>getNormalMechanismType</string>
+	<key>refreshCommonVariableHandler</key>
+	<string>eraseExplicitMapGroup</string>
+	<key>retainDiscardedNameType</key>
+	<string>discoverIndependentParticleFilter</string>
+	<key>setSeamlessCapsuleOwner</key>
+	<string>keepCustomMeshDecorator</string>
+	<key>startLiteVariableDelegate</key>
+	<string>continueDisparateVarInstance</string>
+</dict>
+</plist>

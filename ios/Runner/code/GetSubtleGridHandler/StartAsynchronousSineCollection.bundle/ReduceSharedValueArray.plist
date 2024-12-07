@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueUniqueEdgeFactory</key>
+	<string>continueSemanticSignTarget</string>
+	<key>finishAutoIndexGroup</key>
+	<string>setDifficultDocumentCollection</string>
+	<key>restartAccessibleValueBase</key>
+	<string>computeSmallChannelsStack</string>
+	<key>restartSeamlessFrameHelper</key>
+	<string>makeConcurrentTopicList</string>
+	<key>resumeLiteMatrixInstance</key>
+	<string>keepOldScalabilityManager</string>
+	<key>stopFirstTaxonomyPool</key>
+	<string>setReusableValueCollection</string>
+</dict>
+</plist>

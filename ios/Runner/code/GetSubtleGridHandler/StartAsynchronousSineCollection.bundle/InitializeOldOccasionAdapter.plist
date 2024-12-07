@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getNormalRectangleStack</key>
+	<string>setSmallEdgeAdapter</string>
+	<key>pauseSubtleGrainCreator</key>
+	<string>setPrevEdgeExtension</string>
+	<key>prepareConcurrentFrameCreator</key>
+	<string>setSecondVarExtension</string>
+</dict>
+</plist>

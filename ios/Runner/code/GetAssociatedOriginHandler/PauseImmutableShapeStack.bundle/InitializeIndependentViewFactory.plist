@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMutableDistinctionAdapter</key>
+	<string>getRelationalFlagsDecorator</string>
+	<key>prepareAssociatedValueCache</key>
+	<string>getCustomizedReferencePool</string>
+	<key>prepareBasicSampleCollection</key>
+	<string>initializeGranularBufferCache</string>
+	<key>restartHierarchicalVertexManager</key>
+	<string>initializeCommonHistogramType</string>
+	<key>setSophisticatedHistogramExtension</key>
+	<string>continueDisplayableParameterList</string>
+	<key>setUsedStatusHelper</key>
+	<string>finishPermissiveStateImplement</string>
+</dict>
+</plist>

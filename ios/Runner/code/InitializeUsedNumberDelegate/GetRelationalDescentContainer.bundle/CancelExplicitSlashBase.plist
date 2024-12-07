@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateHardConsumptionList</key>
+	<string>setSmartAllocatorObserver</string>
+	<key>decoupleSimilarRectangleObserver</key>
+	<string>setTypicalVisibleStack</string>
+	<key>dropoutNewestArchitectureReference</key>
+	<string>continueKeyCenterInstance</string>
+	<key>enumerateArithmeticInterfaceAdapter</key>
+	<string>convertPrismaticParamCache</string>
+	<key>getPrismaticBoundCollection</key>
+	<string>pauseTypicalLoaderOwner</string>
+	<key>optimizeSortedRemediationTarget</key>
+	<string>generateMediocreBufferGroup</string>
+	<key>resumeSignificantRotationProtocol</key>
+	<string>skipPublicGroupType</string>
+	<key>setBasicSubpixelPool</key>
+	<string>rectifyAsynchronousParamImplement</string>
+	<key>skipAutoBoundProtocol</key>
+	<string>pauseLiteRowCreator</string>
+</dict>
+</plist>

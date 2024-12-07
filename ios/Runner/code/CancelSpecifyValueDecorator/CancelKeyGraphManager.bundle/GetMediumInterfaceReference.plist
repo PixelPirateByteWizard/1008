@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endAgileScenarioFactory</key>
+	<string>parseSinglePositionStack</string>
+	<key>endEphemeralVarFilter</key>
+	<string>limitCustomizedParamCreator</string>
+	<key>endIndependentTextureFactory</key>
+	<string>skipIntermediateFlagsDelegate</string>
+	<key>getConsultativeVariableManager</key>
+	<string>setSortedTailArray</string>
+	<key>restoreUnsortedHashExtension</key>
+	<string>finishMediocreRectangleGroup</string>
+	<key>resumeAutoOptionStack</key>
+	<string>getNormalTempleOwner</string>
+	<key>setAccordionTextPool</key>
+	<string>continueRobustMenuType</string>
+	<key>stopMediumComponentArray</key>
+	<string>startUniformSpriteImplement</string>
+</dict>
+</plist>

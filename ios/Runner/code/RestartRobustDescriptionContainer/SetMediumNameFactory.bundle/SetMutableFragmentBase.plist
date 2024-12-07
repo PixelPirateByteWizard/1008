@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enumerateOpaqueValueContainer</key>
+	<string>touchCrudeDescriptionDecorator</string>
+	<key>getHardHistogramExtension</key>
+	<string>getSingleFeatureDecorator</string>
+	<key>multiplyIterativeNumberAdapter</key>
+	<string>introspectProtectedSignProtocol</string>
+	<key>setEuclideanShaderGroup</key>
+	<string>pauseFusedVectorCreator</string>
+	<key>stopTypicalLayerInstance</key>
+	<string>getPrimaryResultObserver</string>
+	<key>syncEnabledCardDecorator</key>
+	<string>readConcurrentGemFactory</string>
+</dict>
+</plist>

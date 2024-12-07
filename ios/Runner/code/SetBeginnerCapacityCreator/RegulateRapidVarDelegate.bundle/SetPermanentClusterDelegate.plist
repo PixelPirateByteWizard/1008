@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformKeyUtilHandler</key>
+	<string>trainUniqueNotationFilter</string>
+	<key>finishCommonLeftExtension</key>
+	<string>getSimilarOpacityGroup</string>
+	<key>getRobustParameterCreator</key>
+	<string>quitHyperbolicMovementTarget</string>
+	<key>lockIntermediateParamImplement</key>
+	<string>stopIndependentIndexCollection</string>
+	<key>resumeIterativeBufferFilter</key>
+	<string>getDeclarativePermutationExtension</string>
+	<key>setOtherVariableDelegate</key>
+	<string>getSustainableBufferDelegate</string>
+	<key>stopElasticSchedulerManager</key>
+	<string>trainDirectlyResultProtocol</string>
+	<key>trainPrismaticInstructionAdapter</key>
+	<string>getArithmeticTernaryAdapter</string>
+</dict>
+</plist>

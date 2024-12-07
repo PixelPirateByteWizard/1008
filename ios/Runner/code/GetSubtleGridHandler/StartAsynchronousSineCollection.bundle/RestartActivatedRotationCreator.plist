@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getIndependentStyleReference</key>
+	<string>syncRespectiveResolverTarget</string>
+	<key>getIterativeSkewXObserver</key>
+	<string>getHierarchicalBrushCreator</string>
+	<key>resizeNumericalVideoHandler</key>
+	<string>scheduleTensorBufferCreator</string>
+	<key>streamlineRespectivePopupHandler</key>
+	<string>pauseOtherEquivalentManager</string>
+</dict>
+</plist>

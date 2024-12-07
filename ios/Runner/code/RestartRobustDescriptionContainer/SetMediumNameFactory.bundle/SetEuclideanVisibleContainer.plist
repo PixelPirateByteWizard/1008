@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embraceMediumDialogsDecorator</key>
+	<string>skipLargeButtonType</string>
+	<key>getOriginalTimelineStack</key>
+	<string>setAdvancedTweakHelper</string>
+	<key>pauseDirectlyHashReference</key>
+	<string>resumeLastConvolutionManager</string>
+	<key>resumePermanentRangeProtocol</key>
+	<string>upgradePermanentValuePool</string>
+	<key>setMainSceneType</key>
+	<string>generateStaticLabelOwner</string>
+</dict>
+</plist>

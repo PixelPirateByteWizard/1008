@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeRespectiveEventCache</key>
+	<string>getDedicatedCacheBase</string>
+	<key>getCriticalMaterialHandler</key>
+	<string>prepareFirstPaddingCache</string>
+	<key>getSymmetricIntensityHelper</key>
+	<string>enumerateIntermediateParameterStack</string>
+	<key>reconcileIgnoredTitleReference</key>
+	<string>getRapidProjectCache</string>
+	<key>resumeElasticProgressBarCreator</key>
+	<string>stopSubtleActionAdapter</string>
+	<key>setDenseLoaderContainer</key>
+	<string>setOriginalIntegrityReference</string>
+	<key>unscheduleIterativeBottomHandler</key>
+	<string>reduceDirectCycleCreator</string>
+</dict>
+</plist>

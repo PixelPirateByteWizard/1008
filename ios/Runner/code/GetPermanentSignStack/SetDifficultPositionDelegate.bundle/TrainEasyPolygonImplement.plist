@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipSignificantBehaviorCreator</key>
+	<string>createSecondGroupExtension</string>
+	<key>clonePermanentTailStack</key>
+	<string>finishPriorCompositionCreator</string>
+	<key>getSemanticAllocatorGroup</key>
+	<string>setCrucialAllocatorCollection</string>
+	<key>prepareDifficultTempleFilter</key>
+	<string>keepStaticButtonObserver</string>
+	<key>setAsynchronousContractionAdapter</key>
+	<string>getEphemeralBufferProtocol</string>
+	<key>setAsynchronousVolumeDelegate</key>
+	<string>skipCrudeIntegrityHelper</string>
+	<key>skipSemanticReliabilityCache</key>
+	<string>getLargeInitiatorsGroup</string>
+	<key>stopAgileMetadataPool</key>
+	<string>limitSecondHeapManager</string>
+</dict>
+</plist>

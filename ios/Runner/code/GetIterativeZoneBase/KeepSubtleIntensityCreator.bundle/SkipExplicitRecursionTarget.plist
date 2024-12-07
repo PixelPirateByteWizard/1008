@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSubstantialSpriteHelper</key>
+	<string>setRespectiveAlphaOwner</string>
+	<key>getEnabledVarDelegate</key>
+	<string>restartLocalReplicaExtension</string>
+	<key>getSmartSpriteContainer</key>
+	<string>getOtherScaleBase</string>
+	<key>limitDirectlyAssetObserver</key>
+	<string>continueTypicalInterpolationOwner</string>
+	<key>releaseOriginalParamCache</key>
+	<string>restartIntermediateCoordImplement</string>
+	<key>setCustomizedBaselineType</key>
+	<string>touchDelicateChapterCollection</string>
+	<key>showPermissiveFrameFilter</key>
+	<string>equalCriticalModelCache</string>
+	<key>stopCrucialListenerOwner</key>
+	<string>getConcreteMendTarget</string>
+</dict>
+</plist>

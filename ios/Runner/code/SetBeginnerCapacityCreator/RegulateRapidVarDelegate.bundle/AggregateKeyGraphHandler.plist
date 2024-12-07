@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endDiscardedRotationObserver</key>
+	<string>setGlobalDialogsAdapter</string>
+	<key>endRelationalRotationProtocol</key>
+	<string>pauseProtectedRotationHandler</string>
+	<key>finishSimilarTopObserver</key>
+	<string>trainUsedStyleDecorator</string>
+	<key>floatPublicTagContainer</key>
+	<string>holdPermanentParameterProtocol</string>
+	<key>getDisplayableEdgeHandler</key>
+	<string>writeGranularParameterBase</string>
+	<key>prepareSmartHeadCollection</key>
+	<string>locateDirectlyParamDelegate</string>
+	<key>trainDisplayableGrainContainer</key>
+	<string>getEphemeralDescriptorStack</string>
+</dict>
+</plist>

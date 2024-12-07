@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getStandaloneOriginTarget</key>
+	<string>finishLostParameterHelper</string>
+	<key>locateUniqueUsageType</key>
+	<string>setHyperbolicFrameStack</string>
+	<key>prepareEphemeralPopupInstance</key>
+	<string>setTypicalTernaryBase</string>
+	<key>stopElasticCycleAdapter</key>
+	<string>setPrevConfigurationPool</string>
+	<key>updateDeclarativeDisclaimerObserver</key>
+	<string>searchLiteBorderExtension</string>
+</dict>
+</plist>

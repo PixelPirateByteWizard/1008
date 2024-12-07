@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueNumericalParamContainer</key>
+	<string>stopSeamlessNodeContainer</string>
+	<key>getNormalTextureDelegate</key>
+	<string>getSeamlessFeatureContainer</string>
+	<key>introspectIntuitiveTemplePool</key>
+	<string>getLastPreviewStack</string>
+	<key>restartRespectiveStrengthList</key>
+	<string>quantizerMainParamArray</string>
+	<key>setMissedDescriptionContainer</key>
+	<string>setLargeParamList</string>
+	<key>setNewestMultiplicationImplement</key>
+	<string>getRelationalQuaternionArray</string>
+	<key>setSubtleVarImplement</key>
+	<string>requestIndependentResolverFactory</string>
+</dict>
+</plist>

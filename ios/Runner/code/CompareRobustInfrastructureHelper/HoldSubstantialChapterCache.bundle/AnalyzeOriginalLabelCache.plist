@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mitigateMultiMovementFactory</key>
+	<string>playSortedProfileCreator</string>
+	<key>scheduleSemanticValueBase</key>
+	<string>displayStandaloneCapsuleFilter</string>
+	<key>seekMutableOriginFactory</key>
+	<string>cancelNumericalStyleBase</string>
+	<key>setCriticalLeftProtocol</key>
+	<string>generateDisplayableTailCollection</string>
+	<key>setGlobalColorAdapter</key>
+	<string>getRetainedProjectionObserver</string>
+	<key>setUnactivatedOriginManager</key>
+	<string>skipActivatedScaleGroup</string>
+	<key>updateAccessibleQuaternionContainer</key>
+	<string>reduceTypicalMaterialHandler</string>
+</dict>
+</plist>

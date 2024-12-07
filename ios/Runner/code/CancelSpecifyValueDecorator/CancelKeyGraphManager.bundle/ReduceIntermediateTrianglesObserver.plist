@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatePermanentVariableFilter</key>
+	<string>addMediumParameterCollection</string>
+	<key>combineTensorPlateDelegate</key>
+	<string>getStaticSignatureExtension</string>
+	<key>drawFirstPrecisionDecorator</key>
+	<string>keepConsultativeParameterReference</string>
+	<key>endAgileViewArray</key>
+	<string>startMainCycleContainer</string>
+	<key>getDirectTimeArray</key>
+	<string>startOriginalResolverGroup</string>
+	<key>setConsultativeCenterReference</key>
+	<string>finishImmutableDepthPool</string>
+	<key>setOldConfigurationCreator</key>
+	<string>startDelicateBorderImplement</string>
+	<key>setUsedDescriptionContainer</key>
+	<string>setDirectColorObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getHierarchicalRoleDecorator</key>
+	<string>generateSmallUtilCache</string>
+	<key>refreshUnactivatedMenuTarget</key>
+	<string>setGreatTechniqueGroup</string>
+	<key>resumeMultiViewOwner</key>
+	<string>setPrimaryOpacityGroup</string>
+	<key>rotateAsynchronousParameterOwner</key>
+	<string>skipBackwardParameterCache</string>
+</dict>
+</plist>

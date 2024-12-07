@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMainIndexDelegate</key>
+	<string>insteadSecondColorArray</string>
+	<key>renameMediumCubeFactory</key>
+	<string>checkSmartCapsuleAdapter</string>
+	<key>setAccordionIndexFilter</key>
+	<string>endAccessibleDescriptorList</string>
+	<key>setDeclarativeScaleInstance</key>
+	<string>setActivatedQueueDelegate</string>
+	<key>setUsedVariableHandler</key>
+	<string>getNormalRecursionArray</string>
+	<key>trainConcurrentNumberDelegate</key>
+	<string>freeAutoQuaternionBase</string>
+</dict>
+</plist>

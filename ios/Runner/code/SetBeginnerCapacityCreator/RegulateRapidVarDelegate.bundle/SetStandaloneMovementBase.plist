@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueCrudeVariableContainer</key>
+	<string>makeKeyImageGroup</string>
+	<key>dropoutRobustTentativeCache</key>
+	<string>checkDenseAllocatorCreator</string>
+	<key>extendNumericalCursorCache</key>
+	<string>getPivotalResolverAdapter</string>
+	<key>extendPivotalVariableDecorator</key>
+	<string>resetSemanticResolverCache</string>
+	<key>resumeDirectConfigurationType</key>
+	<string>replaceSubtleTimeReference</string>
+	<key>setGeometricBaseCollection</key>
+	<string>rotateCustomChecklistAdapter</string>
+</dict>
+</plist>

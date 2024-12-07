@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigateImmutablePositionDelegate</key>
+	<string>cloneLastValueDecorator</string>
+	<key>prepareSimilarValueExtension</key>
+	<string>initializeNumericalRectangleTarget</string>
+	<key>replaceExplicitInterfaceHandler</key>
+	<string>continueAssociatedTailReference</string>
+	<key>setSemanticModuleObserver</key>
+	<string>optimizeTensorBufferType</string>
+	<key>transposeHyperbolicObjectArray</key>
+	<string>computeConsultativeAscentContainer</string>
+</dict>
+</plist>

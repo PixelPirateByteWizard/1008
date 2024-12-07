@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformPriorTitleCache</key>
+	<string>pauseUniformHeadCache</string>
+	<key>getDedicatedLatencyImplement</key>
+	<string>getGlobalRotationPool</string>
+	<key>initializeReusableVariableHelper</key>
+	<string>finishIterativeEntropyAdapter</string>
+	<key>keepConcurrentArithmeticFactory</key>
+	<string>calculateLastRestrictionCollection</string>
+	<key>setEuclideanAxisProtocol</key>
+	<string>exitMediumRotationDelegate</string>
+	<key>setSecondScaleAdapter</key>
+	<string>setEuclideanBufferBase</string>
+	<key>setSmallIntegerBase</key>
+	<string>getSmartValueFilter</string>
+	<key>stopPrimaryPositionImplement</key>
+	<string>embraceEasyVisibleCreator</string>
+</dict>
+</plist>

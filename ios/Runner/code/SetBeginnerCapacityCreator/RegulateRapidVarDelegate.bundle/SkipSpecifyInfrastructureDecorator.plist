@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateDirectlyBoundHelper</key>
+	<string>skipSynchronousBehaviorExtension</string>
+	<key>analyzeAccessibleNumberProtocol</key>
+	<string>stopAccessibleBufferFilter</string>
+	<key>associateOldParamCollection</key>
+	<string>getUniformDetailTarget</string>
+	<key>makeBackwardDeliveryFactory</key>
+	<string>getTypicalVideoContainer</string>
+	<key>pauseAccordionStrokeManager</key>
+	<string>fillSingleIndexExtension</string>
+	<key>setEphemeralStyleDelegate</key>
+	<string>setAsynchronousAccessoryGroup</string>
+	<key>setPivotalPreviewProtocol</key>
+	<string>exitLiteInterfaceFactory</string>
+	<key>skipSustainableSkewYCache</key>
+	<string>getBeginnerNumberProtocol</string>
+	<key>trainLostTailObserver</key>
+	<string>setNextValueDelegate</string>
+</dict>
+</plist>

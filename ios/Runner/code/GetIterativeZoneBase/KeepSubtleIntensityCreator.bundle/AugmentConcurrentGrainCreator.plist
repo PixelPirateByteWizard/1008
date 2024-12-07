@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>executeMediumTopicContainer</key>
+	<string>cloneMultiNumberList</string>
+	<key>freeUnsortedStatusDelegate</key>
+	<string>setPublicMetricsExtension</string>
+	<key>initializeGlobalEdgeInstance</key>
+	<string>keepRespectiveLeftTarget</string>
+	<key>setSubtleSliderCache</key>
+	<string>setBasicParameterBase</string>
+</dict>
+</plist>

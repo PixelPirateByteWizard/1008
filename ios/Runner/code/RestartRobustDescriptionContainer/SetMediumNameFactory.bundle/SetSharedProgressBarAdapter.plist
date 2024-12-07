@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachReusableStatePool</key>
+	<string>keepProtectedSchedulerHelper</string>
+	<key>endPivotalMetadataGroup</key>
+	<string>searchDedicatedNumberCache</string>
+	<key>getSharedResultHandler</key>
+	<string>fillSortedAnimationCreator</string>
+	<key>refreshSharedHeadTarget</key>
+	<string>cancelOriginalProgressBarStack</string>
+	<key>rotateOpaqueOccasionStack</key>
+	<string>pauseFusedReplicaHandler</string>
+	<key>setSubstantialTextHandler</key>
+	<string>startDifficultVarProtocol</string>
+</dict>
+</plist>

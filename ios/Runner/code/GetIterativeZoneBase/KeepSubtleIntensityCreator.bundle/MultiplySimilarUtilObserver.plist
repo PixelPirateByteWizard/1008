@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateRelationalPositionProtocol</key>
+	<string>multiplyAccordionDescriptionBase</string>
+	<key>initializeOpaqueVariableStack</key>
+	<string>getReusableSessionInstance</string>
+	<key>prepareNumericalStampReference</key>
+	<string>setSynchronousDescriptionHandler</string>
+	<key>setRobustTailArray</key>
+	<string>writeMissedMetricsHelper</string>
+	<key>setStandaloneParameterImplement</key>
+	<string>insteadLostSizeCache</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateDisparateBoxHelper</key>
+	<string>setDeclarativeSkirtAdapter</string>
+	<key>keepEuclideanStepCache</key>
+	<string>limitSeamlessDepthCreator</string>
+	<key>setSemanticEffectManager</key>
+	<string>checkReusableLabelType</string>
+	<key>skipImmutableSpotDecorator</key>
+	<string>getSmallSizeCollection</string>
+	<key>unschedulePermanentLayoutAdapter</key>
+	<string>seekMainControllerCache</string>
+</dict>
+</plist>

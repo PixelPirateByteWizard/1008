@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endAccessibleUtilType</key>
+	<string>getRequiredSliderContainer</string>
+	<key>getIndependentEqualizationPool</key>
+	<string>getHardMenuArray</string>
+	<key>initializeHierarchicalBoxStack</key>
+	<string>getArithmeticColorList</string>
+	<key>prepareRobustButtonGroup</key>
+	<string>getDirectlyCompositionTarget</string>
+	<key>setRequiredChannelsManager</key>
+	<string>resumeTypicalFrameManager</string>
+	<key>setSingleValueHelper</key>
+	<string>setSimilarValueProtocol</string>
+</dict>
+</plist>

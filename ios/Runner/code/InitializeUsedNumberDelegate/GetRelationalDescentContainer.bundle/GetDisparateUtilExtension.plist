@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformHardTextFactory</key>
+	<string>pausePermissiveFlagsHandler</string>
+	<key>getMediocreNumberFactory</key>
+	<string>cancelEnabledEffectObserver</string>
+	<key>reduceTypicalPopupHelper</key>
+	<string>getOpaqueStrengthReference</string>
+	<key>setProtectedCardFactory</key>
+	<string>replaceRapidRectGroup</string>
+	<key>setResilientVariableList</key>
+	<string>cancelGranularRoleHandler</string>
+	<key>setSignificantInteractionAdapter</key>
+	<string>pauseIntermediateGrainObserver</string>
+</dict>
+</plist>

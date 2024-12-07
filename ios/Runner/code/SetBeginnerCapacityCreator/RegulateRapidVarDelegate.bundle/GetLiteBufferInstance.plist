@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelNewestTextureHandler</key>
+	<string>setUniformBufferContainer</string>
+	<key>getSophisticatedBorderStack</key>
+	<string>setAssociatedBottomCache</string>
+	<key>removeDirectCompositionImplement</key>
+	<string>getOpaqueMechanismCreator</string>
+	<key>setHierarchicalFeatureBase</key>
+	<string>endHyperbolicPlaybackFilter</string>
+	<key>updateAccordionPositionType</key>
+	<string>prepareNewestDimensionCreator</string>
+</dict>
+</plist>

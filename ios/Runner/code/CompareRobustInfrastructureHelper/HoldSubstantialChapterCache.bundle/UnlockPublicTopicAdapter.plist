@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustLocalScaleFactory</key>
+	<string>setHardIntegrationHelper</string>
+	<key>enumerateEuclideanLossDelegate</key>
+	<string>undertakeSpecifyAnimationProtocol</string>
+	<key>getBackwardModelGroup</key>
+	<string>makeRetainedNumberInstance</string>
+	<key>getGlobalDepthProtocol</key>
+	<string>pauseDenseValueType</string>
+	<key>pauseAccessibleCoordinatorReference</key>
+	<string>lockHierarchicalEntropyProtocol</string>
+	<key>startIndependentViewGroup</key>
+	<string>finishAccessibleZoneHandler</string>
+</dict>
+</plist>

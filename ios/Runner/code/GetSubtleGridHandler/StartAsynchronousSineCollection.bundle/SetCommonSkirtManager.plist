@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedCrudeSpriteArray</key>
+	<string>rotateIndependentPolygonInstance</string>
+	<key>getImmutableVarExtension</key>
+	<string>getPrevVisibleFilter</string>
+	<key>obtainEphemeralSpriteCache</key>
+	<string>stopMainParamPool</string>
+	<key>setPivotalVariableReference</key>
+	<string>markSecondComponentPool</string>
+	<key>setSymmetricBufferHelper</key>
+	<string>getLocalTempleDecorator</string>
+	<key>spinSecondSpriteFilter</key>
+	<string>setSymmetricRotationContainer</string>
+	<key>stopIterativeGramBase</key>
+	<string>getSynchronousPreviewArray</string>
+</dict>
+</plist>

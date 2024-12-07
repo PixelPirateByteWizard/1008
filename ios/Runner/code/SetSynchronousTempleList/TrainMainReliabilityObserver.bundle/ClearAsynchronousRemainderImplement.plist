@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachFusedPolyfillObserver</key>
+	<string>appendFusedVarObserver</string>
+	<key>getAccessibleLogCollection</key>
+	<string>allocateMutableChannelsType</string>
+	<key>getEnabledHeadHelper</key>
+	<string>setPriorParameterProtocol</string>
+	<key>getReusableLayerGroup</key>
+	<string>shearUsedModuleFactory</string>
+	<key>setBackwardCaptionDecorator</key>
+	<string>cancelIgnoredBoundTarget</string>
+	<key>setSynchronousIntegrityPool</key>
+	<string>cancelMutableHeadStack</string>
+	<key>trainNormalVisibleHandler</key>
+	<string>respondDedicatedRightAdapter</string>
+</dict>
+</plist>

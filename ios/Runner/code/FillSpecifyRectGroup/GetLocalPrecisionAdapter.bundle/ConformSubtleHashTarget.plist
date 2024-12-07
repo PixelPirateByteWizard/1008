@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDisplayableMatrixProtocol</key>
+	<string>endStaticZoneDelegate</string>
+	<key>getSubsequentMetricsFactory</key>
+	<string>getDenseIntensityCreator</string>
+	<key>getUniqueTextureFilter</key>
+	<string>getNormalLabelExtension</string>
+	<key>mitigateDedicatedSchemaFilter</key>
+	<string>accelerateUsedValueCache</string>
+	<key>moveSemanticEquivalentAdapter</key>
+	<string>startLocalCardList</string>
+	<key>resumePivotalRightType</key>
+	<string>stopLargeCapsuleBase</string>
+	<key>setMediumCacheContainer</key>
+	<string>getPivotalFeatureCreator</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>executeAccordionCompositionOwner</key>
+	<string>replaceSecondCycleHandler</string>
+	<key>getSemanticHashReference</key>
+	<string>restartSubstantialSpriteHandler</string>
+	<key>initializeSubtleRowArray</key>
+	<string>retrieveElasticSchemaHelper</string>
+	<key>obtainPrevBufferCache</key>
+	<string>setUnactivatedParamAdapter</string>
+	<key>removeEphemeralPlaybackCreator</key>
+	<string>introspectPrevRecursionStack</string>
+	<key>setMissedFlagsCollection</key>
+	<string>offsetAssociatedRightArray</string>
+</dict>
+</plist>

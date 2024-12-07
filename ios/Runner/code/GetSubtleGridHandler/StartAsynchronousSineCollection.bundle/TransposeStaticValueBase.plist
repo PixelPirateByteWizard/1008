@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSymmetricParameterObserver</key>
+	<string>skipOldCenterTarget</string>
+	<key>generateEuclideanResolverStack</key>
+	<string>prepareGranularOpacityGroup</string>
+	<key>getHierarchicalBoundHelper</key>
+	<string>setUniqueParamCreator</string>
+	<key>getLocalButtonManager</key>
+	<string>prepareSemanticConfigurationList</string>
+	<key>initializeSemanticUtilCollection</key>
+	<string>trainHyperbolicHeadObserver</string>
+	<key>introspectSemanticNumberHandler</key>
+	<string>getSemanticBufferHandler</string>
+	<key>quitDenseMaterialArray</key>
+	<string>resumePriorParamImplement</string>
+	<key>restartAssociatedGraphImplement</key>
+	<string>trainSignificantStyleStack</string>
+	<key>setPriorSizeInstance</key>
+	<string>cancelEnabledTimeOwner</string>
+</dict>
+</plist>

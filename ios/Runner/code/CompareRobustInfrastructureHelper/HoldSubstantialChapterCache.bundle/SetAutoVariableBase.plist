@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSingleGroupExtension</key>
+	<string>setDifficultScenarioFilter</string>
+	<key>displayConcurrentFlagsArray</key>
+	<string>makeDedicatedGrainCache</string>
+	<key>pauseRequiredLayoutDecorator</key>
+	<string>startSharedProgressBarFactory</string>
+	<key>restartCrucialNumberArray</key>
+	<string>stopConcreteVarBase</string>
+	<key>setAccessibleBottomExtension</key>
+	<string>restartCustomizedValueGroup</string>
+	<key>setGlobalSpriteObserver</key>
+	<string>setCommonDispatcherHandler</string>
+	<key>setLastFlagsType</key>
+	<string>continueSmartLabelObserver</string>
+	<key>setSubstantialBufferOwner</key>
+	<string>getCriticalLoaderOwner</string>
+	<key>skipCrucialLoaderInstance</key>
+	<string>startDifficultResultObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getReusableRowBase</key>
+	<string>resumeBackwardZoneArray</string>
+	<key>makeOtherRotationInstance</key>
+	<string>getPermanentSegmentPool</string>
+	<key>scheduleBackwardDocumentReference</key>
+	<string>rotateNewestGroupHandler</string>
+	<key>setEnabledValueList</key>
+	<string>setOpaqueUtilHelper</string>
+	<key>setProtectedGridFactory</key>
+	<string>getBeginnerRightTarget</string>
+	<key>spinBeginnerConfidentialityInstance</key>
+	<string>updateCriticalQueueProtocol</string>
+</dict>
+</plist>

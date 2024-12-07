@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustStaticTextFactory</key>
+	<string>setAsynchronousTimeHandler</string>
+	<key>detachMissedParamType</key>
+	<string>getSemanticNameObserver</string>
+	<key>endLiteNodeCreator</key>
+	<string>dropoutDenseHeapFilter</string>
+	<key>getAsynchronousSkewYCollection</key>
+	<string>setSustainableTextPool</string>
+	<key>getIndependentEdgeDelegate</key>
+	<string>optimizePermissiveNumberHandler</string>
+	<key>setAutoStrengthPool</key>
+	<string>cancelSharedInterfaceFactory</string>
+	<key>skipLocalVariableInstance</key>
+	<string>skipDiscardedSkewXList</string>
+	<key>startMutableQuaternionImplement</key>
+	<string>keepRobustTextureHelper</string>
+</dict>
+</plist>

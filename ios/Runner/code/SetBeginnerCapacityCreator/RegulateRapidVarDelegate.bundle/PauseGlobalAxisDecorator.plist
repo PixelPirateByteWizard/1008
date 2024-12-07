@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addLiteChannelsHelper</key>
+	<string>setPrevTextImplement</string>
+	<key>initializeAsynchronousChapterBase</key>
+	<string>setSynchronousBoxPool</string>
+	<key>optimizeDirectlyTopList</key>
+	<string>checkDisplayableBufferList</string>
+	<key>setAccessibleValueTarget</key>
+	<string>keepSubsequentEffectAdapter</string>
+	<key>setCommonAllocatorImplement</key>
+	<string>finishRapidSkewXImplement</string>
+</dict>
+</plist>

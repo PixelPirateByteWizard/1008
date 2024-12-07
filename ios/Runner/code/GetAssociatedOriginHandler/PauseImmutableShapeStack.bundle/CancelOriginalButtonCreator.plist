@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateSubstantialGroupStack</key>
+	<string>getIntermediateLayerOwner</string>
+	<key>captureBeginnerHeapCollection</key>
+	<string>setNextVariableList</string>
+	<key>finishDiversifiedPlaybackCreator</key>
+	<string>checkSustainableVisiblePool</string>
+	<key>keepStandaloneBorderManager</key>
+	<string>divideRobustPriorityContainer</string>
+	<key>prepareOtherFragmentAdapter</key>
+	<string>endAccordionLayerCollection</string>
+	<key>regulateRelationalScalePool</key>
+	<string>parseUniformParameterManager</string>
+	<key>resumeNumericalSizeContainer</key>
+	<string>setPrismaticVariableCache</string>
+	<key>setCriticalChartFactory</key>
+	<string>getDirectPaddingPool</string>
+</dict>
+</plist>

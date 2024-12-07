@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateIntuitiveConvolutionTarget</key>
+	<string>restartDisplayableGroupDelegate</string>
+	<key>destroyStandaloneStepObserver</key>
+	<string>mitigateLostTopicPool</string>
+	<key>getAccessibleVariableCollection</key>
+	<string>trainSemanticMenuAdapter</string>
+	<key>getEphemeralCenterOwner</key>
+	<string>setMediocreTailContainer</string>
+	<key>keepSharedHeadStack</key>
+	<string>setUsedBufferType</string>
+	<key>shearUniformValueProtocol</key>
+	<string>setPrimaryTempleContainer</string>
+	<key>skipConcreteShapeCreator</key>
+	<string>quantizerMissedFlagsType</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawSingleReliabilityHandler</key>
+	<string>startCurrentExponentList</string>
+	<key>getLostVarCollection</key>
+	<string>dismissDiscardedInterfaceCache</string>
+	<key>getSmartIndexManager</key>
+	<string>keepSubstantialPrecisionObserver</string>
+	<key>setCommonParamHandler</key>
+	<string>executeUsedVectorBase</string>
+	<key>setPriorVariableType</key>
+	<string>pauseNormalTitleHelper</string>
+	<key>setStandaloneNumberExtension</key>
+	<string>getCommonSkewYProtocol</string>
+</dict>
+</plist>

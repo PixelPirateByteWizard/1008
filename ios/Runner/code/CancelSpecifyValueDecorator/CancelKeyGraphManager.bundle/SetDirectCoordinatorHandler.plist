@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeIterativeParamGroup</key>
+	<string>setHierarchicalPreviewAdapter</string>
+	<key>getEuclideanCoordFactory</key>
+	<string>combineSynchronousEdgeHandler</string>
+	<key>getRapidEdgeType</key>
+	<string>endLargeDepthDecorator</string>
+	<key>moveKeyBrushBase</key>
+	<string>drawDiscardedIndexArray</string>
+	<key>pauseSubtleDurationBase</key>
+	<string>getSpecifyInformationExtension</string>
+	<key>readCommonSizeDelegate</key>
+	<string>continueCrudeShapeHelper</string>
+	<key>setStaticBufferManager</key>
+	<string>dissociateDenseLoopCreator</string>
+	<key>startUsedFeatureManager</key>
+	<string>checkOriginalSkewXReference</string>
+	<key>trainBackwardTempleFilter</key>
+	<string>markSynchronousNumberCache</string>
+</dict>
+</plist>

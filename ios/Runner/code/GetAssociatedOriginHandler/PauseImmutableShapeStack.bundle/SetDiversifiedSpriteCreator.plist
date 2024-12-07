@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateEphemeralChartExtension</key>
+	<string>retainEphemeralLabelAdapter</string>
+	<key>getDifficultOperationType</key>
+	<string>cancelFusedMomentumType</string>
+	<key>getPermissiveTweakInstance</key>
+	<string>setMutableElasticityCache</string>
+	<key>getStandaloneValueArray</key>
+	<string>endIgnoredPointContainer</string>
+	<key>initializeMediumNumberContainer</key>
+	<string>setProtectedBufferContainer</string>
+	<key>initializeSemanticBoundOwner</key>
+	<string>prepareSingleVarOwner</string>
+	<key>shearBackwardCosineArray</key>
+	<string>trainConsultativeFormatDecorator</string>
+</dict>
+</plist>

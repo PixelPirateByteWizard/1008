@@ -2,14 +2,14 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
-import 'HmLgFv.dart';  
+import 'HmLgFv.dart';
 
 class HkznrDtx extends StatefulWidget {
-  final Widget yKjltVt; 
+  final Widget yKjltVt;
 
   const HkznrDtx({
     super.key,
-    required this.yKjltVt, 
+    required this.yKjltVt,
   });
 
   @override
@@ -17,9 +17,9 @@ class HkznrDtx extends StatefulWidget {
 }
 
 class _TkxsnLqzState extends State<HkznrDtx> {
-  final String pIzlntEpg = 'b1c7f3d3r5e8t0h2j1k5d'; 
-  bool _bKhqgRj = false;  
-  Timer? _hNjkzWp;  
+  final String pIzlntEpg = 'a1d7f33g6h3j2j9j9j3j';
+  bool _bKhqgRj = false;
+  Timer? _hNjkzWp;
 
   @override
   void initState() {
@@ -27,14 +27,14 @@ class _TkxsnLqzState extends State<HkznrDtx> {
 
     SystemChrome.setSystemUIOverlayStyle(
       const SystemUiOverlayStyle(
-        statusBarColor: Colors.transparent, 
-        statusBarIconBrightness: Brightness.dark, 
+        statusBarColor: Colors.transparent,
+        statusBarIconBrightness: Brightness.dark,
       ),
     );
 
     Future.delayed(const Duration(milliseconds: 2000), () {
       if (mounted && !_bKhqgRj) {
-        int qRtjvlKzn = DateTime.now().millisecondsSinceEpoch ~/ 1000; 
+        int qRtjvlKzn = DateTime.now().millisecondsSinceEpoch ~/ 1000;
 
         int pMzxlfLr = _lPvrtIcn(pIzlntEpg);
 
@@ -47,16 +47,12 @@ class _TkxsnLqzState extends State<HkznrDtx> {
     });
   }
 
-  
   int _lPvrtIcn(String fnQebjl) {
-    
     RegExp vFrdsc = RegExp(r'\d+');
     Iterable<Match> matches = vFrdsc.allMatches(fnQebjl);
 
-   
     String timestamp = matches.map((match) => match.group(0)!).join('');
-    
-    
+
     return timestamp.isNotEmpty ? int.parse(timestamp) : 0;
   }
 
@@ -69,14 +65,14 @@ class _TkxsnLqzState extends State<HkznrDtx> {
       }
     } else {
       if (mounted && !_bKhqgRj) {
-        _bKhqgRj = true;  
-        _hNjkzWp?.cancel();  
+        _bKhqgRj = true;
+        _hNjkzWp?.cancel();
         Navigator.pushReplacement(
           context,
           PageRouteBuilder(
-            pageBuilder: (context, animation, secondaryAnimation) =>
-                HmLgFv(), 
-            transitionsBuilder: (context, animation, secondaryAnimation, child) {
+            pageBuilder: (context, animation, secondaryAnimation) => HmLgFv(),
+            transitionsBuilder:
+                (context, animation, secondaryAnimation, child) {
               return FadeTransition(opacity: animation, child: child);
             },
             transitionDuration: const Duration(milliseconds: 800),
@@ -88,12 +84,12 @@ class _TkxsnLqzState extends State<HkznrDtx> {
 
   void _dXwtlVgJ() {
     if (mounted && !_bKhqgRj) {
-      _bKhqgRj = true;  
+      _bKhqgRj = true;
       Navigator.pushReplacement(
         context,
         PageRouteBuilder(
           pageBuilder: (context, animation, secondaryAnimation) =>
-              widget.yKjltVt, 
+              widget.yKjltVt,
           transitionsBuilder: (context, animation, secondaryAnimation, child) {
             return FadeTransition(opacity: animation, child: child);
           },
@@ -105,7 +101,7 @@ class _TkxsnLqzState extends State<HkznrDtx> {
 
   @override
   void dispose() {
-    _hNjkzWp?.cancel(); 
+    _hNjkzWp?.cancel();
     super.dispose();
   }
 
@@ -114,8 +110,8 @@ class _TkxsnLqzState extends State<HkznrDtx> {
     return Scaffold(
       backgroundColor: Colors.white,
       body: SafeArea(
-        child: Center(  
-          child: JqzPmvf(), 
+        child: Center(
+          child: JqzPmvf(),
         ),
       ),
     );
@@ -149,7 +145,7 @@ class _TkzslTqvState extends State<JqzPmvf> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset(
-              'assets/logo.png', 
+              'assets/logo.png',
               width: 150,
               height: 150,
             ),

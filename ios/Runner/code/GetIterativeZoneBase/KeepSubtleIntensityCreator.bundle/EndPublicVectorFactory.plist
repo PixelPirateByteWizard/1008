@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeCriticalBufferInstance</key>
+	<string>skipDirectBottomDecorator</string>
+	<key>getCrucialTopObserver</key>
+	<string>getLastCacheHandler</string>
+	<key>getTensorMatrixImplement</key>
+	<string>finishSharedVariableFilter</string>
+	<key>initializeSecondLayoutBase</key>
+	<string>getEnabledVariableAdapter</string>
+	<key>startLargeFeatureList</key>
+	<string>setPivotalSchemaPool</string>
+	<key>startSemanticCharacterDecorator</key>
+	<string>revisitSubstantialImageReference</string>
+</dict>
+</plist>

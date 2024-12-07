@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalLocalQueueCollection</key>
+	<string>setCustomFlagsManager</string>
+	<key>getMissedReliabilityFactory</key>
+	<string>drawRapidResultStack</string>
+	<key>quantizationSemanticSkinCollection</key>
+	<string>getGranularScenarioHandler</string>
+	<key>setRapidResultTarget</key>
+	<string>trainSynchronousSceneHelper</string>
+</dict>
+</plist>

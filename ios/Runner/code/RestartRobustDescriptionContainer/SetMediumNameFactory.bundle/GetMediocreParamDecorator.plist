@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endCustomizedTailDelegate</key>
+	<string>trainEasyValueArray</string>
+	<key>extendDifficultTailContainer</key>
+	<string>getLocalValueCreator</string>
+	<key>holdUnsortedNameBase</key>
+	<string>startGlobalHashDecorator</string>
+	<key>reduceProtectedValueOwner</key>
+	<string>drawIndependentAspectPool</string>
+	<key>setAssociatedSchemaAdapter</key>
+	<string>setPublicMatrixList</string>
+	<key>setFirstPetImplement</key>
+	<string>initializeArithmeticSpriteContainer</string>
+	<key>setOpaqueNumberStack</key>
+	<string>clearIgnoredOperationFilter</string>
+	<key>setPublicStyleFilter</key>
+	<string>getSingleVisibleObserver</string>
+	<key>visitSubtleFlagsHelper</key>
+	<string>setPrismaticAspectObserver</string>
+</dict>
+</plist>

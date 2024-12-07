@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateCurrentParameterDelegate</key>
+	<string>skipPriorPreviewContainer</string>
+	<key>computeComprehensiveControllerStack</key>
+	<string>clipPriorMetadataCreator</string>
+	<key>initializePermissiveHashExtension</key>
+	<string>augmentAdvancedGrainCreator</string>
+	<key>setRelationalMapDecorator</key>
+	<string>getElasticPositionHandler</string>
+	<key>setTensorSizeCreator</key>
+	<string>prepareEuclideanTempleCollection</string>
+	<key>startLargeStrokeContainer</key>
+	<string>cancelMutableMonsterCache</string>
+</dict>
+</plist>

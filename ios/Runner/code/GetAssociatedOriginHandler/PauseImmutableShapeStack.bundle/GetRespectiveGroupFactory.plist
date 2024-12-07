@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embraceSingleTentativeTarget</key>
+	<string>setSmallMetricsExtension</string>
+	<key>exitRobustOriginContainer</key>
+	<string>resumeStandaloneFrameHelper</string>
+	<key>getSingleTweakAdapter</key>
+	<string>lockSubstantialParameterImplement</string>
+	<key>setCommonTempleTarget</key>
+	<string>continueAdvancedResolverObserver</string>
+	<key>setCustomResolverAdapter</key>
+	<string>resumeIgnoredSkewXGroup</string>
+	<key>setDiscardedArithmeticDecorator</key>
+	<string>getNewestAllocatorDelegate</string>
+	<key>setGranularMultiplicationContainer</key>
+	<string>setDenseGraphHelper</string>
+	<key>skipNormalIndicatorFactory</key>
+	<string>setSubstantialInterpolationStack</string>
+	<key>stopCommonRotationObserver</key>
+	<string>setKeyItemDecorator</string>
+</dict>
+</plist>

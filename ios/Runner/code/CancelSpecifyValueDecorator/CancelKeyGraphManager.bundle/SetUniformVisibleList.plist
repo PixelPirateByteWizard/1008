@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishProtectedInitiatorsObserver</key>
+	<string>makeOpaqueNumberImplement</string>
+	<key>getGeometricPolygonFilter</key>
+	<string>cancelSecondConvolutionFilter</string>
+	<key>getNormalSizeOwner</key>
+	<string>renamePublicLabelGroup</string>
+	<key>getOtherPositionType</key>
+	<string>getNextEdgeImplement</string>
+	<key>keepBeginnerVarArray</key>
+	<string>continueAccordionSizeProtocol</string>
+	<key>keepCustomizedMasterList</key>
+	<string>introspectSingleHeadContainer</string>
+	<key>skipIntermediateControllerDecorator</key>
+	<string>encapsulateEnabledRotationObserver</string>
+</dict>
+</plist>

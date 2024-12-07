@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAccessibleBufferGroup</key>
+	<string>allocateOldEdgeReference</string>
+	<key>getImmutableConfigurationOwner</key>
+	<string>getAccessibleLayerReference</string>
+	<key>keepLocalStatusFactory</key>
+	<string>setAsynchronousTextManager</string>
+	<key>trainConsultativeEdgeReference</key>
+	<string>skipSustainableReplicaStack</string>
+	<key>writeSimilarResolverList</key>
+	<string>lockIndependentScenarioInstance</string>
+</dict>
+</plist>

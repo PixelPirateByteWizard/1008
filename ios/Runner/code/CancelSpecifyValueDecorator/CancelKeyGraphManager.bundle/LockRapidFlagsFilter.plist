@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustRequiredLeftTarget</key>
+	<string>reflectUnactivatedSizeImplement</string>
+	<key>getDiscardedTangentFactory</key>
+	<string>setDisparateValueObserver</string>
+	<key>markNextAssetStack</key>
+	<string>wrapIgnoredCompositionDelegate</string>
+	<key>restartRetainedShaderList</key>
+	<string>setEphemeralVisibleList</string>
+	<key>retrieveSingleEdgeList</key>
+	<string>setReusableSkewXObserver</string>
+	<key>setNormalPositionTarget</key>
+	<string>embedTypicalEventObserver</string>
+	<key>setUnsortedTailCreator</key>
+	<string>getSemanticResultHelper</string>
+	<key>stopOtherOptimizerFactory</key>
+	<string>continueNewestDepthTarget</string>
+</dict>
+</plist>

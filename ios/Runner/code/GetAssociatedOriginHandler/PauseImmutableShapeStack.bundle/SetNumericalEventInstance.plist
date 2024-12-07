@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueHierarchicalUtilBase</key>
+	<string>accelerateTypicalEffectAdapter</string>
+	<key>getCriticalOperationDelegate</key>
+	<string>getDisplayableTagFactory</string>
+	<key>getGlobalModuleFilter</key>
+	<string>limitLocalBufferCache</string>
+	<key>getUnsortedStyleExtension</key>
+	<string>keepIntermediateNumberManager</string>
+	<key>keepConcreteSpecifierCreator</key>
+	<string>getSymmetricLogarithmType</string>
+	<key>setCustomizedNumberGroup</key>
+	<string>setRobustNumberAdapter</string>
+	<key>skipBackwardRotationReference</key>
+	<string>getSmartMatrixTarget</string>
+	<key>skipHyperbolicNumberExtension</key>
+	<string>releaseDiversifiedParticleCache</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fillIgnoredParameterList</key>
+	<string>restartMutablePositionInstance</string>
+	<key>getUsedSkewYHandler</key>
+	<string>continueCurrentResolverFilter</string>
+	<key>pauseConcurrentVariableReference</key>
+	<string>continueStaticBinaryProtocol</string>
+	<key>showSeamlessNameArray</key>
+	<string>getSimilarDescentExtension</string>
+	<key>stopGeometricVariableList</key>
+	<string>setFusedSceneReference</string>
+	<key>stopStandaloneSchedulerHelper</key>
+	<string>setOpaqueMetadataInstance</string>
+	<key>trainSignificantNumberInstance</key>
+	<string>finishGreatCoordType</string>
+</dict>
+</plist>

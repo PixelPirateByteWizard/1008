@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getImmutableModuleExtension</key>
+	<string>destroySortedMenuGroup</string>
+	<key>getUnsortedLabelContainer</key>
+	<string>destroyNewestUnaryBase</string>
+	<key>initializeStaticTempleDecorator</key>
+	<string>differentiateSemanticTopicFilter</string>
+	<key>prepareStaticDescriptionFactory</key>
+	<string>refreshCustomizedGridImplement</string>
+	<key>renameEphemeralFlagsCache</key>
+	<string>finishDeclarativeNumberStack</string>
+	<key>setBeginnerMasterProtocol</key>
+	<string>endSemanticParamArray</string>
+</dict>
+</plist>

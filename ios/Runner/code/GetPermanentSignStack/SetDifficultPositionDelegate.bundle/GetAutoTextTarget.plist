@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getBasicPetContainer</key>
+	<string>getExplicitTextList</string>
+	<key>setPublicModelObserver</key>
+	<string>finishSingleFeatureStack</string>
+	<key>setSmartHeadFactory</key>
+	<string>finishGranularFlagsAdapter</string>
+	<key>startKeyTempleStack</key>
+	<string>continueSharedLayoutProtocol</string>
+</dict>
+</plist>

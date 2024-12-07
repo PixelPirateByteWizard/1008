@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endDifficultTraversalManager</key>
+	<string>setProtectedPopupFilter</string>
+	<key>getSymmetricCacheAdapter</key>
+	<string>computeProtectedOpacityAdapter</string>
+	<key>releaseSynchronousMenuManager</key>
+	<string>restartPrevMatrixStack</string>
+	<key>setAccessibleHeroImplement</key>
+	<string>setMultiTernaryReference</string>
+	<key>setOtherLeftExtension</key>
+	<string>skipIndependentEfficiencyArray</string>
+	<key>stopConcurrentButtonContainer</key>
+	<string>clipCustomAlphaArray</string>
+</dict>
+</plist>

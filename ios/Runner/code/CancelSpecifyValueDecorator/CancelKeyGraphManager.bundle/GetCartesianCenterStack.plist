@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSubtleRectangleDecorator</key>
+	<string>getDedicatedBufferFilter</string>
+	<key>computeRelationalButtonTarget</key>
+	<string>getOpaqueBufferHelper</string>
+	<key>finishCurrentBufferExtension</key>
+	<string>getSimilarAnimationStack</string>
+	<key>getEnabledSkewYReference</key>
+	<string>cancelUnactivatedMetricsBase</string>
+	<key>getSubsequentContractionManager</key>
+	<string>skipPriorTopOwner</string>
+	<key>limitDedicatedIndexFilter</key>
+	<string>getLostSubpixelFactory</string>
+	<key>restartDirectObserverPool</key>
+	<string>freeAccessibleTextureExtension</string>
+</dict>
+</plist>

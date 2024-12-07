@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getImmutableSliderFilter</key>
+	<string>stopAsynchronousVariantDelegate</string>
+	<key>getSignificantParameterDecorator</key>
+	<string>skipEnabledZoneOwner</string>
+	<key>keepAccessibleVarPool</key>
+	<string>setConcreteMasterReference</string>
+	<key>setCustomStatusStack</key>
+	<string>setSortedViewInstance</string>
+	<key>setRelationalSliderImplement</key>
+	<string>searchArithmeticClusterPool</string>
+	<key>setRespectiveNumberProtocol</key>
+	<string>limitProtectedValueStack</string>
+</dict>
+</plist>

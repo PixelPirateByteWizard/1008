@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computePrevRecursionHelper</key>
+	<string>resumePermanentBandwidthTarget</string>
+	<key>discoverPrimaryUtilInstance</key>
+	<string>getCriticalValueHelper</string>
+	<key>getHyperbolicNodeFactory</key>
+	<string>pauseSubsequentEdgeHelper</string>
+	<key>getRobustHashCollection</key>
+	<string>getSymmetricTimelineGroup</string>
+	<key>keepKeyNumberFactory</key>
+	<string>prepareSemanticTailContainer</string>
+	<key>setBackwardConfigurationTarget</key>
+	<string>spinSecondValueOwner</string>
+	<key>setConcretePositionPool</key>
+	<string>setMediocreParameterDelegate</string>
+	<key>setEnabledSlashGroup</key>
+	<string>holdMultiDepthAdapter</string>
+</dict>
+</plist>

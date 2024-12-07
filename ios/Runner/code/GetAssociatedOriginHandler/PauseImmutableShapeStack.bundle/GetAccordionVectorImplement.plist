@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateNextInterfaceContainer</key>
+	<string>getMainParameterList</string>
+	<key>setDedicatedRestrictionDecorator</key>
+	<string>quantizerIntermediateTopImplement</string>
+	<key>setNewestParticleList</key>
+	<string>finishDiversifiedSizeGroup</string>
+	<key>skipHyperbolicAllocatorDelegate</key>
+	<string>prepareEuclideanResolverDelegate</string>
+	<key>stopDedicatedHeadObserver</key>
+	<string>getCriticalImpactFactory</string>
+	<key>trainAccordionTailManager</key>
+	<string>prepareCartesianResilienceHelper</string>
+	<key>trainProtectedVariableManager</key>
+	<string>startRelationalCharacteristicPool</string>
+</dict>
+</plist>

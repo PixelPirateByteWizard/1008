@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearStaticNumberContainer</key>
+	<string>pauseEasyValueList</string>
+	<key>equalGranularSpriteHelper</key>
+	<string>getGlobalAllocatorReference</string>
+	<key>getExplicitCubeContainer</key>
+	<string>setNewestNavigationTarget</string>
+	<key>getReusableTailArray</key>
+	<string>getAgileFeatureManager</string>
+	<key>startCurrentTagImplement</key>
+	<string>getDiversifiedIntegrityFactory</string>
+</dict>
+</plist>

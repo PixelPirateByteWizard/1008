@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueActivatedCatalystExtension</key>
+	<string>keepStaticBufferObserver</string>
+	<key>getIntermediateCertificateHandler</key>
+	<string>revisitSingleProvisionDecorator</string>
+	<key>getSubsequentViewCache</key>
+	<string>retainElasticDeliveryContainer</string>
+	<key>setGranularBinaryReference</key>
+	<string>storeStandaloneSlashReference</string>
+	<key>setSeamlessNameHelper</key>
+	<string>multiplySmallResiliencePool</string>
+	<key>trainSubtleEdgeCache</key>
+	<string>insteadCommonModuleFactory</string>
+</dict>
+</plist>

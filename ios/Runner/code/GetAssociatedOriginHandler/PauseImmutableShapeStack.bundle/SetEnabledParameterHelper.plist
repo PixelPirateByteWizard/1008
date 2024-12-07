@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateSharedViewImplement</key>
+	<string>resumeAutoParameterStack</string>
+	<key>cancelProtectedNumberCreator</key>
+	<string>setHardIntegrityTarget</string>
+	<key>encapsulateSingleFlagsCollection</key>
+	<string>stopDifficultVarArray</string>
+	<key>executeEuclideanSkewYManager</key>
+	<string>skipRobustPositionStack</string>
+	<key>finishTensorChartHelper</key>
+	<string>restartAsynchronousParticleOwner</string>
+	<key>getCriticalTaskList</key>
+	<string>setUsedNameReference</string>
+	<key>navigateUnactivatedHeapContainer</key>
+	<string>restartImmutableChartHandler</string>
+	<key>setBackwardFragmentsPool</key>
+	<string>setSmallVariableHelper</string>
+</dict>
+</plist>

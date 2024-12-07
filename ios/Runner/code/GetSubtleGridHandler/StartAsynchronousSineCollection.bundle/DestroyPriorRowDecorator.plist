@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipMainProjectHandler</key>
+	<string>getRequiredBufferDecorator</string>
+	<key>getActivatedShapeStack</key>
+	<string>getElasticUtilExtension</string>
+	<key>getGreatRowTarget</key>
+	<string>setRelationalCenterFactory</string>
+	<key>obtainUnactivatedProgressBarList</key>
+	<string>prepareRespectiveThreadCache</string>
+	<key>setAssociatedVertexObserver</key>
+	<string>setProtectedGraphicOwner</string>
+	<key>setDifficultValueFactory</key>
+	<string>setUniformHeadHandler</string>
+</dict>
+</plist>

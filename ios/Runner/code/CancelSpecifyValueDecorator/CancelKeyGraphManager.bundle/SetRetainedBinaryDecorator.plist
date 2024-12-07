@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenateBasicFeatureHandler</key>
+	<string>detachStandalonePopupImplement</string>
+	<key>getAssociatedParamAdapter</key>
+	<string>pauseLargeOpacityFactory</string>
+	<key>getMainTweakFilter</key>
+	<string>seekOldVariableType</string>
+	<key>getUniqueParamDecorator</key>
+	<string>getConcreteNodeFactory</string>
+	<key>pushTensorPreviewDelegate</key>
+	<string>finishConcurrentVideoImplement</string>
+	<key>skipCommonValueHandler</key>
+	<string>keepEuclideanOperationContainer</string>
+</dict>
+</plist>
