@@ -5,6 +5,7 @@ class ResourceBar extends StatelessWidget {
   final int food;
   final int troops;
   final int reputation;
+  final Map<String, String> labels;
 
   const ResourceBar({
     super.key,
@@ -12,6 +13,7 @@ class ResourceBar extends StatelessWidget {
     required this.food,
     required this.troops,
     required this.reputation,
+    required this.labels,
   });
 
   @override
@@ -24,25 +26,25 @@ class ResourceBar extends StatelessWidget {
           ResourceItem(
             icon: Icons.monetization_on,
             value: gold,
-            label: '金钱',
+            label: labels['gold'] ?? '',
             color: Colors.amber,
           ),
           ResourceItem(
             icon: Icons.grain,
             value: food,
-            label: '粮草',
+            label: labels['food'] ?? '',
             color: Colors.green,
           ),
           ResourceItem(
             icon: Icons.people,
             value: troops,
-            label: '兵力',
+            label: labels['troops'] ?? '',
             color: Colors.red,
           ),
           ResourceItem(
             icon: Icons.star,
             value: reputation,
-            label: '声望',
+            label: labels['reputation'] ?? '',
             color: Colors.purple,
           ),
         ],

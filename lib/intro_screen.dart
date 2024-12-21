@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'home_screen.dart';
+import 'l10n/app_localizations.dart';
 
 class IntroScreen extends StatefulWidget {
   const IntroScreen({super.key});
@@ -10,15 +11,15 @@ class IntroScreen extends StatefulWidget {
 }
 
 class _IntroScreenState extends State<IntroScreen> {
-  final List<String> _introTexts = [
-    "建安元年（196年）",
-    "汉室倾颓，天下大乱",
-    "曹操挟天子以令诸侯",
-    "孙策跨江东，割据六郡",
-    "刘备寄身他乡，待时而动",
-    "群雄并起，逐鹿中原",
-    "你，将在这乱世之中",
-    "开创属于自己的霸业...",
+  final List<String> _introKeys = [
+    'intro1',
+    'intro2',
+    'intro3',
+    'intro4',
+    'intro5',
+    'intro6',
+    'intro7',
+    'intro8',
   ];
 
   int _currentTextIndex = 0;
@@ -42,15 +43,19 @@ class _IntroScreenState extends State<IntroScreen> {
         return;
       }
 
-      if (_currentCharIndex < _introTexts[_currentTextIndex].length) {
+      if (_currentCharIndex <
+          AppLocalizations.of(context)
+              .translate(_introKeys[_currentTextIndex])
+              .length) {
         setState(() {
-          _currentText = _introTexts[_currentTextIndex]
+          _currentText = AppLocalizations.of(context)
+              .translate(_introKeys[_currentTextIndex])
               .substring(0, _currentCharIndex + 1);
           _currentCharIndex++;
         });
       } else {
         timer.cancel();
-        if (_currentTextIndex < _introTexts.length - 1) {
+        if (_currentTextIndex < _introKeys.length - 1) {
           Future.delayed(const Duration(milliseconds: 800), () {
             if (mounted && !_skipIntro) {
               setState(() {
@@ -115,7 +120,8 @@ class _IntroScreenState extends State<IntroScreen> {
                         Padding(
                           padding: const EdgeInsets.symmetric(vertical: 8),
                           child: Text(
-                            _introTexts[i],
+                            AppLocalizations.of(context)
+                                .translate(_introKeys[i]),
                             style: const TextStyle(
                               color: Colors.white70,
                               fontSize: 20,
@@ -140,7 +146,7 @@ class _IntroScreenState extends State<IntroScreen> {
                 ),
                 const SizedBox(height: 40),
                 Text(
-                  '点击屏幕跳过',
+                  AppLocalizations.of(context).translate('clickToSkip'),
                   style: TextStyle(
                     color: Colors.white.withOpacity(0.3),
                     fontSize: 14,

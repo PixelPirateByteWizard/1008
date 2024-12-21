@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'intro_screen.dart';
+import 'l10n/app_localizations.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -58,9 +59,9 @@ class _SplashScreenState extends State<SplashScreen>
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              const Text(
-                '群雄割据',
-                style: TextStyle(
+              Text(
+                AppLocalizations.of(context).translate('splashTitle'),
+                style: const TextStyle(
                   color: Colors.white,
                   fontSize: 48,
                   fontWeight: FontWeight.bold,
@@ -68,9 +69,9 @@ class _SplashScreenState extends State<SplashScreen>
                 ),
               ),
               const SizedBox(height: 16),
-              const Text(
-                '天下大势，分久必合，合久必分',
-                style: TextStyle(
+              Text(
+                AppLocalizations.of(context).translate('splashSubtitle'),
+                style: const TextStyle(
                   color: Colors.white70,
                   fontSize: 18,
                   letterSpacing: 4,

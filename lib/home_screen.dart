@@ -9,7 +9,8 @@ import 'dart:convert';
 import 'prompt_builder.dart';
 import 'dart:developer' as developer;
 import 'history_screen.dart';
-import 'SGMessageService.dart';
+import 'l10n/app_localizations.dart';
+import 'main.dart';
 
 class HomeScreen extends ConsumerStatefulWidget {
   const HomeScreen({super.key});
@@ -217,14 +218,25 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
       appBar: AppBar(
         backgroundColor: const Color(0xFF8B0000),
         foregroundColor: Colors.white,
-        title: const Text(
-          '军师别坑我',
-          style: TextStyle(
+        title: Text(
+          AppLocalizations.of(context).translate('appName'),
+          style: const TextStyle(
             fontSize: 24,
             fontWeight: FontWeight.bold,
           ),
         ),
         actions: [
+          IconButton(
+            icon: const Icon(Icons.language),
+            onPressed: () {
+              final currentLocale = ref.read(localeProvider);
+              ref.read(localeProvider.notifier).state =
+                  currentLocale.languageCode == 'zh'
+                      ? const Locale('en')
+                      : const Locale('zh');
+            },
+            tooltip: 'Switch Language',
+          ),
           IconButton(
             icon: const Icon(Icons.history),
             onPressed: () {
@@ -234,12 +246,12 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                 ),
               );
             },
-            tooltip: '历史记录',
+            tooltip: AppLocalizations.of(context).translate('history'),
           ),
           IconButton(
             icon: const Icon(Icons.save_outlined),
             onPressed: _saveGame,
-            tooltip: '保存进度',
+            tooltip: AppLocalizations.of(context).translate('save'),
           ),
         ],
       ),
@@ -272,6 +284,14 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                     food: gameState.food,
                     troops: gameState.troops,
                     reputation: gameState.reputation,
+                    labels: {
+                      'gold': AppLocalizations.of(context).translate('gold'),
+                      'food': AppLocalizations.of(context).translate('food'),
+                      'troops':
+                          AppLocalizations.of(context).translate('troops'),
+                      'reputation':
+                          AppLocalizations.of(context).translate('reputation'),
+                    },
                   ),
                   // 添加历史记录入口按钮
                   InkWell(
@@ -307,7 +327,8 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                               ),
                               const SizedBox(width: 8),
                               Text(
-                                '历史记录',
+                                AppLocalizations.of(context)
+                                    .translate('history'),
                                 style: TextStyle(
                                   color: Colors.white.withOpacity(0.9),
                                   fontSize: 14,
@@ -316,7 +337,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                             ],
                           ),
                           Text(
-                            '${gameState.eventHistory.length} 条记录',
+                            '${gameState.eventHistory.length} ${AppLocalizations.of(context).translate('historyCount')}',
                             style: TextStyle(
                               color: Colors.white.withOpacity(0.6),
                               fontSize: 14,
