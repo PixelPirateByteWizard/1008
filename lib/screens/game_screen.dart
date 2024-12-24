@@ -6,6 +6,13 @@ import '../widgets/status_indicator.dart';
 import '../game_state_manager.dart';
 import '../auravelleService.dart';
 import '../screens/history_screen.dart';
+import 'about_app_screen.dart';
+import 'help_screen.dart';
+import 'terms_screen.dart';
+import 'privacy_screen.dart';
+import 'feedback_screen.dart';
+import '../auravelleIAP/SetBackwardCenterFilter.dart';
+import '../auravelleIAP/VisitAssociatedOpacityBase.dart';
 
 class GameScreen extends StatefulWidget {
   const GameScreen({super.key});
@@ -31,6 +38,7 @@ class _GameScreenState extends State<GameScreen> with TickerProviderStateMixin {
   void initState() {
     super.initState();
     _initializeGame();
+    _loadIAPBalance();
   }
 
   @override
@@ -94,7 +102,7 @@ As a newly hired programmer, you are about to begin your new career journey.
       'favorability': 0,
       'energy': 100,
       'mood': 80,
-      'money': 1000,
+      'money': 4500,
       'currentScene': initialScene,
     });
 
@@ -190,6 +198,9 @@ As a newly hired programmer, you are about to begin your new career journey.
               'Player Choice: $choice');
 
       await _processAiResponse(response);
+
+      await EndRequiredButtonCollection.SetDisparateScaleFactory(
+          _gameState.money);
     } catch (e) {
       _showError('Error processing choice, please try again');
     }
@@ -277,6 +288,14 @@ As a newly hired programmer, you are about to begin your new career journey.
     );
   }
 
+  Future<void> _loadIAPBalance() async {
+    final iapBalance =
+        await EndRequiredButtonCollection.ProvideActivatedLeftManager();
+    setState(() {
+      _gameState.money = iapBalance;
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -304,6 +323,109 @@ As a newly hired programmer, you are about to begin your new career journey.
             },
           ),
         ],
+      ),
+      drawer: Drawer(
+        child: ListView(
+          padding: EdgeInsets.zero,
+          children: [
+            DrawerHeader(
+              decoration: const BoxDecoration(
+                color: AppTheme.primaryColor,
+              ),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                mainAxisAlignment: MainAxisAlignment.end,
+                children: const [
+                  Text(
+                    'Urban Love Life',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 24,
+                    ),
+                  ),
+                  SizedBox(height: 8),
+                  Text(
+                    'Menu',
+                    style: TextStyle(
+                      color: Colors.white70,
+                      fontSize: 16,
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            ListTile(
+              leading: const Icon(Icons.info),
+              title: const Text('About App'),
+              onTap: () {
+                Navigator.pop(context);
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => const AboutAppScreen()),
+                );
+              },
+            ),
+            ListTile(
+              leading: const Icon(Icons.help),
+              title: const Text('Help'),
+              onTap: () {
+                Navigator.pop(context);
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => const HelpScreen()),
+                );
+              },
+            ),
+            ListTile(
+              leading: const Icon(Icons.description),
+              title: const Text('Terms of Service'),
+              onTap: () {
+                Navigator.pop(context);
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => const TermsScreen()),
+                );
+              },
+            ),
+            ListTile(
+              leading: const Icon(Icons.privacy_tip),
+              title: const Text('Privacy Policy'),
+              onTap: () {
+                Navigator.pop(context);
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => const PrivacyScreen()),
+                );
+              },
+            ),
+            ListTile(
+              leading: const Icon(Icons.feedback),
+              title: const Text('Feedback'),
+              onTap: () {
+                Navigator.pop(context);
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => const FeedbackScreen()),
+                );
+              },
+            ),
+            ListTile(
+              leading: const Icon(Icons.store),
+              title: const Text('Store'),
+              onTap: () {
+                Navigator.pop(context);
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => const ResizeSharedGraphProtocol()),
+                );
+              },
+            ),
+          ],
+        ),
       ),
       body: Container(
         decoration: const BoxDecoration(
@@ -393,7 +515,7 @@ As a newly hired programmer, you are about to begin your new career journey.
                             mainAxisSize: MainAxisSize.min,
                             children: [
                               const Icon(
-                                Icons.monetization_on,
+                                Icons.diamond,
                                 color: Colors.amber,
                                 size: 20,
                               ),

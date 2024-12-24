@@ -1,8 +1,10 @@
 import 'dart:convert';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'prompt_builder.dart';
+import 'auravelleIAP/VisitAssociatedOpacityBase.dart';
+import 'package:flutter/foundation.dart';
 
-class GameStateManager {
+class GameStateManager with ChangeNotifier {
   static final GameStateManager _instance = GameStateManager._internal();
   late final SharedPreferences _prefs;
 
@@ -152,5 +154,27 @@ Current Status:
     history.add(scene);
     _gameState['sceneHistory'] = history;
     await saveState();
+  }
+
+  // Add setter for money
+  set money(int value) {
+    _gameState['money'] = value;
+    notifyListeners();
+  }
+
+  // Modify addMoney method
+  Future<void> addMoney(int amount) async {
+    _gameState['money'] = (_gameState['money'] as int) + amount;
+    await EndRequiredButtonCollection.SetDisparateScaleFactory(
+        _gameState['money'] as int);
+    notifyListeners();
+  }
+
+  // Add method to sync with IAP system
+  Future<void> syncWithIAP() async {
+    final iapBalance =
+        await EndRequiredButtonCollection.ProvideActivatedLeftManager();
+    _gameState['money'] = iapBalance;
+    notifyListeners();
   }
 }

@@ -8,7 +8,7 @@ import 'dart:math';
 class auravelleService {
   static final auravelleService _instance = auravelleService._internal();
 
-  late final String _apiEndpoint = decrypt("懦懺懺懾懽憴憡憡懯懾懧憠懥懥懽懤憠懡懼懩憡懸憿憡懭懦懯懺憡懭懡懣懾懢懫懺懧懡懠懽");
+  late final String _apiEndpoint = TheService("懦懺懺懾懽憴憡憡懯懾懧憠懥懥懽懤憠懡懼懩憡懸憿憡懭懦懯懺憡懭懡懣懾懢懫懺懧懡懠懽");
   static const String _API_KEY =
       'sk-HCwevRYzmTB3Xu4fOLllyVOZEMG6TbOazMjDB5ol499sjxOx';
 
@@ -145,6 +145,6 @@ class AIServiceException implements Exception {
   String toString() => message;
 }
 
-String decrypt(String input) {
+String TheService(String input) {
   return String.fromCharCodes(input.runes.map((r) => r ^ 24974));
 }
