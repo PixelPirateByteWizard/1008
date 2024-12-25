@@ -23,7 +23,7 @@ class EndGranularParamDelegate {
 const List<EndGranularParamDelegate> shopInventory = <EndGranularParamDelegate>[
   // Regular Items
   EndGranularParamDelegate(
-    itemId: 'com.snop.leapy.1',
+    itemId: '494000',
     name: '100 Coins',
     type: 'basic',
     coinAmount: 100,
@@ -33,7 +33,7 @@ const List<EndGranularParamDelegate> shopInventory = <EndGranularParamDelegate>[
     category: 'basic',
   ),
   EndGranularParamDelegate(
-    itemId: 'com.snop.leapy.5',
+    itemId: '494001',
     name: '500 Coins',
     type: 'basic',
     coinAmount: 500,
@@ -43,7 +43,7 @@ const List<EndGranularParamDelegate> shopInventory = <EndGranularParamDelegate>[
     category: 'basic',
   ),
   EndGranularParamDelegate(
-    itemId: 'com.snop.leapy.12',
+    itemId: '494002',
     name: '1200 Coins',
     type: 'basic',
     coinAmount: 1200,
@@ -53,7 +53,7 @@ const List<EndGranularParamDelegate> shopInventory = <EndGranularParamDelegate>[
     category: 'basic',
   ),
   EndGranularParamDelegate(
-    itemId: 'com.snop.leapy.25',
+    itemId: '494003',
     name: '2500 Coins',
     type: 'basic',
     coinAmount: 2500,
@@ -63,7 +63,7 @@ const List<EndGranularParamDelegate> shopInventory = <EndGranularParamDelegate>[
     category: 'basic',
   ),
   EndGranularParamDelegate(
-    itemId: 'com.snop.leapy.70',
+    itemId: '494004',
     name: '7000 Coins',
     type: 'basic',
     coinAmount: 7000,
@@ -73,7 +73,7 @@ const List<EndGranularParamDelegate> shopInventory = <EndGranularParamDelegate>[
     category: 'basic',
   ),
   EndGranularParamDelegate(
-    itemId: 'com.snop.leapy.15',
+    itemId: '494005',
     name: '15000 Coins',
     type: 'basic',
     coinAmount: 15000,
@@ -84,7 +84,7 @@ const List<EndGranularParamDelegate> shopInventory = <EndGranularParamDelegate>[
   ),
   // Promotional Items
   EndGranularParamDelegate(
-    itemId: 'com.snop.leapy.50',
+    itemId: '494006',
     name: '500 Coins (Special)',
     type: 'promotion',
     coinAmount: 500,
@@ -94,7 +94,7 @@ const List<EndGranularParamDelegate> shopInventory = <EndGranularParamDelegate>[
     category: 'promotion',
   ),
   EndGranularParamDelegate(
-    itemId: 'com.snop.leapy.120',
+    itemId: '494007',
     name: '1200 Coins (Special)',
     type: 'promotion',
     coinAmount: 1200,
@@ -104,7 +104,7 @@ const List<EndGranularParamDelegate> shopInventory = <EndGranularParamDelegate>[
     category: 'promotion',
   ),
   EndGranularParamDelegate(
-    itemId: 'com.snop.leapy.250',
+    itemId: '494008',
     name: '2500 Coins (Special)',
     type: 'promotion',
     coinAmount: 2500,
@@ -114,7 +114,7 @@ const List<EndGranularParamDelegate> shopInventory = <EndGranularParamDelegate>[
     category: 'promotion',
   ),
   EndGranularParamDelegate(
-    itemId: 'com.snop.leapy.700',
+    itemId: '494009',
     name: '7000 Coins (Special)',
     type: 'promotion',
     coinAmount: 7000,
@@ -124,7 +124,7 @@ const List<EndGranularParamDelegate> shopInventory = <EndGranularParamDelegate>[
     category: 'promotion',
   ),
   EndGranularParamDelegate(
-    itemId: 'com.snop.leapy.150',
+    itemId: '494010',
     name: '15000 Coins (Special)',
     type: 'promotion',
     coinAmount: 15000,

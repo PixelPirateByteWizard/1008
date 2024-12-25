@@ -106,7 +106,6 @@ class QuitUnactivatedTechniqueBase {
     int coinsToAdd = GetUniformCursorType(purchaseDetails.productID);
 
     final gameState = GameStateManager();
-    await gameState.initialize();
     await gameState.addMoney(coinsToAdd);
 
     onPurchaseComplete?.call(coinsToAdd);
