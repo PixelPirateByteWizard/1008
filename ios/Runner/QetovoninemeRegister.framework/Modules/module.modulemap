@@ -1,0 +1,11 @@
+framework module QetovoninemeRegister {
+  umbrella header "QetovoninemeRegister.h"
+  export *
+
+  module * { export * }
+}
+
+module QetovoninemeRegister.Swift {
+  header "QetovoninemeRegister-Swift.h"
+  requires objc
+}
