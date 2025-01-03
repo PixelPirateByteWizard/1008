@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endTensorVariableList</key>
+	<string>cancelHardIndexFilter</string>
+	<key>pauseMediumClusterInstance</key>
+	<string>setPermissiveEdgeCache</string>
+	<key>setDirectGateCreator</key>
+	<string>equalAccessibleVariableType</string>
+	<key>setOtherCoordObserver</key>
+	<string>setNewestFrameFactory</string>
+	<key>skipLostTitleHelper</key>
+	<string>restartAccessibleSceneProtocol</string>
+	<key>wrapDiscardedPermutationList</key>
+	<string>finishCommonAllocatorAdapter</string>
+</dict>
+</plist>

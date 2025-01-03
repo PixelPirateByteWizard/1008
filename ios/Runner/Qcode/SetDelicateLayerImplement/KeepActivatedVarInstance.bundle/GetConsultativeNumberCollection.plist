@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateConcreteTailList</key>
+	<string>prepareSemanticPopupList</string>
+	<key>getRapidRowList</key>
+	<string>setAccessibleLabelProtocol</string>
+	<key>getUsedChecklistBase</key>
+	<string>initializeFirstRoleObserver</string>
+	<key>initializeGlobalAxisTarget</key>
+	<string>scheduleRetainedGrainProtocol</string>
+	<key>prepareLostScenarioDecorator</key>
+	<string>keepOpaqueResultPool</string>
+	<key>scheduleSubstantialBufferCollection</key>
+	<string>setOldParameterPool</string>
+</dict>
+</plist>

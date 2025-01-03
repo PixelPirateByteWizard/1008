@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachStaticVariableFactory</key>
+	<string>setCommonParameterReference</string>
+	<key>finishNormalFrameReference</key>
+	<string>getSustainableFrameBase</string>
+	<key>getCrudeVectorCache</key>
+	<string>stopSmartTempleCreator</string>
+	<key>prepareCriticalBandwidthImplement</key>
+	<string>initializeConsultativeSkewYAdapter</string>
+	<key>provideGlobalEdgeProtocol</key>
+	<string>getNewestBoundFilter</string>
+	<key>restartUsedMetadataManager</key>
+	<string>dropoutComprehensiveIndexType</string>
+	<key>setActivatedLayerAdapter</key>
+	<string>discoverSmallVarType</string>
+</dict>
+</plist>

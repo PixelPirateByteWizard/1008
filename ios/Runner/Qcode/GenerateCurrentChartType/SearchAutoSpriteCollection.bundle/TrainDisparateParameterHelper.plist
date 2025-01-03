@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endSubsequentNumberBase</key>
+	<string>getAccessibleMetricsDecorator</string>
+	<key>floatSymmetricVariableBase</key>
+	<string>setResilientCapsuleFactory</string>
+	<key>resumeCrudeBufferImplement</key>
+	<string>resumeEphemeralWorkflowPool</string>
+	<key>setEphemeralDepthReference</key>
+	<string>discoverActivatedCoordFactory</string>
+	<key>startExplicitEvaluationFilter</key>
+	<string>makeRequiredCacheTarget</string>
+</dict>
+</plist>

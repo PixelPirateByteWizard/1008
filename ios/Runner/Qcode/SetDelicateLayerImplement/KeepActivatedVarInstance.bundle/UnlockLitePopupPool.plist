@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endSeamlessSliderObserver</key>
+	<string>keepRespectiveBottomImplement</string>
+	<key>finishMediumGridGroup</key>
+	<string>appendGeometricVarArray</string>
+	<key>finishSeamlessLayoutStack</key>
+	<string>decoupleSingleSpriteAdapter</string>
+	<key>getSimilarEdgeReference</key>
+	<string>decouplePriorVideoHelper</string>
+	<key>resumeRapidTailCache</key>
+	<string>getConcurrentChecklistHelper</string>
+	<key>setNewestControllerReference</key>
+	<string>addUnactivatedValueObserver</string>
+	<key>skipMissedConsumptionType</key>
+	<string>dropoutEphemeralParameterList</string>
+</dict>
+</plist>

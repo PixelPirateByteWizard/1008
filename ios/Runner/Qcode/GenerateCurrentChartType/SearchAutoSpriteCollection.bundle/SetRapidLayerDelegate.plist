@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createPublicFlagsHelper</key>
+	<string>locateRapidOptimizerContainer</string>
+	<key>getDirectMenuReference</key>
+	<string>setSharedIndexDecorator</string>
+	<key>getRapidTopicInstance</key>
+	<string>conformLargeEqualizationCollection</string>
+	<key>getSharedSpriteTarget</key>
+	<string>replaceRequiredRowTarget</string>
+	<key>keepActivatedIndexList</key>
+	<string>retainPublicRecursionArray</string>
+	<key>writeAssociatedTextHelper</key>
+	<string>pauseSymmetricOriginManager</string>
+</dict>
+</plist>

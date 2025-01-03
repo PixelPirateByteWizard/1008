@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateNormalEventPool</key>
+	<string>trainSingleOccasionReference</string>
+	<key>getAssociatedPaddingGroup</key>
+	<string>getDifficultBoundArray</string>
+	<key>setMediocreParameterExtension</key>
+	<string>setGlobalParameterType</string>
+	<key>unscheduleCustomizedSpineGroup</key>
+	<string>combineEnabledHeadAdapter</string>
+</dict>
+</plist>

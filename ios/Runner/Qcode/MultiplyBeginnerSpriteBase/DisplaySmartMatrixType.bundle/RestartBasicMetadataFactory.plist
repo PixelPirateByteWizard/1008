@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkOtherCapacityFactory</key>
+	<string>getLiteVariableBase</string>
+	<key>dissociateSmallChartTarget</key>
+	<string>setConcurrentVarAdapter</string>
+	<key>retrieveFusedHeadCache</key>
+	<string>getAccessibleLayerCache</string>
+	<key>setHardSkewYGroup</key>
+	<string>setCommonThresholdDelegate</string>
+	<key>setImmutableDescriptorFilter</key>
+	<string>setSubstantialVariantCollection</string>
+	<key>setSubsequentLeftExtension</key>
+	<string>restartDirectBandwidthAdapter</string>
+	<key>visitOldVariableCreator</key>
+	<string>restartEphemeralPositionArray</string>
+</dict>
+</plist>

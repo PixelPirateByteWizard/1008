@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discoverSpecifyResultHandler</key>
+	<string>setSortedBrushTarget</string>
+	<key>getStandaloneFragmentsOwner</key>
+	<string>pauseLastListenerInstance</string>
+	<key>restartLiteLeftType</key>
+	<string>resumeMultiParameterHandler</string>
+	<key>setGlobalVectorDelegate</key>
+	<string>limitImmutablePositionPool</string>
+	<key>setMutablePreviewFilter</key>
+	<string>setDelicateQuaternionCreator</string>
+</dict>
+</plist>

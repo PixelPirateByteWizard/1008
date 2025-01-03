@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishDiscardedSineProtocol</key>
+	<string>freeKeyTextDecorator</string>
+	<key>keepPrimaryScalabilityObserver</key>
+	<string>eraseIntermediateDetailDecorator</string>
+	<key>setResilientCharacterFactory</key>
+	<string>trainIterativeAspectStack</string>
+</dict>
+</plist>

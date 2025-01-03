@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroyConcreteTextTarget</key>
+	<string>setAssociatedDeliveryTarget</string>
+	<key>initializeSharedCapacityDecorator</key>
+	<string>setStaticCatalystStack</string>
+	<key>initializeSophisticatedMusicFactory</key>
+	<string>concatenateHierarchicalSceneHandler</string>
+	<key>keepCommonBufferStack</key>
+	<string>getSubtleVolumeManager</string>
+	<key>setArithmeticOptimizerProtocol</key>
+	<string>setHardParticleManager</string>
+	<key>skipSemanticIntegerDelegate</key>
+	<string>setPublicEdgeCreator</string>
+	<key>stopPriorDataExtension</key>
+	<string>setSingleElasticityObserver</string>
+	<key>updateTypicalOriginHandler</key>
+	<string>animatePriorStrokeTarget</string>
+</dict>
+</plist>

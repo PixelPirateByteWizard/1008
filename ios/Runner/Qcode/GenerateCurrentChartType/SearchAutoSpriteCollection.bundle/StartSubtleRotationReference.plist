@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getSortedPreviewFilter</key>
+	<string>quantizationLiteContractionHelper</string>
+	<key>getSubsequentParamCache</key>
+	<string>replaceRobustResolverArray</string>
+	<key>setEnabledStrengthDecorator</key>
+	<string>setPrevPlaybackFactory</string>
+	<key>setGeometricObserverExtension</key>
+	<string>stopStandaloneMusicHelper</string>
+	<key>setMediocreValueCache</key>
+	<string>syncRespectiveParameterCollection</string>
+</dict>
+</plist>

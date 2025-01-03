@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endExplicitResolverDecorator</key>
+	<string>initializeUnactivatedParamExtension</string>
+	<key>getLiteParameterHandler</key>
+	<string>clipSemanticRendererFactory</string>
+	<key>getSeamlessBufferBase</key>
+	<string>finishConcreteParameterDecorator</string>
+	<key>providePivotalSchemaCollection</key>
+	<string>getOriginalLoopFactory</string>
+	<key>reduceSignificantChapterStack</key>
+	<string>setReusableRightImplement</string>
+	<key>replaceEasyConsumptionCreator</key>
+	<string>unscheduleDiversifiedRowFilter</string>
+	<key>setMediocreAllocatorFilter</key>
+	<string>getRelationalVideoType</string>
+	<key>skipSymmetricParameterImplement</key>
+	<string>trainNumericalBufferCreator</string>
+	<key>trainPermanentVarFactory</key>
+	<string>getMediocreMapType</string>
+</dict>
+</plist>

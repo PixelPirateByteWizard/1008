@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentStandaloneScopeObserver</key>
+	<string>getConsultativeGridHandler</string>
+	<key>equalStaticBoundBase</key>
+	<string>resizeSingleTrajectoryContainer</string>
+	<key>generateGreatColorExtension</key>
+	<string>continueTypicalEdgeHandler</string>
+	<key>getIntuitiveVisibleFactory</key>
+	<string>conformHyperbolicTempleManager</string>
+	<key>getResilientConstantGroup</key>
+	<string>keepMutableSpotCache</string>
+	<key>getUniqueScaleTarget</key>
+	<string>keepConcurrentLabelStack</string>
+	<key>optimizeRetainedParamGroup</key>
+	<string>keepOpaqueScaleList</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMultiProjectionFactory</key>
+	<string>requestGranularImpactObserver</string>
+	<key>restartSemanticBufferDelegate</key>
+	<string>detachIgnoredVariableCreator</string>
+	<key>resumeEnabledCacheFilter</key>
+	<string>setDiscardedMobileOwner</string>
+	<key>setBackwardNumberAdapter</key>
+	<string>startBeginnerEdgeHandler</string>
+	<key>setCrudeVarGroup</key>
+	<string>cleanMainCenterFilter</string>
+</dict>
+</plist>

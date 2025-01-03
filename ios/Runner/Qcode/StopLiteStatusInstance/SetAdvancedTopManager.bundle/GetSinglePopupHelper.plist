@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getImmutableAnalogyManager</key>
+	<string>endAsynchronousBaselineCreator</string>
+	<key>poolNextBufferDelegate</key>
+	<string>executeDisparateHeadHelper</string>
+	<key>restartSingleParamFactory</key>
+	<string>setSharedParameterInstance</string>
+	<key>skipSustainableSceneManager</key>
+	<string>dismissDisparateTopDelegate</string>
+</dict>
+</plist>

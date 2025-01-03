@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineRespectiveTempleManager</key>
+	<string>restartSmallTempleType</string>
+	<key>endProtectedChapterList</key>
+	<string>resumeRapidProgressBarGroup</string>
+	<key>getLargeChapterPool</key>
+	<string>getDeclarativeToolHelper</string>
+	<key>storeRapidCoordinatorTarget</key>
+	<string>endNextModelBase</string>
+</dict>
+</plist>

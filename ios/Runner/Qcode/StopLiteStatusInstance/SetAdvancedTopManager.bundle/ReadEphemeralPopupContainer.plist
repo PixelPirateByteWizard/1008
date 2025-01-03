@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeRequiredBufferProtocol</key>
+	<string>setKeyRemainderHandler</string>
+	<key>freeDedicatedVariableManager</key>
+	<string>animateAccordionLayoutList</string>
+	<key>lockSeamlessNumberCollection</key>
+	<string>finishReusableGemFilter</string>
+	<key>prepareIntermediateGramManager</key>
+	<string>getSortedStyleAdapter</string>
+	<key>setBeginnerValueManager</key>
+	<string>getStandaloneParameterAdapter</string>
+	<key>setRobustTempleContainer</key>
+	<string>drawCustomDispatcherCache</string>
+	<key>setSophisticatedBrushInstance</key>
+	<string>enumerateAgilePaddingAdapter</string>
+	<key>skipIntermediateTextCache</key>
+	<string>setExplicitStatusAdapter</string>
+</dict>
+</plist>

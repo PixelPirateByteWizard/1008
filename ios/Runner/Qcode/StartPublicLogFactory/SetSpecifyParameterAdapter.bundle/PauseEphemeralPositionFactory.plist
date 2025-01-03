@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCrudeParamHandler</key>
+	<string>keepResilientEventArray</string>
+	<key>pauseNormalNumberProtocol</key>
+	<string>equalHyperbolicValueObserver</string>
+	<key>restartActivatedGridReference</key>
+	<string>prepareLargeEdgeStack</string>
+</dict>
+</plist>

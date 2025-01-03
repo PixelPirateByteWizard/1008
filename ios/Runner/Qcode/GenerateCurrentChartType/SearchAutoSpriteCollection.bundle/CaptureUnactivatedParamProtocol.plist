@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishSubsequentScopeDelegate</key>
+	<string>getConcurrentValueAdapter</string>
+	<key>finishSubsequentTempleInstance</key>
+	<string>setSmallVarDelegate</string>
+	<key>playAccordionMetadataBase</key>
+	<string>trainArithmeticInfoCreator</string>
+	<key>resumeNextListenerFactory</key>
+	<string>createSophisticatedPetContainer</string>
+	<key>setCartesianHashType</key>
+	<string>getPermissiveResultInstance</string>
+	<key>setEasyButtonFilter</key>
+	<string>setBackwardAssetInstance</string>
+	<key>setPrismaticOperationInstance</key>
+	<string>pauseAsynchronousColorHelper</string>
+</dict>
+</plist>

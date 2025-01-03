@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getLargeNumberGroup</key>
+	<string>skipGeometricCoordCache</string>
+	<key>getUsedProgressBarOwner</key>
+	<string>makeIterativeActivityImplement</string>
+	<key>retainImmutableDocumentDecorator</key>
+	<string>getOtherStyleArray</string>
+	<key>setSingleSliderCache</key>
+	<string>getFirstAllocatorList</string>
+	<key>setSingleTextureGroup</key>
+	<string>getGranularTailAdapter</string>
+</dict>
+</plist>

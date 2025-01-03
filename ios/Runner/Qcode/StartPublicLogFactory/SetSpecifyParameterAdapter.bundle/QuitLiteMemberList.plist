@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keepFirstParamObserver</key>
+	<string>startGeometricFormatGroup</string>
+	<key>prepareEphemeralTitleReference</key>
+	<string>finishSingleTextureHelper</string>
+	<key>restoreDiversifiedBehaviorProtocol</key>
+	<string>decoupleUnactivatedBaseHelper</string>
+	<key>setOpaqueSchedulerObserver</key>
+	<string>setRequiredContractionList</string>
+	<key>setOpaqueVariableTarget</key>
+	<string>keepIterativeResolverProtocol</string>
+	<key>trainGeometricMatrixList</key>
+	<string>setIntuitiveFrameGroup</string>
+</dict>
+</plist>

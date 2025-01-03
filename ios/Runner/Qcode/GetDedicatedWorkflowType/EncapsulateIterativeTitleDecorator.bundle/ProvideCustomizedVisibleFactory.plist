@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dissociateTensorVariableAdapter</key>
+	<string>findRespectivePositionDelegate</string>
+	<key>getLiteSizeHandler</key>
+	<string>refreshDelicateParamGroup</string>
+	<key>keepHardBufferDecorator</key>
+	<string>rotateConcurrentInitiatorsPool</string>
+	<key>prepareConcurrentMetadataDelegate</key>
+	<string>calculateMutableDepthStack</string>
+	<key>setOldDialogsTarget</key>
+	<string>associateComprehensiveScaleInstance</string>
+	<key>setUniformTopicReference</key>
+	<string>dismissDenseProjectInstance</string>
+	<key>stopSimilarBoxExtension</key>
+	<string>getSeamlessLabelInstance</string>
+	<key>trainIntermediateVarPool</key>
+	<string>prepareDiscardedParameterInstance</string>
+</dict>
+</plist>

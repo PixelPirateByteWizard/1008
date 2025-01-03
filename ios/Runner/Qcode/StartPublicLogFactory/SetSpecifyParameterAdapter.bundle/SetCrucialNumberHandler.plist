@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getBeginnerEdgeHandler</key>
+	<string>trainResilientVectorAdapter</string>
+	<key>getLargeLayerCollection</key>
+	<string>analyzeRequiredGraphHelper</string>
+	<key>getLostChapterCreator</key>
+	<string>getIntuitiveListenerTarget</string>
+	<key>getSeamlessBufferDelegate</key>
+	<string>skipCurrentVarHandler</string>
+	<key>restartPrismaticVolumeObserver</key>
+	<string>aggregateSignificantLayoutContainer</string>
+	<key>rotateElasticHashImplement</key>
+	<string>getMainValueHandler</string>
+	<key>setNumericalConfidentialityType</key>
+	<string>setPrismaticGraphicTarget</string>
+	<key>setPermanentParamFactory</key>
+	<string>reflectGranularTempleStack</string>
+	<key>skipGeometricRecursionTarget</key>
+	<string>touchExplicitScaleDelegate</string>
+</dict>
+</plist>

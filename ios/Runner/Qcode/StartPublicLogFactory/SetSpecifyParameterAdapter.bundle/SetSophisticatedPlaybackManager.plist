@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keepPrevBorderContainer</key>
+	<string>resumeGlobalRowCache</string>
+	<key>pauseFirstTraversalAdapter</key>
+	<string>optimizeDirectGrainCreator</string>
+	<key>pauseMediocreButtonImplement</key>
+	<string>stopExplicitHeadImplement</string>
+	<key>resumeGlobalEquipmentFactory</key>
+	<string>checkExplicitNumberObserver</string>
+	<key>stopCurrentNumberTarget</key>
+	<string>skipUnsortedItemStack</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endCriticalColorCollection</key>
+	<string>trainPermissiveDistinctionImplement</string>
+	<key>endKeyParameterReference</key>
+	<string>getNextColorStack</string>
+	<key>finishPermissiveZoneHandler</key>
+	<string>skipLostParamImplement</string>
+	<key>finishSharedVarDelegate</key>
+	<string>refreshPriorPetArray</string>
+	<key>setHyperbolicDurationAdapter</key>
+	<string>setDisplayableItemImplement</string>
+	<key>setPriorParameterDelegate</key>
+	<string>setHyperbolicBufferFactory</string>
+	<key>skipStaticTopExtension</key>
+	<string>searchAgileResilienceDelegate</string>
+	<key>startCurrentBoundObserver</key>
+	<string>resumeSmartOriginAdapter</string>
+</dict>
+</plist>

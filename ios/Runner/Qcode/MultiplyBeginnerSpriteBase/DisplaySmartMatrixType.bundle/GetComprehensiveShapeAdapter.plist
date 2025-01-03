@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getConcurrentGridFilter</key>
+	<string>trainSymmetricSchemaInstance</string>
+	<key>getLargeResultFilter</key>
+	<string>getNextLeftArray</string>
+	<key>pauseRapidSampleCache</key>
+	<string>startPermissiveVisibleTarget</string>
+	<key>providePriorVarHelper</key>
+	<string>getHyperbolicFrameOwner</string>
+	<key>quitRapidChallengeExtension</key>
+	<string>getAssociatedTopicDelegate</string>
+	<key>replaceDirectSpriteOwner</key>
+	<string>startSharedNodeHelper</string>
+	<key>showPrimaryTitleFactory</key>
+	<string>discoverBackwardConfigurationTarget</string>
+	<key>stopAdvancedRectangleType</key>
+	<string>prepareDenseBulletExtension</string>
+</dict>
+</plist>

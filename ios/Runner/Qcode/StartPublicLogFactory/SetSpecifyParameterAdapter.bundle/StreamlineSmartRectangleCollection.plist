@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentTensorOriginCollection</key>
+	<string>equalIndependentVariableList</string>
+	<key>dropoutMissedTweakTarget</key>
+	<string>initializeArithmeticMetricsGroup</string>
+	<key>fillPermissiveImpactStack</key>
+	<string>setSubtleLabelAdapter</string>
+	<key>initializeCustomizedPreviewHandler</key>
+	<string>keepMainNumberArray</string>
+	<key>setConcreteIndexProtocol</key>
+	<string>pauseCriticalHistogramContainer</string>
+	<key>setLiteNameHelper</key>
+	<string>restartConcurrentDescriptionFactory</string>
+	<key>setMutableNumberTarget</key>
+	<string>storeIterativeResolverCollection</string>
+	<key>setSortedTextureCache</key>
+	<string>finishDirectLayoutCreator</string>
+	<key>startBackwardGramCollection</key>
+	<string>getStaticGrainBase</string>
+</dict>
+</plist>

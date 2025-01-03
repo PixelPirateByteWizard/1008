@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelPrismaticGraphFactory</key>
+	<string>trainProtectedUtilAdapter</string>
+	<key>cancelSymmetricGroupExtension</key>
+	<string>pauseFirstRendererDecorator</string>
+	<key>getImmutableGraphImplement</key>
+	<string>computeEasyIndexInstance</string>
+	<key>getSortedHeadExtension</key>
+	<string>setRequiredEquipmentCollection</string>
+	<key>mitigateNormalIndexCollection</key>
+	<string>getNewestSkewXCollection</string>
+	<key>reconcileSortedReplicaTarget</key>
+	<string>pauseStandaloneReplicaGroup</string>
+	<key>setPriorParticleHelper</key>
+	<string>prepareComprehensiveDepthAdapter</string>
+	<key>updateCommonBufferTarget</key>
+	<string>initializeRapidCatalystObserver</string>
+</dict>
+</plist>

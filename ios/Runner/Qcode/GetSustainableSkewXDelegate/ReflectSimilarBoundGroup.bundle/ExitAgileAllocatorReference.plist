@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueConcreteFlagsImplement</key>
+	<string>skipFirstScalabilityCache</string>
+	<key>endGranularCoordCache</key>
+	<string>stopStaticStepManager</string>
+	<key>getDenseSpotDecorator</key>
+	<string>setSemanticVisibleProtocol</string>
+	<key>getPermanentNotationHandler</key>
+	<string>finishDelicateCycleManager</string>
+	<key>pauseMultiRecursionContainer</key>
+	<string>limitOpaqueVisiblePool</string>
+	<key>searchDeclarativeParameterManager</key>
+	<string>prepareEphemeralReliabilityInstance</string>
+	<key>setNewestSchemaAdapter</key>
+	<string>respondAccordionEvolutionManager</string>
+	<key>storeIterativeVarHandler</key>
+	<string>getLargeAperturePool</string>
+</dict>
+</plist>

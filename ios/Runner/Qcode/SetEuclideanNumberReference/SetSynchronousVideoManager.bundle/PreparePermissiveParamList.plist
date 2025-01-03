@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipSmartIntegrationInstance</key>
+	<string>restartSemanticVarHandler</string>
+	<key>continueStaticVisibleHandler</key>
+	<string>setPublicBoundCache</string>
+	<key>dismissRelationalParameterFilter</key>
+	<string>getSymmetricParameterArray</string>
+	<key>endCrudeFragmentProtocol</key>
+	<string>displayNewestTagExtension</string>
+	<key>requestSmartGridAdapter</key>
+	<string>showDirectProgressBarArray</string>
+	<key>resumeConcurrentNumberManager</key>
+	<string>quantizerIterativeReplicaObserver</string>
+	<key>resumeHyperbolicOriginCache</key>
+	<string>setSynchronousDescriptionList</string>
+	<key>setIgnoredSliderCache</key>
+	<string>eraseExplicitTagExtension</string>
+	<key>streamlineRequiredRowTarget</key>
+	<string>getCartesianBufferOwner</string>
+</dict>
+</plist>

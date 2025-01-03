@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getHardFlagsHandler</key>
+	<string>compareRespectiveVariantObserver</string>
+	<key>initializeFirstParameterGroup</key>
+	<string>startOriginalVariableCollection</string>
+	<key>keepFirstSignTarget</key>
+	<string>pausePermanentParamList</string>
+	<key>setGeometricVarHelper</key>
+	<string>getSustainableResolverPool</string>
+	<key>setOldEdgeGroup</key>
+	<string>prepareCommonRotationArray</string>
+	<key>startSecondCenterInstance</key>
+	<string>cancelSemanticTailHelper</string>
+	<key>stopStaticFeatureAdapter</key>
+	<string>skipPermanentTailCollection</string>
+	<key>trainAsynchronousPositionProtocol</key>
+	<string>computeDisplayableTempleImplement</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayRapidActionFilter</key>
+	<string>unscheduleMissedPriorityAdapter</string>
+	<key>endConcreteCenterInstance</key>
+	<string>setCrucialNumberManager</string>
+	<key>endRequiredSineObserver</key>
+	<string>keepGlobalMatrixContainer</string>
+	<key>getNextAxisHelper</key>
+	<string>decoupleLostVariableObserver</string>
+	<key>initializeCriticalDepthInstance</key>
+	<string>initializeSynchronousSchemaHelper</string>
+	<key>skipLastActivityCreator</key>
+	<string>getLostFlagsType</string>
+</dict>
+</plist>

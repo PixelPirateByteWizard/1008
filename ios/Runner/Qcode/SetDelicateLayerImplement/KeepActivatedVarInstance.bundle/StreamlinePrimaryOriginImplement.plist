@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addCrucialCoordinatorObserver</key>
+	<string>startRapidResultObserver</string>
+	<key>getAssociatedParamReference</key>
+	<string>endOtherAscentFilter</string>
+	<key>getCustomParamStack</key>
+	<string>generateIndependentTempleList</string>
+	<key>getSharedPrecisionGroup</key>
+	<string>pauseIndependentStateHandler</string>
+	<key>renameEasyInterpolationBase</key>
+	<string>skipDenseValueCollection</string>
+	<key>setNumericalColorAdapter</key>
+	<string>augmentAccessibleUtilInstance</string>
+</dict>
+</plist>

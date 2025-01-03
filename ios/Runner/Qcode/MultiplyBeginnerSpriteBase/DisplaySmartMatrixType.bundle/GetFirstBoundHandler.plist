@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishElasticTrajectoryReference</key>
+	<string>initializePrismaticProvisionTarget</string>
+	<key>getLargeAnchorFilter</key>
+	<string>keepSpecifySessionDelegate</string>
+	<key>resizeElasticLayoutImplement</key>
+	<string>wrapSpecifyScopeCache</string>
+	<key>stopOriginalPolygonPool</key>
+	<string>getPublicOptimizerHelper</string>
+</dict>
+</plist>

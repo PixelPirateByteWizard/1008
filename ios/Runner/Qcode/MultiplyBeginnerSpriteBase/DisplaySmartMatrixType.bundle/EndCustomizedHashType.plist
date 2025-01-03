@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endProtectedPositionHelper</key>
+	<string>trainReusableIndexStack</string>
+	<key>eraseMissedRectangleArray</key>
+	<string>locateSortedParticleImplement</string>
+	<key>exitPermanentUnaryFilter</key>
+	<string>showHyperbolicBufferStack</string>
+	<key>introspectActivatedVisibleHandler</key>
+	<string>getDiscardedVariableType</string>
+	<key>pauseMainNameHandler</key>
+	<string>extendLostBottomStack</string>
+	<key>prepareRetainedTimelineFactory</key>
+	<string>setMultiEffectObserver</string>
+	<key>resumeSingleCubeCollection</key>
+	<string>introspectSynchronousTempleObserver</string>
+	<key>setPermanentMusicAdapter</key>
+	<string>getStaticLabelStack</string>
+</dict>
+</plist>

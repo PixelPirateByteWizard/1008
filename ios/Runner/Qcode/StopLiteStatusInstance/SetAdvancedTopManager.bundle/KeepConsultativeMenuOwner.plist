@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkCommonTempleTarget</key>
+	<string>getSimilarPreviewInstance</string>
+	<key>eraseAssociatedTimelineOwner</key>
+	<string>setBasicPriorityFilter</string>
+	<key>getNormalCenterInstance</key>
+	<string>getLostFlagsArray</string>
+	<key>restartSubstantialListenerHandler</key>
+	<string>getReusableBufferHelper</string>
+	<key>setLocalParamList</key>
+	<string>setIntuitiveCapacityHandler</string>
+	<key>setPrimaryGateType</key>
+	<string>searchEnabledButtonInstance</string>
+</dict>
+</plist>

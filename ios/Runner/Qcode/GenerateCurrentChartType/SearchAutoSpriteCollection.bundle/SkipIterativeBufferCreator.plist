@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendSynchronousDeliveryBase</key>
+	<string>getFirstSkewXTarget</string>
+	<key>cancelDeclarativeDepthCreator</key>
+	<string>resumeSymmetricIntegrationCache</string>
+	<key>getLostMetadataCache</key>
+	<string>pauseOpaqueParameterImplement</string>
+	<key>getRetainedTailList</key>
+	<string>introspectMainThreadCollection</string>
+	<key>multiplyUniformRestrictionContainer</key>
+	<string>continueStandaloneTopicPool</string>
+	<key>setMissedSampleStack</key>
+	<string>setComprehensiveAudioGroup</string>
+</dict>
+</plist>

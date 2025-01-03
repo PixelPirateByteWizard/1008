@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroyArithmeticMapReference</key>
+	<string>freeNextBufferArray</string>
+	<key>destroySingleAnchorBase</key>
+	<string>setEphemeralPrecisionTarget</string>
+	<key>prepareCrucialNumberExtension</key>
+	<string>startRobustParamObserver</string>
+	<key>setIntuitiveParameterImplement</key>
+	<string>getSortedCoordBase</string>
+	<key>startDirectContractionGroup</key>
+	<string>prepareUnsortedMediaFilter</string>
+	<key>stopPrevResolverOwner</key>
+	<string>resumeReusableRemainderGroup</string>
+</dict>
+</plist>

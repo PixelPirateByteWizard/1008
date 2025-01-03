@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>limitIterativeImpactInstance</key>
+	<string>continueUnactivatedReplicaOwner</string>
+	<key>quantizationOldChecklistDecorator</key>
+	<string>setUnactivatedTailCreator</string>
+	<key>skipPrimaryAspectTarget</key>
+	<string>clearSynchronousResultStack</string>
+</dict>
+</plist>

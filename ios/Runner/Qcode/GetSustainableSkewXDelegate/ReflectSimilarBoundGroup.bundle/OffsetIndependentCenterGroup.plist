@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelLocalSpecifierManager</key>
+	<string>setCurrentFlagsOwner</string>
+	<key>createLocalResultDecorator</key>
+	<string>continueConcreteBulletFilter</string>
+	<key>getOldInitiativeList</key>
+	<string>setSharedBulletType</string>
+	<key>playDifficultControllerList</key>
+	<string>setNextMenuGroup</string>
+	<key>setBackwardTempleProtocol</key>
+	<string>setUnsortedCaptionContainer</string>
+	<key>streamlineDifficultParamAdapter</key>
+	<string>setSpecifySpecifierList</string>
+</dict>
+</plist>

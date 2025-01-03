@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exitSynchronousVariableAdapter</key>
+	<string>setMutableGramCache</string>
+	<key>findEphemeralObjectCache</key>
+	<string>getSeamlessTimeCreator</string>
+	<key>getPrimaryParticleDecorator</key>
+	<string>setSharedDistinctionOwner</string>
+	<key>makeCustomValueAdapter</key>
+	<string>getOpaqueInterfaceManager</string>
+	<key>markSeamlessChartArray</key>
+	<string>setArithmeticCardList</string>
+	<key>setSingleVarStack</key>
+	<string>getDirectlyHashInstance</string>
+</dict>
+</plist>

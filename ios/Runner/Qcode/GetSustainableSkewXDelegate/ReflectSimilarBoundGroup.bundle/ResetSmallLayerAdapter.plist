@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateSharedWorkflowImplement</key>
+	<string>setSmartConfigurationCache</string>
+	<key>dissociatePermanentHeadTarget</key>
+	<string>getCommonBufferManager</string>
+	<key>endMissedToleranceDecorator</key>
+	<string>releaseBeginnerApertureReference</string>
+	<key>getFirstCoordinatorFactory</key>
+	<string>regulateStaticParamOwner</string>
+	<key>getMainParameterInstance</key>
+	<string>getIntuitiveViewExtension</string>
+	<key>pushCrudeLeftStack</key>
+	<string>finishConsultativePopupCollection</string>
+	<key>replaceDisparateParamCache</key>
+	<string>startRetainedDialogsCreator</string>
+	<key>revisitIndependentTailManager</key>
+	<string>continueUniqueProgressBarCollection</string>
+	<key>searchGlobalCenterObserver</key>
+	<string>removePermissiveEdgeStack</string>
+	<key>startDisplayableVariableArray</key>
+	<string>syncOldNameBase</string>
+</dict>
+</plist>

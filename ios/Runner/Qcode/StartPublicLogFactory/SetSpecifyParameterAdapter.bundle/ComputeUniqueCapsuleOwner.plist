@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>differentiateFirstReductionHandler</key>
+	<string>computeBasicTentativeHandler</string>
+	<key>getStaticSizeHandler</key>
+	<string>finishMissedAccessoryFilter</string>
+	<key>prepareMutableTopCache</key>
+	<string>adjustImmutableAllocatorAdapter</string>
+	<key>rotatePrevEqualizationType</key>
+	<string>spinResilientStepContainer</string>
+	<key>rotateSingleRemainderObserver</key>
+	<string>continueSimilarEntropyProtocol</string>
+	<key>setDeclarativeRightBase</key>
+	<string>getReusableStrokeImplement</string>
+</dict>
+</plist>

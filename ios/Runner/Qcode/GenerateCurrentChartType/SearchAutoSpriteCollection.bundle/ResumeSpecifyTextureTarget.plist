@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addPublicChapterContainer</key>
+	<string>computeEphemeralOriginObserver</string>
+	<key>prepareDenseValueCache</key>
+	<string>setPrevVarFilter</string>
+	<key>prepareOldVarType</key>
+	<string>setIgnoredImageInstance</string>
+	<key>requestCustomizedBufferStack</key>
+	<string>showUniqueRotationInstance</string>
+	<key>setPriorStatusInstance</key>
+	<string>resumeAccordionParameterTarget</string>
+	<key>setUsedBottomDecorator</key>
+	<string>setKeyTextAdapter</string>
+</dict>
+</plist>

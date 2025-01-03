@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>floatMediumResolverImplement</key>
+	<string>getGranularSpecifierOwner</string>
+	<key>getDedicatedAxisReference</key>
+	<string>resumeHierarchicalShapeOwner</string>
+	<key>getMainModelDecorator</key>
+	<string>setFusedOptimizerType</string>
+	<key>keepActivatedLeftBase</key>
+	<string>stopGreatStyleCreator</string>
+	<key>setCriticalBoundProtocol</key>
+	<string>continueDelicateRecursionStack</string>
+	<key>unlockCustomSpineProtocol</key>
+	<string>prepareResilientQuaternionContainer</string>
+</dict>
+</plist>

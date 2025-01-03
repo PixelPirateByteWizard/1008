@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustPrimaryParameterHandler</key>
+	<string>setSustainableFlagsGroup</string>
+	<key>getAccessibleFrameManager</key>
+	<string>setNumericalCenterCollection</string>
+	<key>getOpaqueParameterObserver</key>
+	<string>createAccessibleSignatureProtocol</string>
+	<key>provideCrudeGraphicGroup</key>
+	<string>setRapidLoopContainer</string>
+	<key>searchDenseVarArray</key>
+	<string>embedCurrentRestrictionPool</string>
+	<key>setEasyValueManager</key>
+	<string>getGranularTrajectoryExtension</string>
+</dict>
+</plist>

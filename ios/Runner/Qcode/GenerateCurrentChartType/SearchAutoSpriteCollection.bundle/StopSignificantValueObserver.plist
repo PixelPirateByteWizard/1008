@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaySynchronousNameHandler</key>
+	<string>finishPermissiveSchedulerBase</string>
+	<key>setConsultativeFlagsDecorator</key>
+	<string>clipCustomScreenGroup</string>
+	<key>setPermissiveBufferHelper</key>
+	<string>endSignificantThresholdList</string>
+	<key>stopHyperbolicBufferGroup</key>
+	<string>pauseNormalConstantCache</string>
+	<key>upgradeEphemeralBaseGroup</key>
+	<string>setUniqueTempleDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineRequiredMissionStack</key>
+	<string>initializeIgnoredHeadArray</string>
+	<key>getAccordionVariableAdapter</key>
+	<string>initializeMissedTemplePool</string>
+	<key>getDiscardedFeatureReference</key>
+	<string>trainLastViewContainer</string>
+	<key>pauseSubsequentSkewYDelegate</key>
+	<string>restartDenseBoundHelper</string>
+	<key>setSeamlessReferenceGroup</key>
+	<string>streamlineSortedConstantBase</string>
+	<key>skipCriticalTempleAdapter</key>
+	<string>trainEphemeralDialogsHelper</string>
+	<key>undertakeEuclideanAccessoryOwner</key>
+	<string>endAccordionProgressBarCache</string>
+</dict>
+</plist>

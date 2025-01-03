@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exitSharedProvisionImplement</key>
+	<string>addAgileFrameTarget</string>
+	<key>pauseUniqueRemediationExtension</key>
+	<string>getResilientActionFilter</string>
+	<key>prepareAccessibleGraphPool</key>
+	<string>quantizerLostRoleObserver</string>
+	<key>setSmartParamObserver</key>
+	<string>getNumericalSizeDelegate</string>
+	<key>setUnsortedObjectTarget</key>
+	<string>continueHardVariableList</string>
+</dict>
+</plist>

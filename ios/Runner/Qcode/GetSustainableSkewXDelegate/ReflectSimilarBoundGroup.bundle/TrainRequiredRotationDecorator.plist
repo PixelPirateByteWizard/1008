@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelTensorVariableProtocol</key>
+	<string>createAutoDepthArray</string>
+	<key>getLargeVarCache</key>
+	<string>initializePermissiveDescriptionBase</string>
+	<key>getStaticNumberHelper</key>
+	<string>cancelMediocreTrajectoryFactory</string>
+	<key>pauseHierarchicalFlagsHandler</key>
+	<string>getExplicitBrushType</string>
+	<key>restartLiteProfileList</key>
+	<string>setDirectlySpineFactory</string>
+</dict>
+</plist>

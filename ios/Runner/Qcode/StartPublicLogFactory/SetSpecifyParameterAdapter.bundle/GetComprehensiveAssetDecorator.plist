@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDisparateProjectionContainer</key>
+	<string>setIgnoredMatrixInstance</string>
+	<key>getMediumBandwidthObserver</key>
+	<string>setRobustConstantFilter</string>
+	<key>getPrismaticLayoutExtension</key>
+	<string>stopMutableBorderDelegate</string>
+	<key>getSmallProjectHelper</key>
+	<string>finishAssociatedPointAdapter</string>
+	<key>skipRespectiveCaptionFilter</key>
+	<string>keepDeclarativeSegmentImplement</string>
+</dict>
+</plist>

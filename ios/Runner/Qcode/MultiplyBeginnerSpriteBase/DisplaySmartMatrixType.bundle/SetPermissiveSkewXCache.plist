@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateLastSizeImplement</key>
+	<string>getSemanticFeatureCache</string>
+	<key>cloneOpaqueScaleStack</key>
+	<string>finishDenseNumberObserver</string>
+	<key>enumerateDisparateMaterialStack</key>
+	<string>skipAsynchronousAssetFilter</string>
+	<key>getSortedItemManager</key>
+	<string>holdPivotalPositionAdapter</string>
+	<key>getSynchronousLeftPool</key>
+	<string>getDedicatedPointOwner</string>
+	<key>removeOriginalObjectBase</key>
+	<string>pauseFusedHeadTarget</string>
+	<key>resumeRetainedCoordArray</key>
+	<string>setSortedLabelExtension</string>
+</dict>
+</plist>

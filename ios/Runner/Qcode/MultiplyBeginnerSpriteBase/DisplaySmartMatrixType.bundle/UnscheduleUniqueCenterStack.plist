@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeNormalBoundTarget</key>
+	<string>getRetainedBufferHandler</string>
+	<key>animatePublicCompositionContainer</key>
+	<string>getSecondLeftTarget</string>
+	<key>scheduleLocalBufferObserver</key>
+	<string>setSimilarShapeImplement</string>
+	<key>setDiversifiedVisiblePool</key>
+	<string>getLostOccasionAdapter</string>
+</dict>
+</plist>

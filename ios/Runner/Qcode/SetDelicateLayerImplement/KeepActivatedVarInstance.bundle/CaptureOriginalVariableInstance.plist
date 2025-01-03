@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eraseSymmetricSineStack</key>
+	<string>getOpaqueFeatureExtension</string>
+	<key>getCustomBufferFactory</key>
+	<string>continueLastVarDelegate</string>
+	<key>getOpaqueFeatureList</key>
+	<string>prepareDenseLoopHandler</string>
+	<key>setDirectCycleProtocol</key>
+	<string>setDisplayablePermutationContainer</string>
+	<key>spinArithmeticGraphHandler</key>
+	<string>keepProtectedShaderFactory</string>
+</dict>
+</plist>

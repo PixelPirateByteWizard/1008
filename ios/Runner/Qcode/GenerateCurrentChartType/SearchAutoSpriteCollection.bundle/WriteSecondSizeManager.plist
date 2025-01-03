@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateIterativeGateImplement</key>
+	<string>provideRobustMasterHandler</string>
+	<key>endPublicPriorityDecorator</key>
+	<string>computeElasticFlagsPool</string>
+	<key>getDirectlyDepthHandler</key>
+	<string>initializeAccessibleHashProtocol</string>
+	<key>resetLargeGroupOwner</key>
+	<string>setIntermediateDisclaimerCache</string>
+	<key>rotateMutableVarFactory</key>
+	<string>getDirectlyVarExtension</string>
+	<key>setSynchronousBufferAdapter</key>
+	<string>quantizerGranularParameterFactory</string>
+</dict>
+</plist>

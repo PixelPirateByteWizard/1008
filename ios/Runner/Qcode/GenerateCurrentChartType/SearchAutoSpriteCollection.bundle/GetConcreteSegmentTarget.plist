@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDiscardedDimensionContainer</key>
+	<string>embraceSynchronousSpriteHandler</string>
+	<key>getExplicitColorCache</key>
+	<string>skipPriorLoopList</string>
+	<key>introspectDedicatedColorCreator</key>
+	<string>setConsultativeQueueFactory</string>
+	<key>setSemanticArithmeticCollection</key>
+	<string>stopElasticDescriptorHandler</string>
+	<key>trainCurrentValueContainer</key>
+	<string>destroySortedVisibleGroup</string>
+</dict>
+</plist>

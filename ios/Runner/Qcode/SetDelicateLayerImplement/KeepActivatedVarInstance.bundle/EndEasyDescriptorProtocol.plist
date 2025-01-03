@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenateSecondRendererFactory</key>
+	<string>setEuclideanOpacityFilter</string>
+	<key>getGeometricDescriptionBase</key>
+	<string>setSecondCacheOwner</string>
+	<key>getHardElasticityOwner</key>
+	<string>quantizerBasicNumberAdapter</string>
+	<key>getPermissiveTailCreator</key>
+	<string>pausePrismaticVariableCollection</string>
+	<key>keepSophisticatedTopReference</key>
+	<string>stopSimilarGraphDecorator</string>
+	<key>pauseHierarchicalCatalystDelegate</key>
+	<string>insteadAgileTemplePool</string>
+	<key>setConcreteEvaluationCache</key>
+	<string>resumePriorVariableReference</string>
+	<key>trainExplicitOptionDelegate</key>
+	<string>getCustomHashFilter</string>
+</dict>
+</plist>

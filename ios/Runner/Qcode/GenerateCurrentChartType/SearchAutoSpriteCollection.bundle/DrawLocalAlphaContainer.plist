@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueDifficultLatencyManager</key>
+	<string>setCommonConfigurationFactory</string>
+	<key>discoverLostStateExtension</key>
+	<string>analyzeOpaqueConstantObserver</string>
+	<key>dissociateNewestResolverCache</key>
+	<string>setPrevBandwidthCreator</string>
+	<key>getNextLayerOwner</key>
+	<string>setCustomCoordinatorProtocol</string>
+	<key>keepOtherSpriteBase</key>
+	<string>finishAdvancedBufferArray</string>
+	<key>prepareDenseSessionManager</key>
+	<string>enhanceEuclideanMatrixStack</string>
+	<key>setAdvancedChapterBase</key>
+	<string>limitPermanentClusterBase</string>
+	<key>setUniqueResultBase</key>
+	<string>clearStaticLeftCache</string>
+	<key>stopOldSizeList</key>
+	<string>initializeSortedTextDelegate</string>
+</dict>
+</plist>

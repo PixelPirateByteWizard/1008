@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismissDirectlyVisibleDecorator</key>
+	<string>detachSynchronousDepthContainer</string>
+	<key>finishSubtleBinaryAdapter</key>
+	<string>setHardBufferCollection</string>
+	<key>setAccessiblePopupGroup</key>
+	<string>setDiscardedReductionOwner</string>
+	<key>touchLiteKernelManager</key>
+	<string>setSecondDispatcherTarget</string>
+	<key>touchUniqueInterpolationBase</key>
+	<string>insteadArithmeticValueProtocol</string>
+</dict>
+</plist>

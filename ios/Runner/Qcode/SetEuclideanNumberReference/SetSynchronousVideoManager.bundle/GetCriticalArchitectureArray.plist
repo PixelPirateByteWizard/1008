@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embraceConcurrentVariableDelegate</key>
+	<string>setBeginnerChartTarget</string>
+	<key>getMainScaleExtension</key>
+	<string>setPermanentReferenceContainer</string>
+	<key>setDirectQueueTarget</key>
+	<string>finishHierarchicalBorderReference</string>
+	<key>setSubstantialTagBase</key>
+	<string>clipRespectiveLabelCollection</string>
+	<key>unlockBasicBottomDelegate</key>
+	<string>getSophisticatedTextCreator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipArithmeticSceneManager</key>
+	<string>skipConcurrentSkewXTarget</string>
+	<key>getEnabledDepthHandler</key>
+	<string>embedIterativeAllocatorProtocol</string>
+	<key>getGreatTempleFactory</key>
+	<string>resumePermanentPreviewReference</string>
+	<key>moveSymmetricValueObserver</key>
+	<string>startNormalRightDecorator</string>
+	<key>navigateDenseLeftDecorator</key>
+	<string>getActivatedQueuePool</string>
+	<key>releaseAccordionVariableOwner</key>
+	<string>cancelSpecifyProfileObserver</string>
+	<key>restartConsultativeTempleFactory</key>
+	<string>allocateRapidParamStack</string>
+	<key>searchDiscardedResourceGroup</key>
+	<string>releaseBeginnerTextureBase</string>
+	<key>stopImmutableParameterCollection</key>
+	<string>getGlobalTempleAdapter</string>
+</dict>
+</plist>

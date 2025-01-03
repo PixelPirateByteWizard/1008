@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanUsedEquivalentTarget</key>
+	<string>startEnabledButtonFilter</string>
+	<key>convertSmartVariableObserver</key>
+	<string>prepareGranularAllocatorInstance</string>
+	<key>exitIgnoredReferenceAdapter</key>
+	<string>playDirectColorFactory</string>
+	<key>quitSymmetricAscentList</key>
+	<string>setCustomizedComponentTarget</string>
+	<key>resumeMediocreGrainCreator</key>
+	<string>pauseUsedParameterCreator</string>
+	<key>setRobustFragmentsHandler</key>
+	<string>captureSpecifyDescriptionGroup</string>
+</dict>
+</plist>

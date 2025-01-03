@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSortedMetadataHelper</key>
+	<string>getReusableTopicObserver</string>
+	<key>keepNextCacheOwner</key>
+	<string>skipSynchronousBufferHelper</string>
+	<key>spinGlobalRectangleObserver</key>
+	<string>setAutoLeftHelper</string>
+	<key>startEuclideanBufferArray</key>
+	<string>markReusableObserverPool</string>
+	<key>stopUniqueSlashFactory</key>
+	<string>markSortedBufferManager</string>
+</dict>
+</plist>

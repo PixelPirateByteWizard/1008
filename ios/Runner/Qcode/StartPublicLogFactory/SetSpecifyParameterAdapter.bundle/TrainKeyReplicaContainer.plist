@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDirectFrameFactory</key>
+	<string>setOldFramePool</string>
+	<key>initializeMediocreTempleCache</key>
+	<string>obtainSymmetricHashObserver</string>
+	<key>limitGeometricScopeFactory</key>
+	<string>getDelicateBoundStack</string>
+	<key>prepareReusableModuleDelegate</key>
+	<string>setMutableHeadArray</string>
+	<key>restartResilientBufferType</key>
+	<string>getOriginalPetHelper</string>
+	<key>resumeGeometricTagStack</key>
+	<string>setSemanticOperationReference</string>
+	<key>setSimilarConfidentialityContainer</key>
+	<string>finishConcretePreviewHelper</string>
+</dict>
+</plist>

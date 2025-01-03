@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloneSmallSizeFilter</key>
+	<string>checkMediocreAssetBase</string>
+	<key>convertSubsequentBrushStack</key>
+	<string>initializeImmutablePreviewCache</string>
+	<key>endPrevEdgeHandler</key>
+	<string>setDiscardedSizeType</string>
+	<key>getCrucialAllocatorObserver</key>
+	<string>endDenseQueuePool</string>
+	<key>prepareEnabledTextureDecorator</key>
+	<string>reflectUnsortedScaleImplement</string>
+	<key>replaceOriginalPaddingPool</key>
+	<string>continueDedicatedInformationType</string>
+	<key>setSophisticatedGroupManager</key>
+	<string>convertDenseBottomImplement</string>
+	<key>trainSingleMovementArray</key>
+	<string>getEnabledVarCache</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelImmutableGrainHelper</key>
+	<string>keepCurrentProgressBarInstance</string>
+	<key>keepPermanentLabelAdapter</key>
+	<string>restartNextIndexCreator</string>
+	<key>pauseAccessibleTentativeBase</key>
+	<string>poolLocalVarDelegate</string>
+	<key>renameActivatedIndexPool</key>
+	<string>extendElasticDialogsStack</string>
+	<key>skipPrimaryNodeType</key>
+	<string>setSignificantTitleDelegate</string>
+	<key>stopLargeRecursionReference</key>
+	<string>setPermanentOptimizerBase</string>
+</dict>
+</plist>

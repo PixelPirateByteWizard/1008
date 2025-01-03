@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueUsedRowReference</key>
+	<string>offsetCommonTaskType</string>
+	<key>drawAsynchronousGrainCreator</key>
+	<string>addPermissiveVarList</string>
+	<key>getLastImpactImplement</key>
+	<string>initializePublicValueDecorator</string>
+	<key>initializeIterativeTopStack</key>
+	<string>setHardTailImplement</string>
+	<key>resumePermanentPermutationInstance</key>
+	<string>continueDiscardedLabelHelper</string>
+	<key>resumeSortedViewExtension</key>
+	<string>getOriginalBufferType</string>
+</dict>
+</plist>

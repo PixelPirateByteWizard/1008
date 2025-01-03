@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkOtherTaxonomyDelegate</key>
+	<string>calculateOtherLayerReference</string>
+	<key>decoupleSymmetricReplicaHelper</key>
+	<string>stopReusableVarBase</string>
+	<key>endEuclideanChapterImplement</key>
+	<string>pauseMultiParameterManager</string>
+	<key>finishRequiredCompositionPool</key>
+	<string>trainIgnoredVariableReference</string>
+	<key>floatLargeHashImplement</key>
+	<string>decoupleDisplayableAscentDelegate</string>
+	<key>getActivatedVariableInstance</key>
+	<string>spinSynchronousInterpolationHelper</string>
+	<key>quantizerCriticalValueOwner</key>
+	<string>clipNextGraphArray</string>
+	<key>quantizerIterativeNumberFilter</key>
+	<string>locateEnabledVarFilter</string>
+</dict>
+</plist>

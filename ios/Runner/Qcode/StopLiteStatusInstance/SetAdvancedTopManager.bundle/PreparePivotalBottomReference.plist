@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawDisplayablePopupList</key>
+	<string>keepUniqueCoordinatorInstance</string>
+	<key>getReusableBorderImplement</key>
+	<string>skipElasticRotationExtension</string>
+	<key>initializeOriginalPriorityFactory</key>
+	<string>keepDisplayableCenterManager</string>
+	<key>obtainRapidInteractionFilter</key>
+	<string>trainDirectlyCharacterPool</string>
+	<key>offsetMissedBorderProtocol</key>
+	<string>prepareOpaqueParameterType</string>
+	<key>pauseActivatedTrajectoryFactory</key>
+	<string>computeMissedInterfaceCreator</string>
+	<key>setDisplayableParamType</key>
+	<string>extendDirectlyKernelType</string>
+	<key>skipPrismaticBinaryCollection</key>
+	<string>preparePermissiveTextureFilter</string>
+</dict>
+</plist>

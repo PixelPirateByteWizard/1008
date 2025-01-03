@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelRobustStrokeStack</key>
+	<string>dissociateOtherEdgeContainer</string>
+	<key>cleanBasicViewAdapter</key>
+	<string>getMultiBatchFactory</string>
+	<key>initializeGreatLoopReference</key>
+	<string>endDirectInitiatorsList</string>
+	<key>stopEuclideanArithmeticReference</key>
+	<string>cleanRequiredRightImplement</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateTypicalChapterPool</key>
+	<string>cancelMutableGroupFactory</string>
+	<key>continueFusedLoopGroup</key>
+	<string>skipPublicBufferObserver</string>
+	<key>continueRequiredAnimationList</key>
+	<string>continueEnabledOriginHandler</string>
+	<key>discoverPrismaticParamTarget</key>
+	<string>analyzeNextPolyfillImplement</string>
+	<key>getMediocreThresholdType</key>
+	<string>setRelationalHashPool</string>
+	<key>restartAssociatedResolverProtocol</key>
+	<string>setHierarchicalTailProtocol</string>
+	<key>wrapSemanticBufferStack</key>
+	<string>setCurrentBorderType</string>
+</dict>
+</plist>

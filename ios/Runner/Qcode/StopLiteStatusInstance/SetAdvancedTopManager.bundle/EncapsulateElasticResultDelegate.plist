@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueGlobalVectorType</key>
+	<string>compareDisparateCharacterReference</string>
+	<key>generateSingleImpactManager</key>
+	<string>requestActivatedBufferCollection</string>
+	<key>getConsultativeViewDecorator</key>
+	<string>getStaticBoundCache</string>
+	<key>getEasyNameList</key>
+	<string>requestCommonPointInstance</string>
+</dict>
+</plist>

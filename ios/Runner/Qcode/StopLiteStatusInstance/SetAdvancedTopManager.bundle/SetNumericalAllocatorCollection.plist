@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkSingleTempleCache</key>
+	<string>embedFusedRotationCache</string>
+	<key>decoupleBeginnerBrushDecorator</key>
+	<string>getLastActionCache</string>
+	<key>getSignificantDescriptorTarget</key>
+	<string>getNewestPositionInstance</string>
+	<key>getSortedParticleDelegate</key>
+	<string>cleanSustainableNavigationObserver</string>
+	<key>quitCurrentTextDecorator</key>
+	<string>searchEphemeralDeliveryPool</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fillBackwardMeshDecorator</key>
+	<string>setIntermediateBaselinePool</string>
+	<key>getSustainableInfoBase</key>
+	<string>pauseImmutableSubpixelStack</string>
+	<key>readSpecifyScaleArray</key>
+	<string>trainIntuitiveParamContainer</string>
+	<key>restartEnabledLayerPool</key>
+	<string>setAgileGraphDecorator</string>
+	<key>setImmutableOptionCollection</key>
+	<string>dismissRequiredNumberExtension</string>
+</dict>
+</plist>

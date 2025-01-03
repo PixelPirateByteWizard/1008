@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSynchronousVariableList</key>
+	<string>fillTensorDetailFilter</string>
+	<key>discoverElasticDataFilter</key>
+	<string>startCrudeReductionHelper</string>
+	<key>getArithmeticParameterExtension</key>
+	<string>accelerateSubstantialAllocatorStack</string>
+	<key>prepareIntuitivePreviewStack</key>
+	<string>restartSymmetricAnimationObserver</string>
+	<key>setSubtleOpacityPool</key>
+	<string>getSimilarBoundObserver</string>
+</dict>
+</plist>
