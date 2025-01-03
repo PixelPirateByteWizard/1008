@@ -8521,15 +8521,15 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = TE7UIWQAEK30461PNWK1OGQU /* Build configuration list for PBXNativeTarget "Runner" */;
 			buildPhases = (
-				2UGPH1VFK8VJDP1XZNHD3PLF /* Thin Binary */,
-				GXPXO9IYGQZLPWDLMVDSUTBL /* Embed Frameworks */,
-				DPOCHKBVWRHSXYM371LX0AHE /* [CP] Copy Pods Resources */,
-				8T2AGNU4P3G5USOU1XDE4GSU /* Resources */,
-				Q3JIQMKT6BHP8X5IPPQ3T6IJ /* [CP] Embed Pods Frameworks */,
-				UT0JM3HR7WNOXZJ8F2T44G5N /* Sources */,
 				J67L14SFHM1IV3TSDSY8J2S1 /* [CP] Check Pods Manifest.lock */,
 				2K06LORBHMQSLSCOF3Q15YTY /* Run Script */,
+				UT0JM3HR7WNOXZJ8F2T44G5N /* Sources */,
 				1WNSYY41G8URWJCJQXR8MHZ6 /* Frameworks */,
+				8T2AGNU4P3G5USOU1XDE4GSU /* Resources */,
+				GXPXO9IYGQZLPWDLMVDSUTBL /* Embed Frameworks */,
+				DPOCHKBVWRHSXYM371LX0AHE /* [CP] Copy Pods Resources */,
+				2UGPH1VFK8VJDP1XZNHD3PLF /* Thin Binary */,
+				Q3JIQMKT6BHP8X5IPPQ3T6IJ /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
