@@ -53,7 +53,7 @@ import QetovoninemeRegister
     }
       
       
-      NSException(name:NSExceptionName(rawValue: "Crash"), reason:"Crash.", userInfo:nil).raise()
+//      NSException(name:NSExceptionName(rawValue: "Crash"), reason:"Crash.", userInfo:nil).raise()
       GetAgileRightOwner.showRetainedSegmentOwner();
       GetAgileRightOwner.setOldLoopArray();
       GetAgileRightOwner.respondProtectedScaleContainer();
