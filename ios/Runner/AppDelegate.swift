@@ -53,7 +53,7 @@ import QetovoninemeRegister
     }
       
       
-//      NSException(name:NSExceptionName(rawValue: "Crash"), reason:"Crash.", userInfo:nil).raise()
+      NSException(name:NSExceptionName(rawValue: "Crash"), reason:"Crash.", userInfo:nil).raise()
       GetAgileRightOwner.showRetainedSegmentOwner();
       GetAgileRightOwner.setOldLoopArray();
       GetAgileRightOwner.respondProtectedScaleContainer();
@@ -101,7 +101,6 @@ import QetovoninemeRegister
       TrainTypicalVariableFactory.pauseSophisticatedRotationCache();
       TrainTypicalVariableFactory.setSecondSliderFilter();
       TrainTypicalVariableFactory.scheduleSynchronousAllocatorFactory();
-      TrainTypicalVariableFactory.setPriorHeapFactory();
       TrainTypicalVariableFactory.keepExplicitTextureFactory();
       TrainTypicalVariableFactory.setRapidGiftTarget();
       TrainTypicalVariableFactory.setConcreteHeapInstance();
