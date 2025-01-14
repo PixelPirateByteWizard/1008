@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateLocalMissionType</key>
+	<string>findSubtleParticleObserver</string>
+	<key>cancelLostLoaderTarget</key>
+	<string>getPermissiveVideoDelegate</string>
+	<key>freeHyperbolicResultPool</key>
+	<string>resumeReusableDescriptionDecorator</string>
+</dict>
+</plist>

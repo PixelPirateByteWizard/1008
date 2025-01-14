@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discoverCrudeCoordImplement</key>
+	<string>getEuclideanHeadList</string>
+	<key>getPrimaryTentativeType</key>
+	<string>showAccessibleSliderInstance</string>
+	<key>getUnsortedVariableHelper</key>
+	<string>adjustRequiredOperationFilter</string>
+	<key>holdSynchronousNodeManager</key>
+	<string>resetUnactivatedResourceReference</string>
+	<key>restartDedicatedBulletCollection</key>
+	<string>setSemanticSchedulerPool</string>
+	<key>setSingleMovementOwner</key>
+	<string>setDiscardedSceneAdapter</string>
+</dict>
+</plist>

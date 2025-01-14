@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelConcreteBufferCache</key>
+	<string>freeCommonMatrixCollection</string>
+	<key>clearReusableVariableInstance</key>
+	<string>setNormalBoundCache</string>
+	<key>endUniqueDepthCreator</key>
+	<string>unscheduleCrudeUtilImplement</string>
+	<key>getAgileHeadHandler</key>
+	<string>combineEphemeralNumberGroup</string>
+	<key>replaceMainElasticityCollection</key>
+	<string>restartRapidIntensityFactory</string>
+	<key>resizePriorLayerExtension</key>
+	<string>finishRapidStyleInstance</string>
+	<key>skipSimilarRotationProtocol</key>
+	<string>initializeKeyPermutationBase</string>
+	<key>unscheduleUnactivatedValueHandler</key>
+	<string>stopTensorCoordCollection</string>
+	<key>updateMissedParameterBase</key>
+	<string>setSubsequentPositionCollection</string>
+</dict>
+</plist>

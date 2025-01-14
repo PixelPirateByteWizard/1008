@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueCriticalQueuePool</key>
+	<string>setPrimaryNotationExtension</string>
+	<key>keepDiversifiedBufferGroup</key>
+	<string>reflectMultiGroupHelper</string>
+	<key>quitPriorHeadPool</key>
+	<string>setSmartTagCreator</string>
+	<key>setConcurrentResultManager</key>
+	<string>detachImmutableGramDelegate</string>
+	<key>skipNextTrajectoryDecorator</key>
+	<string>stopStandaloneModuleArray</string>
+</dict>
+</plist>

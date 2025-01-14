@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipIndependentIndexAdapter</key>
+	<string>setProtectedDescriptionCollection</string>
+	<key>getImmutableNumberDelegate</key>
+	<string>executeCustomizedVarCache</string>
+	<key>getLitePolygonManager</key>
+	<string>getDirectRightHandler</string>
+	<key>getOriginalSampleInstance</key>
+	<string>setDifficultActivityArray</string>
+	<key>setSecondReplicaContainer</key>
+	<string>getElasticVarCollection</string>
+	<key>setSemanticQueueOwner</key>
+	<string>setHierarchicalPriorityGroup</string>
+	<key>trainActivatedDetailFilter</key>
+	<string>prepareDisparateDepthManager</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addSingleRotationCollection</key>
+	<string>locateSimilarParameterFilter</string>
+	<key>combineUniqueTextArray</key>
+	<string>computeConsultativeToleranceCache</string>
+	<key>endPublicNodeManager</key>
+	<string>setEnabledNodeCache</string>
+	<key>freeOldThreadFilter</key>
+	<string>retainSeamlessTextureHelper</string>
+	<key>getConcurrentArithmeticHelper</key>
+	<string>getPublicTentativeHelper</string>
+	<key>getSpecifyLogInstance</key>
+	<string>restartIgnoredBufferOwner</string>
+	<key>multiplyMutableSessionDelegate</key>
+	<string>prepareCrucialBufferType</string>
+	<key>setIntuitiveParameterImplement</key>
+	<string>upgradeGlobalFragmentsManager</string>
+</dict>
+</plist>

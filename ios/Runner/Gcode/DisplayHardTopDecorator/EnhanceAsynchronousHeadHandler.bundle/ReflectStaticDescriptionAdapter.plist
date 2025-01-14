@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelConsultativeMissionHandler</key>
+	<string>unscheduleCrucialParamManager</string>
+	<key>getSharedInterfaceHandler</key>
+	<string>resumePrimaryViewDecorator</string>
+	<key>replaceDifficultPolyfillContainer</key>
+	<string>startHierarchicalTempleList</string>
+	<key>setCustomMusicExtension</key>
+	<string>compareRequiredChannelsStack</string>
+	<key>setCustomizedLoopContainer</key>
+	<string>endNewestSegmentType</string>
+	<key>setSemanticRouteExtension</key>
+	<string>extendFirstPositionGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateAccordionStepInstance</key>
+	<string>getMultiTopImplement</string>
+	<key>getDeclarativeEffectFilter</key>
+	<string>getIntermediateValueTarget</string>
+	<key>keepPrevVarHelper</key>
+	<string>getEuclideanValueHelper</string>
+	<key>locateGlobalInfoFilter</key>
+	<string>setOpaqueOpacityContainer</string>
+	<key>setLastSkewYExtension</key>
+	<string>setRelationalSchedulerManager</string>
+	<key>startAutoButtonFactory</key>
+	<string>restartNextAmortizationCreator</string>
+</dict>
+</plist>

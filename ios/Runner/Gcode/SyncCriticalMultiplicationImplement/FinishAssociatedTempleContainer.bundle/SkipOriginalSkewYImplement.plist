@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelUniqueLoopHandler</key>
+	<string>initializePrimaryParameterHelper</string>
+	<key>drawBackwardRowArray</key>
+	<string>decoupleRequiredBaselineHandler</string>
+	<key>getFirstNumberOwner</key>
+	<string>getMediumVariableProtocol</string>
+</dict>
+</plist>

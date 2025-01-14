@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateOpaqueVideoCache</key>
+	<string>skipLiteConstantStack</string>
+	<key>augmentUnsortedBottomContainer</key>
+	<string>compareStandaloneParameterCache</string>
+	<key>initializeEasySkewXInstance</key>
+	<string>trainCustomTagExtension</string>
+	<key>pauseAssociatedChapterFactory</key>
+	<string>releaseLiteBorderCreator</string>
+	<key>pauseSymmetricAllocatorManager</key>
+	<string>endDedicatedUsageInstance</string>
+	<key>setStandaloneVarGroup</key>
+	<string>setNewestBufferHelper</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateMainPopupType</key>
+	<string>getRequiredOperationExtension</string>
+	<key>getSmallDescriptionProtocol</key>
+	<string>captureCommonNameGroup</string>
+	<key>initializeProtectedTitleProtocol</key>
+	<string>stopPermanentBottomOwner</string>
+	<key>initializeUsedArithmeticHandler</key>
+	<string>continueResilientInterfaceBase</string>
+	<key>setLostSizeProtocol</key>
+	<string>getLiteFlagsType</string>
+	<key>setMediocreThreadHelper</key>
+	<string>cancelNewestVisibleHelper</string>
+	<key>setSymmetricLeftExtension</key>
+	<string>cancelElasticNotationAdapter</string>
+</dict>
+</plist>

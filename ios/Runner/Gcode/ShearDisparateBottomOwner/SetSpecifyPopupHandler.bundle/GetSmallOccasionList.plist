@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustCrudeQueueDecorator</key>
+	<string>getUnactivatedInstructionObserver</string>
+	<key>drawCustomSubpixelExtension</key>
+	<string>differentiateSpecifyVideoReference</string>
+	<key>prepareAccordionSizeProtocol</key>
+	<string>getCrucialLoopStack</string>
+	<key>prepareDiscardedGemAdapter</key>
+	<string>revisitAssociatedRendererHandler</string>
+	<key>setRespectiveVariableProtocol</key>
+	<string>setDedicatedObserverManager</string>
+	<key>setSmallRotationFactory</key>
+	<string>cancelKeyIndexReference</string>
+</dict>
+</plist>

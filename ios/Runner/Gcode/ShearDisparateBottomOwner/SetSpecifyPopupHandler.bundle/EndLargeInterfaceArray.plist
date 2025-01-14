@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishCriticalBoundOwner</key>
+	<string>prepareSortedFragmentsBase</string>
+	<key>finishUniqueTextGroup</key>
+	<string>startOtherRotationManager</string>
+	<key>getSubtleOptimizerCache</key>
+	<string>quantizationImmutableGemCache</string>
+	<key>keepStandaloneGraphDecorator</key>
+	<string>cancelOtherRemainderGroup</string>
+	<key>limitArithmeticParamFilter</key>
+	<string>getOtherNumberManager</string>
+	<key>resumeStandaloneParamExtension</key>
+	<string>getUnactivatedPreviewDecorator</string>
+	<key>storeCartesianArchitectureHelper</key>
+	<string>resumeRapidSkewYStack</string>
+</dict>
+</plist>

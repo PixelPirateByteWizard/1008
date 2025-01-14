@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuePrevPolyfillDelegate</key>
+	<string>getSeamlessFrameReference</string>
+	<key>finishNormalRotationObserver</key>
+	<string>getBackwardOpacityFilter</string>
+	<key>getRobustTempleHandler</key>
+	<string>reflectCriticalVarManager</string>
+	<key>prepareAsynchronousBufferList</key>
+	<string>restartHardBufferHelper</string>
+	<key>visitPrismaticViewBase</key>
+	<string>setLostNameDelegate</string>
+</dict>
+</plist>

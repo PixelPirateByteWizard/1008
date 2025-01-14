@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawGeometricResolverFilter</key>
+	<string>concatenateImmutableCycleDecorator</string>
+	<key>getUniformCoordCollection</key>
+	<string>multiplyEphemeralOpacityManager</string>
+	<key>pushCrucialTraversalTarget</key>
+	<string>skipStaticFlagsBase</string>
+	<key>searchSpecifyConfigurationArray</key>
+	<string>generateSymmetricCompositionPool</string>
+	<key>setUnactivatedVariableFactory</key>
+	<string>getUniqueVarFilter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getSingleAllocatorContainer</key>
+	<string>getGranularConstantReference</string>
+	<key>obtainSustainableDepthAdapter</key>
+	<string>reduceRobustScopeManager</string>
+	<key>offsetProtectedBulletHandler</key>
+	<string>setMissedBufferInstance</string>
+	<key>setIntuitiveFrameType</key>
+	<string>scheduleSubtleOptionOwner</string>
+	<key>setLiteConfigurationOwner</key>
+	<string>pauseSecondVariableManager</string>
+	<key>setNextAspectExtension</key>
+	<string>getRobustProjectCreator</string>
+	<key>skipRetainedGroupStack</key>
+	<string>setConcreteTrajectoryOwner</string>
+</dict>
+</plist>

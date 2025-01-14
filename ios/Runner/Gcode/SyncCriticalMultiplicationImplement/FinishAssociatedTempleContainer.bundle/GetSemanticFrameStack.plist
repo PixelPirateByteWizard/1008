@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeIgnoredDepthFactory</key>
+	<string>getUniformSizeDecorator</string>
+	<key>continuePrimaryFrameObserver</key>
+	<string>setDifficultSkewXStack</string>
+	<key>generateUsedSpecifierHandler</key>
+	<string>getGreatParamStack</string>
+	<key>pauseIterativeParamCollection</key>
+	<string>pauseOldButtonCache</string>
+	<key>releaseIterativeVarCreator</key>
+	<string>setCustomCenterImplement</string>
+	<key>restartCommonSineExtension</key>
+	<string>stopDirectlyFlagsContainer</string>
+	<key>resumeSortedImpressionTarget</key>
+	<string>resumeElasticPlateFilter</string>
+	<key>startGlobalRotationOwner</key>
+	<string>endUniqueCatalystImplement</string>
+</dict>
+</plist>

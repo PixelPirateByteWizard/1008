@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeStandaloneBufferImplement</key>
+	<string>trainDiscardedTweakObserver</string>
+	<key>cancelCurrentTopicGroup</key>
+	<string>getCustomSoundHelper</string>
+	<key>drawCustomizedTextPool</key>
+	<string>trainElasticBoxGroup</string>
+	<key>extendUsedVariableCollection</key>
+	<string>readExplicitSkinDelegate</string>
+	<key>getAdvancedRightHandler</key>
+	<string>endRespectiveStylePool</string>
+	<key>getUnactivatedIndicatorCollection</key>
+	<string>getGlobalHeroContainer</string>
+	<key>getUniformPositionInstance</key>
+	<string>providePrevMenuFilter</string>
+</dict>
+</plist>

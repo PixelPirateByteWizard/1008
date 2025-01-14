@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuePermissivePolyfillStack</key>
+	<string>combineSecondNameCollection</string>
+	<key>getFirstClusterCache</key>
+	<string>associateSemanticAllocatorCreator</string>
+	<key>getResilientValueOwner</key>
+	<string>getLostMetadataReference</string>
+	<key>getReusableAllocatorInstance</key>
+	<string>stopSubsequentBorderDelegate</string>
+	<key>getSubsequentPositionArray</key>
+	<string>unlockUnactivatedFlagsExtension</string>
+	<key>playDifficultRangeObserver</key>
+	<string>setUnsortedNodeExtension</string>
+	<key>playRapidTagBase</key>
+	<string>resumeSmartNavigationBase</string>
+	<key>setConcreteButtonHandler</key>
+	<string>getAgileParamOwner</string>
+</dict>
+</plist>

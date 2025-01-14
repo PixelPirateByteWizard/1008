@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawOpaqueCacheList</key>
+	<string>quantizerRequiredCapacityInstance</string>
+	<key>finishSustainableTextHandler</key>
+	<string>setMutableDescriptionHandler</string>
+	<key>getSingleImageAdapter</key>
+	<string>getGranularHeadType</string>
+	<key>limitMutableMetadataHelper</key>
+	<string>shearNewestAxisDecorator</string>
+	<key>pauseResilientGridContainer</key>
+	<string>getAsynchronousVarReference</string>
+	<key>reflectImmutableWorkflowObserver</key>
+	<string>resumePrismaticNumberObserver</string>
+	<key>rotateSecondPopupGroup</key>
+	<string>getAdvancedParamFactory</string>
+	<key>setActivatedEdgeDelegate</key>
+	<string>keepAutoRendererFilter</string>
+	<key>setGranularOptionCollection</key>
+	<string>getBackwardLogManager</string>
+	<key>startSignificantScaleCache</key>
+	<string>getNormalChecklistGroup</string>
+</dict>
+</plist>

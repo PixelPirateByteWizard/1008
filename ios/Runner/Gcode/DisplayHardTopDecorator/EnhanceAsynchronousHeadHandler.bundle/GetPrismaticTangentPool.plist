@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueGlobalIndexTarget</key>
+	<string>setEuclideanToleranceStack</string>
+	<key>getGlobalSceneDelegate</key>
+	<string>renameCustomVariableType</string>
+	<key>offsetFusedRowReference</key>
+	<string>getCriticalSkewYDelegate</string>
+	<key>pauseActivatedButtonProtocol</key>
+	<string>restartAccessibleStatusExtension</string>
+	<key>setBackwardChapterProtocol</key>
+	<string>setOriginalAmortizationDecorator</string>
+</dict>
+</plist>

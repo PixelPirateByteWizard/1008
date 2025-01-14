@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelPriorMenuHandler</key>
+	<string>setCriticalParamDelegate</string>
+	<key>keepConcreteParamObserver</key>
+	<string>endOldOpacityExtension</string>
+	<key>offsetSubstantialVarDecorator</key>
+	<string>resumeTensorProgressBarStack</string>
+	<key>setConcreteSchedulerHelper</key>
+	<string>trainSubsequentTopicDecorator</string>
+	<key>setRespectiveFragmentsProtocol</key>
+	<string>adjustUnsortedVarDecorator</string>
+	<key>setSimilarBoundDelegate</key>
+	<string>setDiscardedAllocatorInstance</string>
+	<key>setUniqueVarHelper</key>
+	<string>replaceSignificantViewHelper</string>
+</dict>
+</plist>

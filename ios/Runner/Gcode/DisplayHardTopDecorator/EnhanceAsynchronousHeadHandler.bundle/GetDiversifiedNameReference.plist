@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelLostBufferCreator</key>
+	<string>finishLostParamFactory</string>
+	<key>getGlobalVariablePool</key>
+	<string>setMediocreGroupFactory</string>
+	<key>getRelationalInitiativeList</key>
+	<string>stopPermanentChapterType</string>
+	<key>getSharedIndexHelper</key>
+	<string>setNormalTagOwner</string>
+	<key>initializeRespectiveCenterReference</key>
+	<string>fillNextReplicaProtocol</string>
+	<key>setSymmetricChapterCreator</key>
+	<string>getUnsortedThreadDecorator</string>
+</dict>
+</plist>

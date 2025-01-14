@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endNextTrajectoryProtocol</key>
+	<string>resumeSortedSkewXAdapter</string>
+	<key>findImmutableNodePool</key>
+	<string>setEphemeralChartContainer</string>
+	<key>resetIgnoredSymbolFilter</key>
+	<string>getAutoTailBase</string>
+	<key>setCustomizedVideoType</key>
+	<string>trainIterativePositionInstance</string>
+	<key>setLocalInfoBase</key>
+	<string>skipElasticVisibleBase</string>
+	<key>setUniformVarHelper</key>
+	<string>getDifficultButtonExtension</string>
+	<key>startStandaloneAxisHelper</key>
+	<string>setOpaqueTopBase</string>
+	<key>visitUniquePositionExtension</key>
+	<string>keepNormalGraphContainer</string>
+	<key>writeDiscardedBaselineStack</key>
+	<string>setSynchronousPreviewDelegate</string>
+</dict>
+</plist>

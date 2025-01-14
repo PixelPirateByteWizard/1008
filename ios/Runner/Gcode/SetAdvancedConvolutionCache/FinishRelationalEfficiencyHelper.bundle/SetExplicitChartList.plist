@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSortedFragmentsGroup</key>
+	<string>analyzeSignificantDurationCache</string>
+	<key>finishStandaloneMetadataFactory</key>
+	<string>skipStaticFlagsGroup</string>
+	<key>getRobustVolumeList</key>
+	<string>startCustomizedChartDelegate</string>
+	<key>getSeamlessValueDelegate</key>
+	<string>setSubstantialVisibleTarget</string>
+	<key>initializeAutoRightHelper</key>
+	<string>getLostAssetAdapter</string>
+	<key>keepCommonHeadPool</key>
+	<string>setPrevInformationTarget</string>
+	<key>retrieveAgileTimelineFilter</key>
+	<string>cancelExplicitBufferCreator</string>
+</dict>
+</plist>

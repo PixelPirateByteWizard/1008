@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fillUnactivatedElasticityArray</key>
+	<string>finishGeometricThroughputPool</string>
+	<key>getCriticalParticleArray</key>
+	<string>trainLocalValueHelper</string>
+	<key>getIntermediateGroupInstance</key>
+	<string>getIntermediateApertureBase</string>
+	<key>getSingleFlagsOwner</key>
+	<string>setGlobalRotationObserver</string>
+	<key>initializeDelicateButtonList</key>
+	<string>resumeSubsequentHeadExtension</string>
+	<key>prepareBackwardValueCollection</key>
+	<string>startHyperbolicGrainFilter</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createUsedColorExtension</key>
+	<string>restartProtectedChecklistCache</string>
+	<key>finishStandalonePreviewExtension</key>
+	<string>prepareUsedSceneCollection</string>
+	<key>initializeUniformPositionTarget</key>
+	<string>getConsultativeImpactExtension</string>
+</dict>
+</plist>

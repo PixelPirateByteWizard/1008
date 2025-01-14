@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateCommonMissionType</key>
+	<string>setStaticBufferGroup</string>
+	<key>appendDirectlySkewXDelegate</key>
+	<string>getEnabledLayerBase</string>
+	<key>embedKeyVariableAdapter</key>
+	<string>endNextNumberFilter</string>
+	<key>getDenseStyleGroup</key>
+	<string>differentiateSmallIndexCreator</string>
+	<key>pauseOldNameReference</key>
+	<string>requestSynchronousSignHandler</string>
+	<key>setTensorPermutationCreator</key>
+	<string>endMultiBorderObserver</string>
+</dict>
+</plist>

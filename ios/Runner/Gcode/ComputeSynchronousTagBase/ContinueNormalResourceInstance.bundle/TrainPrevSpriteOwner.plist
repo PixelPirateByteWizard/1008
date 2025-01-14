@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendStandaloneSpriteHelper</key>
+	<string>skipDedicatedSessionCache</string>
+	<key>cancelCrucialConvolutionBase</key>
+	<string>pauseDisparateHeadStack</string>
+	<key>getDisplayableScopeFactory</key>
+	<string>finishDeclarativeTaskAdapter</string>
+	<key>getElasticNumberPool</key>
+	<string>resumeProtectedHeadArray</string>
+	<key>makeProtectedBufferHandler</key>
+	<string>lockPrevVisibleReference</string>
+	<key>pauseUniformCapsuleType</key>
+	<string>setGranularBinaryFilter</string>
+	<key>restartResilientLoopPool</key>
+	<string>setElasticMasterCreator</string>
+	<key>trainHyperbolicOriginFilter</key>
+	<string>executeRelationalDepthManager</string>
+</dict>
+</plist>

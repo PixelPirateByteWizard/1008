@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateOriginalBufferTarget</key>
+	<string>startResilientSceneGroup</string>
+	<key>cancelSymmetricSizePool</key>
+	<string>lockStaticConsumptionArray</string>
+	<key>cleanMultiUnaryCollection</key>
+	<string>setDelicateNumberList</string>
+	<key>offsetUniformFrameHelper</key>
+	<string>endRobustTemplePool</string>
+	<key>setSingleConstantManager</key>
+	<string>setLocalSegmentHelper</string>
+</dict>
+</plist>

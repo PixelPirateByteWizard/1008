@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipDelicateDocumentImplement</key>
+	<string>getRobustRowInstance</string>
+	<key>getEnabledScaleHelper</key>
+	<string>keepLostCapsulePool</string>
+	<key>initializeRobustBufferReference</key>
+	<string>getSynchronousBufferHelper</string>
+	<key>multiplyEphemeralTagGroup</key>
+	<string>getCustomizedPolyfillContainer</string>
+	<key>offsetPivotalVariableArray</key>
+	<string>quitRelationalHeroHandler</string>
+	<key>setBackwardBehaviorHandler</key>
+	<string>pauseOriginalRotationHandler</string>
+	<key>writeSustainableGridGroup</key>
+	<string>initializeBackwardPlateGroup</string>
+</dict>
+</plist>

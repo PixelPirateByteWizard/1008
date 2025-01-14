@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelPermanentBufferManager</key>
+	<string>getLiteStyleFactory</string>
+	<key>combineDiversifiedScaleObserver</key>
+	<string>setAssociatedPreviewPool</string>
+	<key>executeHierarchicalLoopImplement</key>
+	<string>setCrudeIndicatorOwner</string>
+	<key>generateEuclideanSizeDecorator</key>
+	<string>stopResilientCoordinatorHelper</string>
+	<key>getTensorPaddingProtocol</key>
+	<string>stopReusableNumberType</string>
+	<key>moveRelationalCapacityType</key>
+	<string>accelerateStaticEntropyHelper</string>
+	<key>prepareEphemeralTernaryArray</key>
+	<string>finishEphemeralVarBase</string>
+</dict>
+</plist>

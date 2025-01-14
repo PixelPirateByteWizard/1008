@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getHardHeapAdapter</key>
+	<string>startOriginalResilienceObserver</string>
+	<key>initializeReusableBufferArray</key>
+	<string>lockEuclideanImpactAdapter</string>
+	<key>releaseCustomizedGraphObserver</key>
+	<string>searchSignificantColorHandler</string>
+	<key>resetConcreteAnchorDelegate</key>
+	<string>getAsynchronousMetricsFilter</string>
+	<key>scheduleEphemeralSegmentFilter</key>
+	<string>quantizationRelationalSlashManager</string>
+	<key>setSophisticatedVarAdapter</key>
+	<string>continueFusedCoordPool</string>
+</dict>
+</plist>

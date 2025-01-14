@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelBasicTitleFactory</key>
+	<string>continueOpaqueImpressionHandler</string>
+	<key>cancelSubstantialControllerDelegate</key>
+	<string>endRobustEdgeDecorator</string>
+	<key>getKeyResolverOwner</key>
+	<string>quantizerCrudeOccasionOwner</string>
+	<key>keepNextGrayscalePool</key>
+	<string>unlockUniqueCursorExtension</string>
+	<key>transposePermanentPopupTarget</key>
+	<string>searchLastResolverInstance</string>
+</dict>
+</plist>

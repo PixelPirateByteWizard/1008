@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelPriorModuleStack</key>
+	<string>seekSemanticInterpolationFilter</string>
+	<key>continueDirectlyPositionStack</key>
+	<string>pushNewestPositionOwner</string>
+	<key>finishMutableVectorType</key>
+	<string>getSymmetricDepthBase</string>
+	<key>makeCurrentWorkflowContainer</key>
+	<string>stopDifficultMatrixReference</string>
+	<key>moveUsedRecursionFactory</key>
+	<string>searchUsedTagProtocol</string>
+	<key>setCurrentBorderFactory</key>
+	<string>getGlobalInfoFactory</string>
+	<key>setExplicitNameCache</key>
+	<string>scheduleDirectLeftProtocol</string>
+	<key>upgradeEnabledPriorityCollection</key>
+	<string>createRapidRowCreator</string>
+</dict>
+</plist>

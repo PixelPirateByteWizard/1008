@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateUnactivatedHashType</key>
+	<string>getActivatedEffectPool</string>
+	<key>calculateTensorParamList</key>
+	<string>differentiateIgnoredVarImplement</string>
+	<key>getOtherViewInstance</key>
+	<string>restoreRetainedLogAdapter</string>
+	<key>markMutableNameInstance</key>
+	<string>keepKeyVarFilter</string>
+	<key>pausePivotalRemediationContainer</key>
+	<string>finishComprehensiveEffectHelper</string>
+	<key>setComprehensiveRectAdapter</key>
+	<string>setMultiPlaybackContainer</string>
+	<key>stopPublicMissionOwner</key>
+	<string>decoupleIntermediateRouteOwner</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueIntuitiveGramTarget</key>
+	<string>keepIgnoredLeftObserver</string>
+	<key>endDiscardedGraphObserver</key>
+	<string>skipAutoLoopDecorator</string>
+	<key>getConcurrentGraphStack</key>
+	<string>getOtherFrameObserver</string>
+	<key>pausePermissiveCosineObserver</key>
+	<string>resumePermissiveChannelsArray</string>
+	<key>prepareDedicatedRotationHelper</key>
+	<string>holdGeometricUsageInstance</string>
+	<key>setConsultativeOpacityHandler</key>
+	<string>refreshSecondHeadFilter</string>
+	<key>setDiscardedMapExtension</key>
+	<string>startRapidRotationType</string>
+	<key>setRapidShapeFilter</key>
+	<string>aggregateOriginalNumberOwner</string>
+</dict>
+</plist>

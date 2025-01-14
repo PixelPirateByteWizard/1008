@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createNewestBehaviorDelegate</key>
+	<string>getUniqueDistinctionCreator</string>
+	<key>destroyCurrentMonsterFilter</key>
+	<string>getRapidIntensityStack</string>
+	<key>extendElasticMissionDelegate</key>
+	<string>freeDisplayableVariableReference</string>
+	<key>getUsedParameterManager</key>
+	<string>setFirstPositionBase</string>
+	<key>restartDirectNumberInstance</key>
+	<string>getCrudeThreadContainer</string>
+	<key>startCriticalQueueOwner</key>
+	<string>spinRequiredOptionCollection</string>
+</dict>
+</plist>

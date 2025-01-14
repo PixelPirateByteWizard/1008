@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateOldPermutationExtension</key>
+	<string>getPriorIndexDelegate</string>
+	<key>clipAsynchronousStyleContainer</key>
+	<string>setLastResultHandler</string>
+	<key>setCartesianIntegrationObserver</key>
+	<string>releaseSortedIndexFilter</string>
+	<key>setReusableNumberType</key>
+	<string>pauseIntermediateParamList</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroyOldPolygonDelegate</key>
+	<string>setStandaloneVariableHandler</string>
+	<key>findCriticalMusicManager</key>
+	<string>limitGranularThresholdDelegate</string>
+	<key>initializeMediocrePopupPool</key>
+	<string>clipAssociatedTechniqueManager</string>
+	<key>offsetProtectedItemHelper</key>
+	<string>prepareSimilarSpriteArray</string>
+	<key>regulateSubstantialOpacityCreator</key>
+	<string>getLostBufferGroup</string>
+	<key>setDiversifiedParameterHelper</key>
+	<string>getAgileFeatureArray</string>
+	<key>stopSortedOpacityReference</key>
+	<string>renameUniqueMenuDecorator</string>
+</dict>
+</plist>

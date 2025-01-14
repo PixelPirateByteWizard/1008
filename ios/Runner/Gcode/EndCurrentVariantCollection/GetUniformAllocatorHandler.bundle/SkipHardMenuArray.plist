@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeAutoPreviewAdapter</key>
+	<string>startLiteValueStack</string>
+	<key>limitIntermediateTimeType</key>
+	<string>restartBasicRoleExtension</string>
+	<key>setDeclarativeInfoAdapter</key>
+	<string>getPrimaryAnchorPool</string>
+	<key>setSynchronousHeadPool</key>
+	<string>getDirectlyParamCreator</string>
+	<key>setUnactivatedDepthDelegate</key>
+	<string>destroySmartVarReference</string>
+</dict>
+</plist>

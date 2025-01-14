@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getPermissiveScalabilityFactory</key>
+	<string>transposeAssociatedOriginReference</string>
+	<key>provideUniqueVectorReference</key>
+	<string>storeLiteMaterialInstance</string>
+	<key>resumeFirstScaleHelper</key>
+	<string>restartPrevCenterBase</string>
+	<key>setAgileClusterCache</key>
+	<string>getFirstQueueCreator</string>
+	<key>stopDeclarativeValueImplement</key>
+	<string>exitFusedSpriteProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeRelationalLayoutManager</key>
+	<string>getCustomBottomCollection</string>
+	<key>getRequiredLossTarget</key>
+	<string>discoverGranularLoopManager</string>
+	<key>restartImmutableBitrateDelegate</key>
+	<string>fillGeometricChannelsAdapter</string>
+	<key>setGlobalLossCreator</key>
+	<string>continueSimilarElasticityTarget</string>
+	<key>setIndependentVisibleTarget</key>
+	<string>concatenateDenseBufferCache</string>
+	<key>setKeyVideoGroup</key>
+	<string>skipHyperbolicCoordArray</string>
+	<key>skipRequiredTemplePool</key>
+	<string>getUniformParticleHelper</string>
+</dict>
+</plist>

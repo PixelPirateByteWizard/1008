@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelMainBufferAdapter</key>
+	<string>holdAccessibleSkirtPool</string>
+	<key>getMultiFlagsOwner</key>
+	<string>resumeSemanticValueDecorator</string>
+	<key>scheduleLocalUtilPool</key>
+	<string>initializeCriticalResultBase</string>
+	<key>setDenseAllocatorBase</key>
+	<string>quantizerGeometricVertexCreator</string>
+	<key>setDiscardedStyleImplement</key>
+	<string>getIntermediateRotationFactory</string>
+	<key>transposeProtectedBrushCollection</key>
+	<string>continuePrimaryDepthCache</string>
+	<key>unscheduleNewestTrianglesFactory</key>
+	<string>keepUniformNumberHelper</string>
+</dict>
+</plist>

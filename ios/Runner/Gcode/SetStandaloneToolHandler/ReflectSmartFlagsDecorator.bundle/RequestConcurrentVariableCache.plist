@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelFusedMultiplicationCreator</key>
+	<string>reconcileSharedTailReference</string>
+	<key>convertBackwardTextureManager</key>
+	<string>getStandaloneNameImplement</string>
+	<key>requestStandaloneFlagsBase</key>
+	<string>findSubsequentResultDecorator</string>
+	<key>setCommonVisibleHelper</key>
+	<string>dropoutUnactivatedBoundPool</string>
+</dict>
+</plist>

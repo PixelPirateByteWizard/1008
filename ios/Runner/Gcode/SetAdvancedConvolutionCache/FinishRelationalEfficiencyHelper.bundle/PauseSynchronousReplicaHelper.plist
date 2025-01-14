@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addPermanentBufferType</key>
+	<string>enhanceSynchronousVarProtocol</string>
+	<key>captureSharedFlagsOwner</key>
+	<string>initializeCommonSizeStack</string>
+	<key>getDeclarativeControllerBase</key>
+	<string>getPublicEdgeArray</string>
+	<key>introspectImmutableFragmentAdapter</key>
+	<string>keepArithmeticCoordGroup</string>
+	<key>limitProtectedZoneHelper</key>
+	<string>pauseCartesianNumberDecorator</string>
+	<key>resumeMainConfigurationOwner</key>
+	<string>trainComprehensiveInterfaceHandler</string>
+	<key>skipIndependentFormatContainer</key>
+	<string>clearPrismaticNumberReference</string>
+	<key>skipSingleCoordFilter</key>
+	<string>equalOldMetricsReference</string>
+</dict>
+</plist>

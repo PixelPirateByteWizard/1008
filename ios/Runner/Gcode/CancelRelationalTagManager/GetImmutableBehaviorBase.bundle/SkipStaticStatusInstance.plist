@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishReusablePopupHandler</key>
+	<string>pauseCrucialFlagsAdapter</string>
+	<key>initializeResilientVarPool</key>
+	<string>finishOldSchedulerFactory</string>
+	<key>quitDelicateEquipmentTarget</key>
+	<string>clipIntuitiveActivityGroup</string>
+	<key>restartIterativeBoundImplement</key>
+	<string>setEphemeralGrayscaleContainer</string>
+	<key>setAgileBufferDelegate</key>
+	<string>getMediocreMatrixList</string>
+	<key>setDiversifiedLatencyProtocol</key>
+	<string>stopUsedBaseDelegate</string>
+	<key>setPermanentBufferHandler</key>
+	<string>startSophisticatedFeatureDelegate</string>
+	<key>setStandaloneStepOwner</key>
+	<string>setDenseInteractionBase</string>
+</dict>
+</plist>

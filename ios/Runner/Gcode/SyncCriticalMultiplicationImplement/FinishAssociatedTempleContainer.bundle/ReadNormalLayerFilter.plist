@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloneDedicatedParameterDecorator</key>
+	<string>analyzeResilientAllocatorDelegate</string>
+	<key>cloneLocalVarCache</key>
+	<string>storeProtectedParameterOwner</string>
+	<key>fillStandaloneTrianglesTarget</key>
+	<string>setStaticTopManager</string>
+	<key>limitConsultativeInterfacePool</key>
+	<string>getGreatPositionCollection</string>
+	<key>pauseConsultativeNodeTarget</key>
+	<string>concatenateDiversifiedPreviewCache</string>
+	<key>reconcileLiteSkewXGroup</key>
+	<string>stopOriginalVariableReference</string>
+	<key>resumeSubsequentRotationFilter</key>
+	<string>setUnactivatedOptimizerAdapter</string>
+	<key>setUsedDescriptionExtension</key>
+	<string>cancelPrismaticCenterFactory</string>
+	<key>stopBasicInfoGroup</key>
+	<string>getPriorTempleList</string>
+</dict>
+</plist>

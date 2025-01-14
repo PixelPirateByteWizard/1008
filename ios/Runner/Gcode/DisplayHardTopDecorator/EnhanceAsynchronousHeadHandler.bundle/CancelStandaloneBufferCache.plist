@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelRequiredVisibleReference</key>
+	<string>skipLocalGroupOwner</string>
+	<key>executeIndependentNumberType</key>
+	<string>restartElasticIndexManager</string>
+	<key>getAdvancedEventStack</key>
+	<string>pauseSynchronousTitleAdapter</string>
+	<key>getGlobalNodeOwner</key>
+	<string>optimizeResilientNavigationGroup</string>
+	<key>initializeTensorSkewYObserver</key>
+	<string>setCrudeProvisionImplement</string>
+	<key>prepareMutableRowTarget</key>
+	<string>skipCommonRemainderContainer</string>
+	<key>reduceDedicatedValueAdapter</key>
+	<string>setPrevRowFilter</string>
+	<key>setOriginalEffectList</key>
+	<string>getEphemeralPermutationAdapter</string>
+</dict>
+</plist>

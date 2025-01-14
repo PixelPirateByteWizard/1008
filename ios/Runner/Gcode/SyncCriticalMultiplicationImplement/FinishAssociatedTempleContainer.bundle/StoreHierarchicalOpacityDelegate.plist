@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureCriticalDisclaimerFactory</key>
+	<string>getSharedParamManager</string>
+	<key>findSeamlessChartTarget</key>
+	<string>getComprehensivePriorityExtension</string>
+	<key>initializeProtectedPositionAdapter</key>
+	<string>adjustBackwardOriginAdapter</string>
+	<key>regulateUnactivatedRowCreator</key>
+	<string>makeOpaqueValueExtension</string>
+</dict>
+</plist>

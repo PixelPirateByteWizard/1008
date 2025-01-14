@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanConcreteSpriteImplement</key>
+	<string>detachGlobalParticleCache</string>
+	<key>cloneCustomizedDocumentFilter</key>
+	<string>stopLostEdgeImplement</string>
+	<key>conformMediumLayoutCreator</key>
+	<string>setElasticUtilFilter</string>
+	<key>getResilientAxisManager</key>
+	<string>dissociateAccessibleGraphicType</string>
+	<key>provideKeyTempleImplement</key>
+	<string>setExplicitConsumptionCreator</string>
+	<key>setConcurrentScaleAdapter</key>
+	<string>continueImmutableGraphicPool</string>
+	<key>setSignificantChapterPool</key>
+	<string>retrieveRelationalLabelDelegate</string>
+	<key>stopRobustVisiblePool</key>
+	<string>undertakePermissiveParameterAdapter</string>
+	<key>trainUnactivatedDialogsProtocol</key>
+	<string>finishSmallInformationOwner</string>
+</dict>
+</plist>

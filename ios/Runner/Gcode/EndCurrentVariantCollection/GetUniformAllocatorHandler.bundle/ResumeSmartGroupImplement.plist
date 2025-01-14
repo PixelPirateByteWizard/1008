@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleGeometricVariableCreator</key>
+	<string>pauseElasticProjectionArray</string>
+	<key>executeGlobalPositionDecorator</key>
+	<string>setDiscardedGroupBase</string>
+	<key>setAutoOptimizerArray</key>
+	<string>endReusableZoneList</string>
+	<key>setBackwardVisibleImplement</key>
+	<string>prepareDiscardedFrameTarget</string>
+	<key>setSubtleGrainCollection</key>
+	<string>getDisplayableCardFactory</string>
+	<key>setSymmetricLayerOwner</key>
+	<string>setOriginalTraversalInstance</string>
+</dict>
+</plist>

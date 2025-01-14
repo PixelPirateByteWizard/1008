@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuePrevStyleOwner</key>
+	<string>obtainNextInitiativeInstance</string>
+	<key>getBackwardEdgeDecorator</key>
+	<string>getOpaqueUtilDelegate</string>
+	<key>getGlobalRowExtension</key>
+	<string>poolRetainedBufferPool</string>
+	<key>getNewestNumberArray</key>
+	<string>finishPublicSpotTarget</string>
+	<key>reflectMediumDeliveryPool</key>
+	<string>reduceMediocreVarTarget</string>
+	<key>releasePublicGrainTarget</key>
+	<string>setHardScalabilityBase</string>
+	<key>scheduleReusableZoneAdapter</key>
+	<string>initializeSimilarMechanismExtension</string>
+	<key>setAssociatedEdgeArray</key>
+	<string>unscheduleRequiredChapterExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getEasyFrameTarget</key>
+	<string>getMediumGridHandler</string>
+	<key>requestMultiDimensionBase</key>
+	<string>prepareTensorMaterialCollection</string>
+	<key>resizeSeamlessRightDelegate</key>
+	<string>removeOriginalChapterHandler</string>
+	<key>setPriorVarCreator</key>
+	<string>getOriginalNameGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishTypicalSignatureDelegate</key>
+	<string>prepareDirectlyEffectManager</string>
+	<key>getElasticParameterBase</key>
+	<string>resumeNormalTaskInstance</string>
+	<key>getLocalKernelStack</key>
+	<string>quitOriginalTimeHelper</string>
+	<key>initializeFirstReferenceList</key>
+	<string>setRobustSizeAdapter</string>
+	<key>locatePivotalVariableProtocol</key>
+	<string>showBasicMemberHelper</string>
+	<key>resumeDifficultModuleObserver</key>
+	<string>removePrevParamGroup</string>
+	<key>skipIntermediateElasticityOwner</key>
+	<string>optimizeSingleGrayscaleObserver</string>
+	<key>skipMediumUtilHelper</key>
+	<string>embedConcreteDepthImplement</string>
+</dict>
+</plist>

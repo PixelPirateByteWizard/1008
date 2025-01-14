@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resizeGranularParamDelegate</key>
+	<string>setIndependentSignStack</string>
+	<key>setUsedVariableExtension</key>
+	<string>locatePrismaticColorBase</string>
+	<key>trainDiscardedParamHandler</key>
+	<string>resumeRelationalStatusCreator</string>
+</dict>
+</plist>

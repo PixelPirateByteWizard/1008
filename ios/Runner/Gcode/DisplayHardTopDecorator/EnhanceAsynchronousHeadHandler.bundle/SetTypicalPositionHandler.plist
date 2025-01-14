@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishNewestChallengeCreator</key>
+	<string>trainDisplayableHashCreator</string>
+	<key>finishStandaloneHistogramBase</key>
+	<string>eraseTypicalScaleCache</string>
+	<key>getKeyVariantDelegate</key>
+	<string>skipGeometricPositionTarget</string>
+	<key>insteadOldNumberProtocol</key>
+	<string>setHardProgressBarBase</string>
+	<key>setLastModulusManager</key>
+	<string>setOpaqueOriginType</string>
+	<key>stopLargeBufferTarget</key>
+	<string>pauseCriticalColorTarget</string>
+</dict>
+</plist>

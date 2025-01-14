@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateCustomizedTweakDelegate</key>
+	<string>getSubtleGrainHandler</string>
+	<key>appendDiscardedSkewYCollection</key>
+	<string>startDisplayableHashCollection</string>
+	<key>endPermanentGraphGroup</key>
+	<string>floatSustainableVarExtension</string>
+	<key>getHardTagTarget</key>
+	<string>optimizeArithmeticModuleProtocol</string>
+	<key>prepareImmutableProgressBarFilter</key>
+	<string>stopBasicParameterInstance</string>
+	<key>seekSubsequentChapterDecorator</key>
+	<string>getSingleBufferType</string>
+	<key>setAssociatedTempleStack</key>
+	<string>getEuclideanInterpolationDelegate</string>
+	<key>setKeyLabelList</key>
+	<string>touchAdvancedTimeFactory</string>
+	<key>setMediocreMomentumArray</key>
+	<string>restoreLostGroupHandler</string>
+	<key>setSingleLabelContainer</key>
+	<string>setNormalValueHelper</string>
+</dict>
+</plist>

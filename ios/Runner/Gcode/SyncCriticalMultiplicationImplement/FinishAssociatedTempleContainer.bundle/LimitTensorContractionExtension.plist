@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawUniformCenterFilter</key>
+	<string>restartPrismaticLogHandler</string>
+	<key>finishExplicitLabelFilter</key>
+	<string>initializeUnactivatedTangentStack</string>
+	<key>getDiversifiedNumberFactory</key>
+	<string>initializeLargeGemCache</string>
+	<key>getSymmetricVertexList</key>
+	<string>calculateBeginnerLayerReference</string>
+	<key>pauseSecondDescriptionCollection</key>
+	<string>setDenseParameterExtension</string>
+	<key>quitConsultativeOpacityCache</key>
+	<string>dropoutGreatGateDecorator</string>
+	<key>restartPermanentParamGroup</key>
+	<string>getConsultativeHeadInstance</string>
+	<key>setMissedNotationDelegate</key>
+	<string>prepareUsedTitleCreator</string>
+	<key>setTensorCoordOwner</key>
+	<string>finishOtherGraphicDelegate</string>
+</dict>
+</plist>

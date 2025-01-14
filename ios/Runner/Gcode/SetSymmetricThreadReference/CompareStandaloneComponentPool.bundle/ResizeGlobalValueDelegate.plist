@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateMediumBufferGroup</key>
+	<string>setHierarchicalViewObserver</string>
+	<key>getConcurrentTextureCreator</key>
+	<string>prepareMutableContrastObserver</string>
+	<key>markUnactivatedDeliveryContainer</key>
+	<string>restartGlobalMusicHandler</string>
+	<key>pauseStandaloneParameterCollection</key>
+	<string>keepElasticChannelsOwner</string>
+	<key>restartCrucialSubpixelInstance</key>
+	<string>setGranularTempleHelper</string>
+	<key>setAdvancedConfigurationBase</key>
+	<string>resumeUniqueSubpixelAdapter</string>
+	<key>setUnsortedHeadDelegate</key>
+	<string>scheduleLiteDisclaimerTarget</string>
+</dict>
+</plist>

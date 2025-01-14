@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelBeginnerFrameFactory</key>
+	<string>floatExplicitLeftBase</string>
+	<key>generateLostHeadDelegate</key>
+	<string>getCommonDistinctionDelegate</string>
+	<key>getOtherStrokeHandler</key>
+	<string>replaceGeometricCachePool</string>
+	<key>prepareDirectRightTarget</key>
+	<string>getHyperbolicMaterialStack</string>
+	<key>respondComprehensiveParamFactory</key>
+	<string>trainUnactivatedQueueOwner</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleSimilarLayerType</key>
+	<string>respondEnabledAllocatorFilter</string>
+	<key>setDedicatedStyleHandler</key>
+	<string>setIgnoredLeftImplement</string>
+	<key>setTensorChannelsProtocol</key>
+	<string>stopUsedVariableProtocol</string>
+</dict>
+</plist>

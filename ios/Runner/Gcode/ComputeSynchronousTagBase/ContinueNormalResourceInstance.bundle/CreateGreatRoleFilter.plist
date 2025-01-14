@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>insteadCurrentCenterGroup</key>
+	<string>multiplyRespectiveEdgeGroup</string>
+	<key>replaceSmartPaddingBase</key>
+	<string>pauseSemanticShapeDelegate</string>
+	<key>skipConcreteSceneProtocol</key>
+	<string>resumeBackwardBufferTarget</string>
+</dict>
+</plist>
