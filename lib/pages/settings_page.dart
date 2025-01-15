@@ -5,7 +5,7 @@ import 'package:Gleoun/pages/help_feedback_page.dart';
 import 'package:Gleoun/pages/privacy_policy_page.dart';
 import 'package:Gleoun/pages/update_notes_page.dart';
 import 'package:Gleoun/pages/ai_chat_page.dart';
-import 'package:Gleoun/linstIAP/GetGranularStrengthObserver.dart';
+import 'package:Gleoun/GleounIAP/GetGranularStrengthObserver.dart';
 import 'package:flutter/rendering.dart';
 import 'dart:ui';
 
@@ -203,7 +203,8 @@ class SettingsPage extends StatelessWidget {
                           onTap: () => Navigator.push(
                             context,
                             MaterialPageRoute(
-                                builder: (context) => const ResumeGreatVarHandler()),
+                                builder: (context) =>
+                                    const ResumeGreatVarHandler()),
                           ),
                         ),
                       ],
