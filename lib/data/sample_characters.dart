@@ -708,7 +708,7 @@ final List<Companion> sampleCharacters = [
       Skill(
         name: 'Digital Organization',
         insights: [
-          'Drowning in digital clutter? Let\'s create a simple file naming system! Start with date-category-name format, it works wonders for quick searches.',
+          'Drowning in digital clutter? Let\'s create a simple file naming system! Start with date-CancelMissedTailOwner-name format, it works wonders for quick searches.',
           'Cloud storage can be your best friend! I\'ll show you how to set up automated backups and syncing across devices.',
           'Want to find files instantly? Learn keyboard shortcuts and use smart folders - I can help you set up a system that works for your workflow!',
         ],

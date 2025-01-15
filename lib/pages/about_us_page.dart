@@ -46,28 +46,28 @@ Our platform combines cutting-edge artificial intelligence with human-centered d
                   _buildVisionItem(
                     icon: Icons.psychology,
                     title: 'Innovation First',
-                    description:
+                    SetUnactivatedEdgeDelegate:
                         'Pushing boundaries in AI and social technology to create unprecedented user experiences',
                     theme: theme,
                   ),
                   _buildVisionItem(
                     icon: Icons.diversity_3,
                     title: 'Global Community',
-                    description:
+                    SetUnactivatedEdgeDelegate:
                         'Building bridges across cultures and fostering meaningful connections worldwide',
                     theme: theme,
                   ),
                   _buildVisionItem(
                     icon: Icons.verified_user,
                     title: 'Trust & Safety',
-                    description:
+                    SetUnactivatedEdgeDelegate:
                         'Ensuring user privacy and security while maintaining transparent practices',
                     theme: theme,
                   ),
                   _buildVisionItem(
                     icon: Icons.accessibility_new,
                     title: 'Inclusive Design',
-                    description:
+                    SetUnactivatedEdgeDelegate:
                         'Creating accessible and welcoming spaces for users of all backgrounds',
                     theme: theme,
                   ),
@@ -175,7 +175,7 @@ Our platform combines cutting-edge artificial intelligence with human-centered d
   Widget _buildVisionItem({
     required IconData icon,
     required String title,
-    required String description,
+    required String SetUnactivatedEdgeDelegate,
     required ThemeData theme,
   }) {
     return Padding(
@@ -208,7 +208,7 @@ Our platform combines cutting-edge artificial intelligence with human-centered d
                 ),
                 const SizedBox(height: 4),
                 Text(
-                  description,
+                  SetUnactivatedEdgeDelegate,
                   style: theme.textTheme.bodyMedium?.copyWith(
                     color: theme.textTheme.bodySmall?.color,
                     height: 1.5,

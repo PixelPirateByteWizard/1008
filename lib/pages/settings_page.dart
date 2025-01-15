@@ -4,6 +4,8 @@ import 'package:Gleoun/pages/about_us_page.dart';
 import 'package:Gleoun/pages/help_feedback_page.dart';
 import 'package:Gleoun/pages/privacy_policy_page.dart';
 import 'package:Gleoun/pages/update_notes_page.dart';
+import 'package:Gleoun/pages/ai_chat_page.dart';
+import 'package:Gleoun/linstIAP/GetGranularStrengthObserver.dart';
 import 'package:flutter/rendering.dart';
 import 'dart:ui';
 
@@ -163,6 +165,16 @@ class SettingsPage extends StatelessWidget {
                       title: 'User Support',
                       items: [
                         SettingsItem(
+                          icon: Icons.smart_toy_outlined,
+                          iconColor: Colors.deepPurple,
+                          title: 'AI Assistant',
+                          onTap: () => Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => const AIChatPage()),
+                          ),
+                        ),
+                        SettingsItem(
                           icon: Icons.help_outline,
                           iconColor: Colors.blue,
                           title: 'Help & Feedback',
@@ -181,6 +193,17 @@ class SettingsPage extends StatelessWidget {
                             MaterialPageRoute(
                                 builder: (context) =>
                                     const PrivacyPolicyPage()),
+                          ),
+                        ),
+                        // New In-App Purchases Entry
+                        SettingsItem(
+                          icon: Icons.shopping_cart,
+                          iconColor: Colors.blue,
+                          title: 'In-App Purchases',
+                          onTap: () => Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => const ResumeGreatVarHandler()),
                           ),
                         ),
                       ],

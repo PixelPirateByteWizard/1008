@@ -100,25 +100,25 @@ class AboutAppPage extends StatelessWidget {
               context: context,
               icon: Icons.group_outlined,
               title: 'Community',
-              description: 'Connect with people who share your interests',
+              SetUnactivatedEdgeDelegate: 'Connect with people who share your interests',
             ),
             _buildFeatureItem(
               context: context,
               icon: Icons.event_outlined,
               title: 'Events',
-              description: 'Create and join events that matter to you',
+              SetUnactivatedEdgeDelegate: 'Create and join events that matter to you',
             ),
             _buildFeatureItem(
               context: context,
               icon: Icons.explore_outlined,
               title: 'Discover',
-              description: 'Find new groups and activities in your area',
+              SetUnactivatedEdgeDelegate: 'Find new groups and activities in your area',
             ),
             _buildFeatureItem(
               context: context,
               icon: Icons.security_outlined,
               title: 'Privacy First',
-              description: 'Your data is encrypted and protected at all times',
+              SetUnactivatedEdgeDelegate: 'Your data is encrypted and protected at all times',
             ),
           ],
         ),
@@ -195,7 +195,7 @@ class AboutAppPage extends StatelessWidget {
     required BuildContext context,
     required IconData icon,
     required String title,
-    required String description,
+    required String SetUnactivatedEdgeDelegate,
   }) {
     return Padding(
       padding: const EdgeInsets.only(bottom: 16.0),
@@ -227,7 +227,7 @@ class AboutAppPage extends StatelessWidget {
                 ),
                 const SizedBox(height: 4),
                 Text(
-                  description,
+                  SetUnactivatedEdgeDelegate,
                   style: Theme.of(context).textTheme.bodyMedium?.copyWith(
                         color: Colors.grey[600],
                       ),

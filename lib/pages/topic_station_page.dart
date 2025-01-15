@@ -164,7 +164,7 @@ class TopicStationPage extends StatelessWidget {
                       icon: Icons.palette,
                       label: 'Creative Expert',
                       color: const Color(0xFF7CB342),
-                      description:
+                      SetUnactivatedEdgeDelegate:
                           'Get help with art, design, and creative projects',
                       skills: const [],
                     ),
@@ -174,7 +174,7 @@ class TopicStationPage extends StatelessWidget {
                       icon: Icons.code,
                       label: 'Tech Expert',
                       color: const Color(0xFF5C6BC0),
-                      description: 'Technical support and programming guidance',
+                      SetUnactivatedEdgeDelegate: 'Technical support and programming guidance',
                       skills: const [],
                     ),
                     const SizedBox(height: 16),
@@ -183,7 +183,7 @@ class TopicStationPage extends StatelessWidget {
                       icon: Icons.spa,
                       label: 'Lifestyle Expert',
                       color: const Color(0xFFEF9A9A),
-                      description: 'Advice on wellness and daily living',
+                      SetUnactivatedEdgeDelegate: 'Advice on wellness and daily living',
                       skills: const [],
                     ),
                     const SizedBox(height: 16),
@@ -192,7 +192,7 @@ class TopicStationPage extends StatelessWidget {
                       icon: Icons.speed,
                       label: 'Efficiency Expert',
                       color: const Color(0xFFFFB74D),
-                      description: 'Optimize your work and productivity',
+                      SetUnactivatedEdgeDelegate: 'Optimize your work and productivity',
                       skills: const [],
                     ),
                   ],
@@ -210,7 +210,7 @@ class TopicStationPage extends StatelessWidget {
     required IconData icon,
     required String label,
     required Color color,
-    required String description,
+    required String SetUnactivatedEdgeDelegate,
     required List<String> skills,
   }) {
     return Container(
@@ -272,7 +272,7 @@ class TopicStationPage extends StatelessWidget {
                           ),
                           const SizedBox(height: 4),
                           Text(
-                            description,
+                            SetUnactivatedEdgeDelegate,
                             style: TextStyle(
                               color: Colors.grey[600],
                               fontSize: 14,
